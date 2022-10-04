@@ -1,0 +1,881 @@
+Name,Invoice,Status,delivery_date,variable,value,unit_price,dollar_val
+Rise - Joliet (Colorado Ave),INV-039084,Delivered,4/8/21,LL - wholesale,140,12.0,1680.0
+Rise - Niles,INV-039085,Delivered,4/8/21,LL - wholesale,136,12.0,1632.0
+Rise - Canton,INV-039193,Delivered,4/9/21,LL - wholesale,28,12.0,336.0
+Rise - Effingham,INV-039194,Delivered,4/9/21,LL - wholesale,100,12.0,1200.0
+Rise - Joliet (Rock Creek),INV-039195,Delivered,4/9/21,LL - wholesale,48,12.0,576.0
+Rise - Naperville,INV-039196,Delivered,4/9/21,LL - wholesale,136,12.0,1632.0
+Rise - Quincy,INV-039197,Delivered,4/9/21,LL - wholesale,64,12.0,768.0
+Rise - Lake in the Hills,INV-039198,Delivered,4/9/21,LL - wholesale,124,12.0,1488.0
+Ascend - Fairview,INV-039629,Delivered,4/15/21,LL - wholesale,64,12.0,768.0
+Ascend - Springfield,INV-039696,Delivered,4/16/21,LL - wholesale,72,12.0,864.0
+Ascend - Horizon,INV-039697,Delivered,4/16/21,LL - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-039698,Delivered,4/16/21,LL - wholesale,72,12.0,864.0
+Midway - Chicago Ridge,INV-039699,Delivered,4/16/21,LL - wholesale,72,12.0,864.0
+MOCA - Logan Square,INV-039700,Delivered,4/16/21,LL - wholesale,60,12.0,720.0
+MOCA - River North,INV-039701,Delivered,4/16/21,LL - wholesale,60,12.0,720.0
+Ascend - Collinsville,INV-039837,Delivered,4/19/21,LL - wholesale,64,12.0,768.0
+Ascend - Fairview,INV-039838,Delivered,4/19/21,LL - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039839,Delivered,4/19/21,LL - wholesale,4,12.0,48.0
+Rise - Joliet (Colorado Ave),INV-039840,Delivered,4/19/21,LL - wholesale,60,12.0,720.0
+Rise - Joliet (Rock Creek),INV-039841,Delivered,4/19/21,LL - wholesale,32,12.0,384.0
+Rise - Naperville,INV-039842,Delivered,4/19/21,LL - wholesale,40,12.0,480.0
+Rise - Niles,INV-039843,Delivered,4/19/21,LL - wholesale,56,12.0,672.0
+Rise - Canton,INV-039845,Delivered,4/19/21,LL - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039846,Delivered,4/19/21,LL - wholesale,20,12.0,240.0
+Ascend - Collinsville,INV-039853,Delivered,4/19/21,LL - wholesale,64,12.0,768.0
+Ascend - Fairview,INV-039854,Delivered,4/19/21,LL - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039855,Delivered,4/19/21,LL - wholesale,4,12.0,48.0
+Rise - Joliet (Rock Creek),INV-039857,Delivered,4/19/21,LL - wholesale,32,12.0,384.0
+Rise - Naperville,INV-039858,Delivered,4/19/21,LL - wholesale,40,12.0,480.0
+Rise - Niles,INV-039859,Delivered,4/19/21,LL - wholesale,56,12.0,672.0
+Rise - Canton,INV-039861,Delivered,4/19/21,LL - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039862,Delivered,4/19/21,LL - wholesale,20,12.0,240.0
+Ascend - Collinsville,INV-039962,Delivered,4/19/21,LL - wholesale,-64,12.0,-768.0
+Ascend - Fairview,INV-039963,Delivered,4/19/21,LL - wholesale,-52,12.0,-624.0
+Rise - Effingham,INV-039964,Delivered,4/19/21,LL - wholesale,-4,12.0,-48.0
+Rise - Joliet (Rock Creek),INV-039966,Delivered,4/19/21,LL - wholesale,-32,12.0,-384.0
+Rise - Naperville,INV-039967,Delivered,4/19/21,LL - wholesale,-40,12.0,-480.0
+Rise - Niles,INV-039968,Delivered,4/19/21,LL - wholesale,-56,12.0,-672.0
+Rise - Canton,INV-039970,Delivered,4/19/21,LL - wholesale,-20,12.0,-240.0
+Rise - Quincy,INV-039971,Delivered,4/19/21,LL - wholesale,-20,12.0,-240.0
+MedMen - Oak Park,INV-039938,Delivered,4/20/21,LL - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-040012,Delivered,4/21/21,LL - wholesale,12,12.0,144.0
+Ascend - Collinsville,INV-040105,Delivered,4/22/21,LL - wholesale,168,12.0,2016.0
+Ascend - Collinsville,INV-040202,Delivered,4/23/21,LL - wholesale,168,12.0,2016.0
+Ascend - Springfield,INV-040226,Delivered,4/23/21,LL - wholesale,72,12.0,864.0
+Ascend - Collinsville,INV-040227,Delivered,4/23/21,LL - wholesale,-168,12.0,-2016.0
+Rise - Effingham,INV-040515,Delivered,4/28/21,LL - wholesale,148,12.0,1776.0
+Rise - Joliet (Colorado Ave),INV-040516,Delivered,4/28/21,LL - wholesale,172,12.0,2064.0
+Rise - Joliet (Rock Creek),INV-040517,Delivered,4/28/21,LL - wholesale,72,12.0,864.0
+Rise - Naperville,INV-040518,Delivered,4/28/21,LL - wholesale,72,12.0,864.0
+Rise - Niles,INV-040519,Delivered,4/28/21,LL - wholesale,168,12.0,2016.0
+Rise - Lake in the Hills,INV-040520,Delivered,4/28/21,LL - wholesale,160,12.0,1920.0
+MedMen - Oak Park,INV-040608,Delivered,4/29/21,LL - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-040609,Delivered,4/29/21,LL - wholesale,60,12.0,720.0
+MOCA - River North,INV-040610,Delivered,4/29/21,LL - wholesale,120,12.0,1440.0
+Rise - Canton,INV-040611,Delivered,4/29/21,LL - wholesale,80,12.0,960.0
+Ascend - Horizon,INV-040668,Delivered,4/30/21,LL - wholesale,48,12.0,576.0
+Ascend - Fairview,INV-040669,Delivered,4/30/21,LL - wholesale,12,12.0,144.0
+Rise - Joliet (Colorado Ave),INV-040962,Delivered,5/4/21,LL - wholesale,164,12.0,1968.0
+Rise - Joliet (Rock Creek),INV-040963,Delivered,5/4/21,LL - wholesale,60,12.0,720.0
+Rise - Niles,INV-040965,Delivered,5/4/21,LL - wholesale,180,12.0,2160.0
+Rise - Lake in the Hills,INV-040966,Delivered,5/4/21,LL - wholesale,184,12.0,2208.0
+Rise - Naperville,INV-040973,Delivered,5/4/21,LL - wholesale,72,12.0,864.0
+Rise - Quincy,INV-040975,Delivered,5/4/21,LL - wholesale,40,12.0,480.0
+Ascend - Springfield,INV-041189,Delivered,5/5/21,LL - wholesale,40,12.0,480.0
+Ascend - Horizon,INV-041190,Delivered,5/5/21,LL - wholesale,36,12.0,432.0
+Ascend - Collinsville,INV-041273,Delivered,5/6/21,LL - wholesale,152,12.0,1824.0
+Ascend - Fairview,INV-041274,Delivered,5/6/21,LL - wholesale,136,12.0,1632.0
+Midway - Chicago Ridge,INV-041275,Delivered,5/6/21,LL - wholesale,48,12.0,576.0
+Midway - Chicago Archer,INV-041276,Delivered,5/6/21,LL - wholesale,48,12.0,576.0
+MOCA - Logan Square,INV-041277,Delivered,5/6/21,LL - wholesale,72,12.0,864.0
+MOCA - River North,INV-041278,Delivered,5/6/21,LL - wholesale,60,12.0,720.0
+Rise - Canton,INV-041279,Delivered,5/6/21,LL - wholesale,72,12.0,864.0
+Rise - Niles,INV-041338,Delivered,5/7/21,LL - wholesale,220,12.0,2640.0
+Midway - Chicago Archer,INV-041413,Delivered,5/10/21,LL - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041414,Delivered,5/10/21,LL - wholesale,40,12.0,480.0
+MOCA - River North,INV-041415,Delivered,5/10/21,LL - wholesale,32,12.0,384.0
+MOCA - River North,INV-041646,Delivered,5/10/21,LL - wholesale,-32,12.0,-384.0
+MOCA - Logan Square,INV-041647,Delivered,5/10/21,LL - wholesale,-40,12.0,-480.0
+Midway - Chicago Archer,INV-041648,Delivered,5/10/21,LL - wholesale,-20,12.0,-240.0
+Rise - Naperville,INV-041528,Delivered,5/11/21,LL - wholesale,40,12.0,480.0
+Rise - Niles,INV-041529,Delivered,5/11/21,LL - wholesale,160,12.0,1920.0
+Rise - Lake in the Hills,INV-041530,Delivered,5/11/21,LL - wholesale,40,12.0,480.0
+Midway - Chicago Archer,INV-041640,Delivered,5/12/21,LL - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041641,Delivered,5/12/21,LL - wholesale,40,12.0,480.0
+MOCA - River North,INV-041642,Delivered,5/12/21,LL - wholesale,32,12.0,384.0
+Rise - Joliet (Colorado Ave),INV-041643,Delivered,5/12/21,LL - wholesale,144,12.0,1728.0
+Rise - Joliet (Rock Creek),INV-041644,Delivered,5/12/21,LL - wholesale,36,12.0,432.0
+Ascend - Springfield,INV-041757,Delivered,5/13/21,LL - wholesale,44,12.0,528.0
+Ascend - Collinsville,INV-041758,Delivered,5/13/21,LL - wholesale,72,12.0,864.0
+Ascend - Horizon,INV-041759,Delivered,5/13/21,LL - wholesale,36,12.0,432.0
+Ascend - Fairview,INV-041760,Delivered,5/13/21,LL - wholesale,56,12.0,672.0
+Ascend - Collinsville,INV-041849,Delivered,5/13/21,LL - wholesale,-12,12.0,-144.0
+Ascend - Springfield,INV-041850,Delivered,5/13/21,LL - wholesale,-1,12.0,-12.0
+MedMen - Oak Park,INV-041837,Delivered,5/14/21,LL - wholesale,28,12.0,336.0
+Rise - Niles,INV-041872,Delivered,5/17/21,LL - wholesale,160,12.0,1920.0
+Rise - Joliet (Colorado Ave),INV-042021,Delivered,5/18/21,LL - wholesale,84,12.0,1008.0
+Rise - Naperville,INV-042111,Delivered,5/19/21,LL - wholesale,13,12.0,156.0
+Rise - Lake in the Hills,INV-042113,Delivered,5/19/21,LL - wholesale,60,12.0,720.0
+MedMen - Oak Park,INV-042301,Delivered,5/21/21,LL - wholesale,28,12.0,336.0
+MOCA - Logan Square,INV-042302,Delivered,5/21/21,LL - wholesale,92,12.0,1104.0
+The Herbal Care Center,INV-042303,Delivered,5/21/21,LL - wholesale,36,12.0,432.0
+MedMen - Oak Park,INV-042910,Delivered,5/28/21,LL - wholesale,8,12.0,96.0
+MOCA - Logan Square,INV-042911,Delivered,5/28/21,LL - wholesale,92,12.0,1104.0
+MOCA - River North,INV-042912,Delivered,5/28/21,LL - wholesale,12,12.0,144.0
+The Herbal Care Center,INV-042913,Delivered,5/28/21,LL - wholesale,20,12.0,240.0
+Sunnyside - Schaumburg,INV-042958,Delivered,6/1/21,LL - wholesale,184,12.0,2208.0
+Curaleaf - Northbrook,INV-043213,Delivered,6/2/21,LL - wholesale,92,12.0,1104.0
+Curaleaf - Skokie,INV-043214,Delivered,6/2/21,LL - wholesale,92,12.0,1104.0
+Sunnyside - River North,INV-043351,Delivered,6/3/21,LL - wholesale,120,12.0,1440.0
+Sunnyside - Naperville,INV-043352,Delivered,6/3/21,LL - wholesale,52,12.0,624.0
+Curaleaf - Worth,INV-043353,Delivered,6/3/21,LL - wholesale,92,12.0,1104.0
+Curaleaf - Mokena,INV-043354,Delivered,6/3/21,LL - wholesale,36,12.0,432.0
+Curaleaf - Westmont,INV-043355,Delivered,6/3/21,LL - wholesale,20,12.0,240.0
+Sunnyside - Elmwood Park ,INV-043460,Delivered,6/4/21,LL - wholesale,132,12.0,1584.0
+Sunnyside - Buffalo Grove,INV-043461,Delivered,6/4/21,LL - wholesale,28,12.0,336.0
+Rise - Joliet (Colorado Ave),INV-043543,Delivered,6/5/21,LL - wholesale,36,12.0,432.0
+MOCA - Logan Square,INV-043615,Delivered,6/7/21,LL - wholesale,160,12.0,1920.0
+MOCA - River North,INV-043616,Delivered,6/7/21,LL - wholesale,40,12.0,480.0
+Rise - Niles,INV-043617,Delivered,6/7/21,LL - wholesale,200,12.0,2400.0
+Rise - Joliet (Colorado Ave),INV-043710,Delivered,6/8/21,LL - wholesale,276,12.0,3312.0
+Rise - Joliet (Rock Creek),INV-043711,Delivered,6/8/21,LL - wholesale,40,12.0,480.0
+Rise - Naperville,INV-043712,Delivered,6/8/21,LL - wholesale,60,12.0,720.0
+Rise - Joliet (Colorado Ave),INV-043787,Delivered,6/8/21,LL - wholesale,-276,12.0,-3312.0
+Rise - Joliet (Rock Creek),INV-043788,Delivered,6/8/21,LL - wholesale,-40,12.0,-480.0
+Rise - Naperville,INV-043789,Delivered,6/8/21,LL - wholesale,-60,12.0,-720.0
+Ascend - Horizon,INV-043795,Delivered,6/8/21,LL - wholesale,28,12.0,336.0
+Rise - Lake in the Hills,INV-043820,Delivered,6/9/21,LL - wholesale,332,12.0,3984.0
+Rise - Lake in the Hills,INV-043939,Delivered,6/10/21,LL - wholesale,332,12.0,3984.0
+Rise - Joliet (Colorado Ave),INV-043962,Delivered,6/10/21,LL - wholesale,276,12.0,3312.0
+Rise - Joliet (Rock Creek),INV-043963,Delivered,6/10/21,LL - wholesale,40,12.0,480.0
+Rise - Naperville,INV-043964,Delivered,6/10/21,LL - wholesale,60,12.0,720.0
+Rise - Effingham,INV-043965,Delivered,6/10/21,LL - wholesale,100,12.0,1200.0
+Rise - Lake in the Hills,INV-044253,Delivered,6/10/21,LL - wholesale,-332,12.0,-3984.0
+MedMen - Oak Park,INV-046343,Delivered,6/10/21,LL - wholesale,28,12.0,336.0
+Rise - Joliet (Colorado Ave),INV-044026,Delivered,6/11/21,LL - wholesale,276,12.0,3312.0
+Rise - Joliet (Rock Creek),INV-044027,Delivered,6/11/21,LL - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-044038,Delivered,6/11/21,LL - wholesale,-276,12.0,-3312.0
+Rise - Joliet (Rock Creek),INV-044039,Delivered,6/11/21,LL - wholesale,-40,12.0,-480.0
+MOCA - River North,INV-044070,Delivered,6/11/21,LL - wholesale,60,12.0,720.0
+MOCA - Logan Square,INV-044071,Delivered,6/11/21,LL - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-044072,Delivered,6/11/21,LL - wholesale,48,12.0,576.0
+Midway - Chicago Ridge,INV-044073,Delivered,6/11/21,LL - wholesale,48,12.0,576.0
+The Herbal Care Center,INV-044074,Delivered,6/11/21,LL - wholesale,32,12.0,384.0
+MOCA - River North,INV-044133,Delivered,6/11/21,LL - wholesale,-32,12.0,-384.0
+Curaleaf - Northbrook,INV-044171,Delivered,6/14/21,LL - wholesale,80,12.0,960.0
+Dispensary 33 - W Randolph,INV-044172,Delivered,6/14/21,LL - wholesale,32,12.0,384.0
+Dispensary 33 - N Clark,INV-044173,Delivered,6/14/21,LL - wholesale,12,12.0,144.0
+Dispensary 33 - N Clark,INV-044174,Delivered,6/14/21,LL - wholesale,12,12.0,144.0
+Nature's Care - West Loop,INV-044175,Delivered,6/14/21,LL - wholesale,12,12.0,144.0
+Ascend - Fairview,INV-044333,Delivered,6/15/21,LL - wholesale,68,12.0,816.0
+Rise - Lake in the Hills,INV-044336,Delivered,6/15/21,LL - wholesale,76,12.0,912.0
+Rise - Niles,INV-044337,Delivered,6/15/21,LL - wholesale,172,12.0,2064.0
+Rise - Naperville,INV-044423,Delivered,6/15/21,LL - wholesale,-36,12.0,-432.0
+Nature's Care - West Loop,INV-044408,Delivered,6/16/21,LL - wholesale,12,12.0,144.0
+Curaleaf - Worth,INV-044409,Delivered,6/16/21,LL - wholesale,60,12.0,720.0
+Curaleaf - Mokena,INV-044410,Delivered,6/16/21,LL - wholesale,40,12.0,480.0
+Curaleaf - Westmont,INV-044411,Delivered,6/16/21,LL - wholesale,28,12.0,336.0
+Enlightened - Schaumburg,INV-044413,Delivered,6/16/21,LL - wholesale,40,12.0,480.0
+Midway - Chicago Archer,INV-044415,Delivered,6/16/21,LL - wholesale,80,12.0,960.0
+MOCA - River North,INV-044416,Delivered,6/16/21,LL - wholesale,80,12.0,960.0
+MOCA - Logan Square,INV-044417,Delivered,6/16/21,LL - wholesale,160,12.0,1920.0
+Rise - Joliet (Colorado Ave),INV-044418,Delivered,6/16/21,LL - wholesale,96,12.0,1152.0
+Rise - Naperville,INV-044419,Delivered,6/16/21,LL - wholesale,36,12.0,432.0
+Rise - Naperville,INV-044420,Delivered,6/16/21,LL - wholesale,36,12.0,432.0
+Sunnyside - Lakeview,INV-044422,Delivered,6/16/21,LL - wholesale,24,12.0,288.0
+MOCA - Logan Square,INV-044483,Delivered,6/16/21,LL - wholesale,-4,12.0,-48.0
+Windy City - Carpentersville,INV-044526,Delivered,6/17/21,LL - wholesale,72,12.0,864.0
+Windy City - Posen,INV-044527,Delivered,6/17/21,LL - wholesale,64,12.0,768.0
+Windy City - Homewood,INV-044528,Delivered,6/17/21,LL - wholesale,64,12.0,768.0
+Consume - Carbondale,INV-044529,Delivered,6/17/21,LL - wholesale,40,12.0,480.0
+Consume - Marion ,INV-044530,Delivered,6/17/21,LL - wholesale,32,12.0,384.0
+Consume - Marion ,INV-044531,Delivered,6/17/21,LL - wholesale,20,12.0,240.0
+The Herbal Care Center,INV-044532,Delivered,6/17/21,LL - wholesale,32,12.0,384.0
+Consume - Oak Brook Terrace,INV-044535,Delivered,6/17/21,LL - wholesale,40,12.0,480.0
+EarthMed - Addison,INV-044589,Delivered,6/18/21,LL - wholesale,16,12.0,192.0
+Curaleaf - Skokie,INV-044591,Delivered,6/18/21,LL - wholesale,132,12.0,1584.0
+Consume - Chicago,INV-044592,Delivered,6/18/21,LL - wholesale,20,12.0,240.0
+Consume - Chicago,INV-044593,Delivered,6/18/21,LL - wholesale,20,12.0,240.0
+Sunnyside - South Beloit,INV-044705,Delivered,6/21/21,LL - wholesale,88,12.0,1056.0
+Sunnyside - Rockford,INV-044706,Delivered,6/21/21,LL - wholesale,48,12.0,576.0
+Rise - Joliet (Rock Creek),INV-044709,Delivered,6/21/21,LL - wholesale,56,12.0,672.0
+Rise - Joliet (Colorado Ave),INV-044710,Delivered,6/21/21,LL - wholesale,80,12.0,960.0
+Rise - Naperville,INV-044711,Delivered,6/21/21,LL - wholesale,36,12.0,432.0
+Rise - Lake in the Hills,INV-044712,Delivered,6/21/21,LL - wholesale,108,12.0,1296.0
+Rise - Niles,INV-044713,Delivered,6/21/21,LL - wholesale,192,12.0,2304.0
+Sunnyside - Champaign,INV-044821,Delivered,6/22/21,LL - wholesale,16,12.0,192.0
+Nature's Care - West Loop,INV-044823,Delivered,6/22/21,LL - wholesale,24,12.0,288.0
+Curaleaf - Melrose Park,INV-044824,Delivered,6/22/21,LL - wholesale,36,12.0,432.0
+Curaleaf - Weed Street,INV-044825,Delivered,6/22/21,LL - wholesale,20,12.0,240.0
+Rise - Effingham,INV-044828,Delivered,6/22/21,LL - wholesale,72,12.0,864.0
+Ascend - Springfield,INV-044829,Delivered,6/22/21,LL - wholesale,48,12.0,576.0
+Ascend - Horizon,INV-044830,Delivered,6/22/21,LL - wholesale,16,12.0,192.0
+Mission - South Chicago,INV-044832,Delivered,6/22/21,LL - wholesale,100,12.0,1200.0
+Mission - Calumet City,INV-044833,Delivered,6/22/21,LL - wholesale,100,12.0,1200.0
+Sunnyside - Danville,INV-045049,Delivered,6/23/21,LL - wholesale,64,12.0,768.0
+Curaleaf - Deerfield,INV-045051,Delivered,6/23/21,LL - wholesale,36,12.0,432.0
+Rise - Canton,INV-045053,Delivered,6/23/21,LL - wholesale,40,12.0,480.0
+Rise - Quincy,INV-045054,Delivered,6/23/21,LL - wholesale,24,12.0,288.0
+Ascend - Fairview,INV-045055,Delivered,6/23/21,LL - wholesale,56,12.0,672.0
+Ascend - Collinsville,INV-045056,Delivered,6/23/21,LL - wholesale,52,12.0,624.0
+Nature's Care - Rolling Meadows,INV-045057,Delivered,6/23/21,LL - wholesale,44,12.0,528.0
+Curaleaf - Justice,INV-045146,Delivered,6/24/21,LL - wholesale,92,12.0,1104.0
+Zen Leaf - Highland Park,INV-045148,Delivered,6/24/21,LL - wholesale,28,12.0,336.0
+Curaleaf - Morris,INV-045252,Delivered,6/25/21,LL - wholesale,92,12.0,1104.0
+Zen Leaf - Prospect Heights,INV-045254,Delivered,6/25/21,LL - wholesale,36,12.0,432.0
+Curaleaf - Northbrook,INV-045405,Delivered,6/28/21,LL - wholesale,168,12.0,2016.0
+Rise - Joliet (Colorado Ave),INV-045415,Delivered,6/28/21,LL - wholesale,128,12.0,1536.0
+Rise - Niles,INV-045416,Delivered,6/28/21,LL - wholesale,156,12.0,1872.0
+The Herbal Care Center,INV-045417,Delivered,6/28/21,LL - wholesale,28,12.0,336.0
+MedMen - Oak Park,INV-045418,Delivered,6/28/21,LL - wholesale,28,12.0,336.0
+Curaleaf - Northbrook,INV-045475,Delivered,6/28/21,LL - wholesale,-20,12.0,-240.0
+Curaleaf - Skokie,INV-045491,Delivered,6/29/21,LL - wholesale,28,12.0,336.0
+Curaleaf - Mokena,INV-045492,Delivered,6/29/21,LL - wholesale,76,12.0,912.0
+Curaleaf - Westmont,INV-045493,Delivered,6/29/21,LL - wholesale,24,12.0,288.0
+EarthMed - Rosemont ,INV-045494,Delivered,6/29/21,LL - wholesale,8,12.0,96.0
+Zen Leaf - Evanston,INV-045497,Delivered,6/29/21,LL - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045498,Delivered,6/29/21,LL - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045499,Delivered,6/29/21,LL - wholesale,8,12.0,96.0
+Zen Leaf - Lombard,INV-045500,Delivered,6/29/21,LL - wholesale,28,12.0,336.0
+Windy City - Litchfield,INV-045501,Delivered,6/29/21,LL - wholesale,16,12.0,192.0
+Windy City - Litchfield,INV-045502,Delivered,6/29/21,LL - wholesale,16,12.0,192.0
+Windy City - Highwood,INV-045503,Delivered,6/29/21,LL - wholesale,72,12.0,864.0
+Rise - Lake in the Hills,INV-045509,Delivered,6/29/21,LL - wholesale,88,12.0,1056.0
+Curaleaf - Worth,INV-045589,Delivered,6/30/21,LL - wholesale,120,12.0,1440.0
+Windy City - Macomb,INV-045593,Delivered,6/30/21,LL - wholesale,72,12.0,864.0
+Rise - Effingham,INV-045602,Delivered,6/30/21,LL - wholesale,48,12.0,576.0
+Rise - Naperville,INV-045603,Delivered,6/30/21,LL - wholesale,36,12.0,432.0
+Nature's Care - West Loop,INV-045604,Delivered,6/30/21,LL - wholesale,24,12.0,288.0
+Sunnyside - Naperville,INV-045605,Delivered,6/30/21,LL - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-039084,Delivered,4/8/21,BOC - wholesale,132,12.0,1584.0
+Rise - Niles,INV-039085,Delivered,4/8/21,BOC - wholesale,128,12.0,1536.0
+Rise - Canton,INV-039193,Delivered,4/9/21,BOC - wholesale,28,12.0,336.0
+Rise - Effingham,INV-039194,Delivered,4/9/21,BOC - wholesale,92,12.0,1104.0
+Rise - Joliet (Rock Creek),INV-039195,Delivered,4/9/21,BOC - wholesale,44,12.0,528.0
+Rise - Naperville,INV-039196,Delivered,4/9/21,BOC - wholesale,128,12.0,1536.0
+Rise - Quincy,INV-039197,Delivered,4/9/21,BOC - wholesale,60,12.0,720.0
+Rise - Lake in the Hills,INV-039198,Delivered,4/9/21,BOC - wholesale,116,12.0,1392.0
+Rise - Quincy,INV-039230,Delivered,4/9/21,BOC - wholesale,1,12.0,12.0
+Rise - Quincy,INV-039679,Delivered,4/9/21,BOC - wholesale,-1,12.0,-12.0
+Ascend - Fairview,INV-039629,Delivered,4/15/21,BOC - wholesale,64,12.0,768.0
+Ascend - Collinsville,INV-039630,Delivered,4/15/21,BOC - wholesale,64,12.0,768.0
+Ascend - Springfield,INV-039696,Delivered,4/16/21,BOC - wholesale,72,12.0,864.0
+Ascend - Horizon,INV-039697,Delivered,4/16/21,BOC - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-039698,Delivered,4/16/21,BOC - wholesale,72,12.0,864.0
+Midway - Chicago Ridge,INV-039699,Delivered,4/16/21,BOC - wholesale,72,12.0,864.0
+MOCA - Logan Square,INV-039700,Delivered,4/16/21,BOC - wholesale,60,12.0,720.0
+MOCA - River North,INV-039701,Delivered,4/16/21,BOC - wholesale,60,12.0,720.0
+Ascend - Fairview,INV-039838,Delivered,4/19/21,BOC - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039839,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Joliet (Colorado Ave),INV-039840,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Joliet (Rock Creek),INV-039841,Delivered,4/19/21,BOC - wholesale,40,12.0,480.0
+Rise - Naperville,INV-039842,Delivered,4/19/21,BOC - wholesale,52,12.0,624.0
+Rise - Niles,INV-039843,Delivered,4/19/21,BOC - wholesale,56,12.0,672.0
+Rise - Lake in the Hills,INV-039844,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Canton,INV-039845,Delivered,4/19/21,BOC - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039846,Delivered,4/19/21,BOC - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-039854,Delivered,4/19/21,BOC - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039855,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Joliet (Colorado Ave),INV-039856,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Joliet (Rock Creek),INV-039857,Delivered,4/19/21,BOC - wholesale,40,12.0,480.0
+Rise - Naperville,INV-039858,Delivered,4/19/21,BOC - wholesale,52,12.0,624.0
+Rise - Niles,INV-039859,Delivered,4/19/21,BOC - wholesale,56,12.0,672.0
+Rise - Lake in the Hills,INV-039860,Delivered,4/19/21,BOC - wholesale,60,12.0,720.0
+Rise - Canton,INV-039861,Delivered,4/19/21,BOC - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039862,Delivered,4/19/21,BOC - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-039963,Delivered,4/19/21,BOC - wholesale,-52,12.0,-624.0
+Rise - Effingham,INV-039964,Delivered,4/19/21,BOC - wholesale,-60,12.0,-720.0
+Rise - Joliet (Colorado Ave),INV-039965,Delivered,4/19/21,BOC - wholesale,-60,12.0,-720.0
+Rise - Joliet (Rock Creek),INV-039966,Delivered,4/19/21,BOC - wholesale,-40,12.0,-480.0
+Rise - Naperville,INV-039967,Delivered,4/19/21,BOC - wholesale,-52,12.0,-624.0
+Rise - Niles,INV-039968,Delivered,4/19/21,BOC - wholesale,-56,12.0,-672.0
+Rise - Lake in the Hills,INV-039969,Delivered,4/19/21,BOC - wholesale,-60,12.0,-720.0
+Rise - Canton,INV-039970,Delivered,4/19/21,BOC - wholesale,-20,12.0,-240.0
+Rise - Quincy,INV-039971,Delivered,4/19/21,BOC - wholesale,-20,12.0,-240.0
+MedMen - Oak Park,INV-039938,Delivered,4/20/21,BOC - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-040012,Delivered,4/21/21,BOC - wholesale,52,12.0,624.0
+Ascend - Collinsville,INV-040105,Delivered,4/22/21,BOC - wholesale,60,12.0,720.0
+Ascend - Collinsville,INV-040202,Delivered,4/23/21,BOC - wholesale,60,12.0,720.0
+Ascend - Springfield,INV-040226,Delivered,4/23/21,BOC - wholesale,72,12.0,864.0
+Ascend - Collinsville,INV-040227,Delivered,4/23/21,BOC - wholesale,-60,12.0,-720.0
+Rise - Effingham,INV-040515,Delivered,4/28/21,BOC - wholesale,168,12.0,2016.0
+Rise - Joliet (Colorado Ave),INV-040516,Delivered,4/28/21,BOC - wholesale,172,12.0,2064.0
+Rise - Joliet (Rock Creek),INV-040517,Delivered,4/28/21,BOC - wholesale,72,12.0,864.0
+Rise - Naperville,INV-040518,Delivered,4/28/21,BOC - wholesale,72,12.0,864.0
+Rise - Niles,INV-040519,Delivered,4/28/21,BOC - wholesale,168,12.0,2016.0
+Rise - Lake in the Hills,INV-040520,Delivered,4/28/21,BOC - wholesale,143,12.0,1716.0
+MedMen - Oak Park,INV-040608,Delivered,4/29/21,BOC - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-040609,Delivered,4/29/21,BOC - wholesale,60,12.0,720.0
+MOCA - River North,INV-040610,Delivered,4/29/21,BOC - wholesale,120,12.0,1440.0
+Rise - Canton,INV-040611,Delivered,4/29/21,BOC - wholesale,40,12.0,480.0
+Ascend - Collinsville,INV-040666,Delivered,4/30/21,BOC - wholesale,116,12.0,1392.0
+Ascend - Collinsville,INV-040667,Delivered,4/30/21,BOC - wholesale,116,12.0,1392.0
+Ascend - Horizon,INV-040668,Delivered,4/30/21,BOC - wholesale,72,12.0,864.0
+Ascend - Fairview,INV-040669,Delivered,4/30/21,BOC - wholesale,56,12.0,672.0
+MOCA - Logan Square,INV-040670,Delivered,4/30/21,BOC - wholesale,60,12.0,720.0
+MOCA - Logan Square,INV-040671,Delivered,4/30/21,BOC - wholesale,-60,12.0,-720.0
+Ascend - Collinsville,INV-040673,Delivered,4/30/21,BOC - wholesale,-116,12.0,-1392.0
+Rise - Joliet (Colorado Ave),INV-040971,Delivered,5/4/21,BOC - wholesale,160,12.0,1920.0
+Rise - Joliet (Rock Creek),INV-040972,Delivered,5/4/21,BOC - wholesale,64,12.0,768.0
+Rise - Naperville,INV-040973,Delivered,5/4/21,BOC - wholesale,72,12.0,864.0
+Rise - Niles,INV-040974,Delivered,5/4/21,BOC - wholesale,180,12.0,2160.0
+Rise - Quincy,INV-040975,Delivered,5/4/21,BOC - wholesale,40,12.0,480.0
+Rise - Lake in the Hills,INV-040976,Delivered,5/4/21,BOC - wholesale,160,12.0,1920.0
+Ascend - Springfield,INV-041189,Delivered,5/5/21,BOC - wholesale,40,12.0,480.0
+Ascend - Horizon,INV-041190,Delivered,5/5/21,BOC - wholesale,36,12.0,432.0
+Ascend - Collinsville,INV-041273,Delivered,5/6/21,BOC - wholesale,148,12.0,1776.0
+Ascend - Fairview,INV-041274,Delivered,5/6/21,BOC - wholesale,136,12.0,1632.0
+Midway - Chicago Ridge,INV-041275,Delivered,5/6/21,BOC - wholesale,48,12.0,576.0
+Midway - Chicago Archer,INV-041276,Delivered,5/6/21,BOC - wholesale,48,12.0,576.0
+MOCA - Logan Square,INV-041277,Delivered,5/6/21,BOC - wholesale,72,12.0,864.0
+MOCA - River North,INV-041278,Delivered,5/6/21,BOC - wholesale,60,12.0,720.0
+Rise - Canton,INV-041279,Delivered,5/6/21,BOC - wholesale,40,12.0,480.0
+Rise - Niles,INV-041338,Delivered,5/7/21,BOC - wholesale,188,12.0,2256.0
+Midway - Chicago Archer,INV-041413,Delivered,5/10/21,BOC - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041414,Delivered,5/10/21,BOC - wholesale,40,12.0,480.0
+MOCA - River North,INV-041415,Delivered,5/10/21,BOC - wholesale,32,12.0,384.0
+MOCA - River North,INV-041646,Delivered,5/10/21,BOC - wholesale,-32,12.0,-384.0
+MOCA - Logan Square,INV-041647,Delivered,5/10/21,BOC - wholesale,-40,12.0,-480.0
+Midway - Chicago Archer,INV-041648,Delivered,5/10/21,BOC - wholesale,-20,12.0,-240.0
+Rise - Naperville,INV-041528,Delivered,5/11/21,BOC - wholesale,40,12.0,480.0
+Rise - Niles,INV-041529,Delivered,5/11/21,BOC - wholesale,200,12.0,2400.0
+Rise - Lake in the Hills,INV-041530,Delivered,5/11/21,BOC - wholesale,160,12.0,1920.0
+Midway - Chicago Archer,INV-041640,Delivered,5/12/21,BOC - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041641,Delivered,5/12/21,BOC - wholesale,40,12.0,480.0
+MOCA - River North,INV-041642,Delivered,5/12/21,BOC - wholesale,32,12.0,384.0
+Rise - Joliet (Colorado Ave),INV-041643,Delivered,5/12/21,BOC - wholesale,136,12.0,1632.0
+Rise - Joliet (Rock Creek),INV-041644,Delivered,5/12/21,BOC - wholesale,44,12.0,528.0
+Ascend - Springfield,INV-041757,Delivered,5/13/21,BOC - wholesale,44,12.0,528.0
+Ascend - Collinsville,INV-041758,Delivered,5/13/21,BOC - wholesale,56,12.0,672.0
+Ascend - Horizon,INV-041759,Delivered,5/13/21,BOC - wholesale,40,12.0,480.0
+Ascend - Fairview,INV-041760,Delivered,5/13/21,BOC - wholesale,60,12.0,720.0
+Rise - Canton,INV-041761,Delivered,5/13/21,BOC - wholesale,32,12.0,384.0
+MedMen - Oak Park,INV-041837,Delivered,5/14/21,BOC - wholesale,28,12.0,336.0
+Rise - Niles,INV-041872,Delivered,5/17/21,BOC - wholesale,280,12.0,3360.0
+Rise - Lake in the Hills,INV-041873,Delivered,5/17/21,BOC - wholesale,90,12.0,1080.0
+Rise - Joliet (Colorado Ave),INV-042021,Delivered,5/18/21,BOC - wholesale,160,12.0,1920.0
+Rise - Naperville,INV-042111,Delivered,5/19/21,BOC - wholesale,10,12.0,120.0
+Rise - Niles,INV-042112,Delivered,5/19/21,BOC - wholesale,55,12.0,660.0
+Rise - Quincy,INV-042186,Delivered,5/20/21,BOC - wholesale,72,12.0,864.0
+MedMen - Oak Park,INV-042301,Delivered,5/21/21,BOC - wholesale,28,12.0,336.0
+MOCA - Logan Square,INV-042302,Delivered,5/21/21,BOC - wholesale,92,12.0,1104.0
+The Herbal Care Center,INV-042303,Delivered,5/21/21,BOC - wholesale,36,12.0,432.0
+MedMen - Oak Park,INV-042910,Delivered,5/28/21,BOC - wholesale,12,12.0,144.0
+MOCA - Logan Square,INV-042911,Delivered,5/28/21,BOC - wholesale,92,12.0,1104.0
+MOCA - River North,INV-042912,Delivered,5/28/21,BOC - wholesale,12,12.0,144.0
+The Herbal Care Center,INV-042913,Delivered,5/28/21,BOC - wholesale,20,12.0,240.0
+Sunnyside - Schaumburg,INV-042958,Delivered,6/1/21,BOC - wholesale,184,12.0,2208.0
+Rise - Quincy,INV-043880,Delivered,6/1/21,BOC - wholesale,-72,12.0,-864.0
+Curaleaf - Northbrook,INV-043213,Delivered,6/2/21,BOC - wholesale,92,12.0,1104.0
+Curaleaf - Skokie,INV-043214,Delivered,6/2/21,BOC - wholesale,92,12.0,1104.0
+Sunnyside - River North,INV-043351,Delivered,6/3/21,BOC - wholesale,120,12.0,1440.0
+Sunnyside - Naperville,INV-043352,Delivered,6/3/21,BOC - wholesale,52,12.0,624.0
+Curaleaf - Worth,INV-043353,Delivered,6/3/21,BOC - wholesale,92,12.0,1104.0
+Curaleaf - Mokena,INV-043354,Delivered,6/3/21,BOC - wholesale,36,12.0,432.0
+Curaleaf - Westmont,INV-043355,Delivered,6/3/21,BOC - wholesale,20,12.0,240.0
+Sunnyside - Elmwood Park ,INV-043460,Delivered,6/4/21,BOC - wholesale,132,12.0,1584.0
+Sunnyside - Buffalo Grove,INV-043461,Delivered,6/4/21,BOC - wholesale,28,12.0,336.0
+MOCA - Logan Square,INV-043615,Delivered,6/7/21,BOC - wholesale,160,12.0,1920.0
+MOCA - River North,INV-043616,Delivered,6/7/21,BOC - wholesale,40,12.0,480.0
+Rise - Niles,INV-043617,Delivered,6/7/21,BOC - wholesale,92,12.0,1104.0
+Rise - Joliet (Colorado Ave),INV-043710,Delivered,6/8/21,BOC - wholesale,140,12.0,1680.0
+Rise - Joliet (Rock Creek),INV-043711,Delivered,6/8/21,BOC - wholesale,72,12.0,864.0
+Rise - Naperville,INV-043712,Delivered,6/8/21,BOC - wholesale,60,12.0,720.0
+Rise - Joliet (Colorado Ave),INV-043787,Delivered,6/8/21,BOC - wholesale,-140,12.0,-1680.0
+Rise - Joliet (Rock Creek),INV-043788,Delivered,6/8/21,BOC - wholesale,-72,12.0,-864.0
+Rise - Naperville,INV-043789,Delivered,6/8/21,BOC - wholesale,-60,12.0,-720.0
+Rise - Canton,INV-043793,Delivered,6/8/21,BOC - wholesale,24,12.0,288.0
+Ascend - Fairview,INV-043794,Delivered,6/8/21,BOC - wholesale,28,12.0,336.0
+Rise - Niles,INV-043800,Delivered,6/8/21,BOC - wholesale,165,12.0,1980.0
+Rise - Lake in the Hills,INV-043820,Delivered,6/9/21,BOC - wholesale,172,12.0,2064.0
+Rise - Quincy,INV-043821,Delivered,6/9/21,BOC - wholesale,48,12.0,576.0
+Rise - Lake in the Hills,INV-043939,Delivered,6/10/21,BOC - wholesale,172,12.0,2064.0
+Rise - Quincy,INV-043940,Delivered,6/10/21,BOC - wholesale,48,12.0,576.0
+Rise - Joliet (Colorado Ave),INV-043962,Delivered,6/10/21,BOC - wholesale,140,12.0,1680.0
+Rise - Joliet (Rock Creek),INV-043963,Delivered,6/10/21,BOC - wholesale,72,12.0,864.0
+Rise - Naperville,INV-043964,Delivered,6/10/21,BOC - wholesale,60,12.0,720.0
+Rise - Effingham,INV-043965,Delivered,6/10/21,BOC - wholesale,112,12.0,1344.0
+Rise - Quincy,INV-044251,Delivered,6/10/21,BOC - wholesale,-48,12.0,-576.0
+Rise - Lake in the Hills,INV-044253,Delivered,6/10/21,BOC - wholesale,-172,12.0,-2064.0
+MedMen - Oak Park,INV-046343,Delivered,6/10/21,BOC - wholesale,28,12.0,336.0
+Rise - Joliet (Colorado Ave),INV-044026,Delivered,6/11/21,BOC - wholesale,140,12.0,1680.0
+Rise - Joliet (Rock Creek),INV-044027,Delivered,6/11/21,BOC - wholesale,72,12.0,864.0
+Rise - Joliet (Colorado Ave),INV-044038,Delivered,6/11/21,BOC - wholesale,-140,12.0,-1680.0
+Rise - Joliet (Rock Creek),INV-044039,Delivered,6/11/21,BOC - wholesale,-72,12.0,-864.0
+MOCA - River North,INV-044070,Delivered,6/11/21,BOC - wholesale,60,12.0,720.0
+MOCA - Logan Square,INV-044071,Delivered,6/11/21,BOC - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-044072,Delivered,6/11/21,BOC - wholesale,48,12.0,576.0
+Midway - Chicago Ridge,INV-044073,Delivered,6/11/21,BOC - wholesale,48,12.0,576.0
+The Herbal Care Center,INV-044074,Delivered,6/11/21,BOC - wholesale,32,12.0,384.0
+MOCA - Logan Square,INV-044131,Delivered,6/11/21,BOC - wholesale,-16,12.0,-192.0
+Curaleaf - Northbrook,INV-044171,Delivered,6/14/21,BOC - wholesale,74,12.0,888.0
+Dispensary 33 - W Randolph,INV-044172,Delivered,6/14/21,BOC - wholesale,32,12.0,384.0
+Dispensary 33 - N Clark,INV-044173,Delivered,6/14/21,BOC - wholesale,12,12.0,144.0
+Dispensary 33 - N Clark,INV-044174,Delivered,6/14/21,BOC - wholesale,12,12.0,144.0
+Nature's Care - West Loop,INV-044175,Delivered,6/14/21,BOC - wholesale,12,12.0,144.0
+Ascend - Fairview,INV-044333,Delivered,6/15/21,BOC - wholesale,44,12.0,528.0
+Rise - Lake in the Hills,INV-044336,Delivered,6/15/21,BOC - wholesale,100,12.0,1200.0
+Rise - Niles,INV-044337,Delivered,6/15/21,BOC - wholesale,180,12.0,2160.0
+Rise - Naperville,INV-044423,Delivered,6/15/21,BOC - wholesale,-36,12.0,-432.0
+Nature's Care - West Loop,INV-044408,Delivered,6/16/21,BOC - wholesale,12,12.0,144.0
+Curaleaf - Worth,INV-044409,Delivered,6/16/21,BOC - wholesale,60,12.0,720.0
+Curaleaf - Mokena,INV-044410,Delivered,6/16/21,BOC - wholesale,40,12.0,480.0
+Curaleaf - Westmont,INV-044411,Delivered,6/16/21,BOC - wholesale,28,12.0,336.0
+Enlightened - Schaumburg,INV-044413,Delivered,6/16/21,BOC - wholesale,40,12.0,480.0
+Midway - Chicago Archer,INV-044415,Delivered,6/16/21,BOC - wholesale,80,12.0,960.0
+MOCA - River North,INV-044416,Delivered,6/16/21,BOC - wholesale,80,12.0,960.0
+MOCA - Logan Square,INV-044417,Delivered,6/16/21,BOC - wholesale,160,12.0,1920.0
+Rise - Joliet (Colorado Ave),INV-044418,Delivered,6/16/21,BOC - wholesale,96,12.0,1152.0
+Rise - Naperville,INV-044419,Delivered,6/16/21,BOC - wholesale,36,12.0,432.0
+Rise - Naperville,INV-044420,Delivered,6/16/21,BOC - wholesale,36,12.0,432.0
+Sunnyside - Lakeview,INV-044422,Delivered,6/16/21,BOC - wholesale,24,12.0,288.0
+Windy City - Carpentersville,INV-044526,Delivered,6/17/21,BOC - wholesale,72,12.0,864.0
+Windy City - Posen,INV-044527,Delivered,6/17/21,BOC - wholesale,64,12.0,768.0
+Windy City - Homewood,INV-044528,Delivered,6/17/21,BOC - wholesale,64,12.0,768.0
+Consume - Carbondale,INV-044529,Delivered,6/17/21,BOC - wholesale,40,12.0,480.0
+Consume - Marion ,INV-044530,Delivered,6/17/21,BOC - wholesale,32,12.0,384.0
+Consume - Marion ,INV-044531,Delivered,6/17/21,BOC - wholesale,20,12.0,240.0
+The Herbal Care Center,INV-044532,Delivered,6/17/21,BOC - wholesale,20,12.0,240.0
+Consume - Oak Brook Terrace,INV-044535,Delivered,6/17/21,BOC - wholesale,40,12.0,480.0
+EarthMed - Addison,INV-044589,Delivered,6/18/21,BOC - wholesale,16,12.0,192.0
+Curaleaf - Skokie,INV-044591,Delivered,6/18/21,BOC - wholesale,132,12.0,1584.0
+Consume - Chicago,INV-044592,Delivered,6/18/21,BOC - wholesale,20,12.0,240.0
+Consume - Chicago,INV-044593,Delivered,6/18/21,BOC - wholesale,20,12.0,240.0
+Sunnyside - South Beloit,INV-044705,Delivered,6/21/21,BOC - wholesale,88,12.0,1056.0
+Sunnyside - Rockford,INV-044706,Delivered,6/21/21,BOC - wholesale,48,12.0,576.0
+Rise - Joliet (Rock Creek),INV-044709,Delivered,6/21/21,BOC - wholesale,64,12.0,768.0
+Rise - Joliet (Colorado Ave),INV-044710,Delivered,6/21/21,BOC - wholesale,104,12.0,1248.0
+Rise - Naperville,INV-044711,Delivered,6/21/21,BOC - wholesale,36,12.0,432.0
+Rise - Lake in the Hills,INV-044712,Delivered,6/21/21,BOC - wholesale,240,12.0,2880.0
+Rise - Niles,INV-044713,Delivered,6/21/21,BOC - wholesale,184,12.0,2208.0
+Sunnyside - Champaign,INV-044821,Delivered,6/22/21,BOC - wholesale,16,12.0,192.0
+Nature's Care - West Loop,INV-044823,Delivered,6/22/21,BOC - wholesale,24,12.0,288.0
+Curaleaf - Melrose Park,INV-044824,Delivered,6/22/21,BOC - wholesale,36,12.0,432.0
+Curaleaf - Weed Street,INV-044825,Delivered,6/22/21,BOC - wholesale,20,12.0,240.0
+Rise - Effingham,INV-044828,Delivered,6/22/21,BOC - wholesale,80,12.0,960.0
+Mission - South Chicago,INV-044832,Delivered,6/22/21,BOC - wholesale,100,12.0,1200.0
+Mission - Calumet City,INV-044833,Delivered,6/22/21,BOC - wholesale,100,12.0,1200.0
+Sunnyside - Danville,INV-045049,Delivered,6/23/21,BOC - wholesale,64,12.0,768.0
+Curaleaf - Deerfield,INV-045051,Delivered,6/23/21,BOC - wholesale,36,12.0,432.0
+Rise - Canton,INV-045053,Delivered,6/23/21,BOC - wholesale,40,12.0,480.0
+Rise - Quincy,INV-045054,Delivered,6/23/21,BOC - wholesale,24,12.0,288.0
+Ascend - Fairview,INV-045055,Delivered,6/23/21,BOC - wholesale,76,12.0,912.0
+Nature's Care - Rolling Meadows,INV-045057,Delivered,6/23/21,BOC - wholesale,44,12.0,528.0
+Curaleaf - Justice,INV-045146,Delivered,6/24/21,BOC - wholesale,92,12.0,1104.0
+Zen Leaf - Highland Park,INV-045148,Delivered,6/24/21,BOC - wholesale,28,12.0,336.0
+Curaleaf - Morris,INV-045252,Delivered,6/25/21,BOC - wholesale,92,12.0,1104.0
+Zen Leaf - Prospect Heights,INV-045254,Delivered,6/25/21,BOC - wholesale,36,12.0,432.0
+Curaleaf - Northbrook,INV-045405,Delivered,6/28/21,BOC - wholesale,152,12.0,1824.0
+Rise - Joliet (Colorado Ave),INV-045415,Delivered,6/28/21,BOC - wholesale,132,12.0,1584.0
+Rise - Niles,INV-045416,Delivered,6/28/21,BOC - wholesale,128,12.0,1536.0
+The Herbal Care Center,INV-045417,Delivered,6/28/21,BOC - wholesale,28,12.0,336.0
+MedMen - Oak Park,INV-045418,Delivered,6/28/21,BOC - wholesale,28,12.0,336.0
+Curaleaf - Skokie,INV-045491,Delivered,6/29/21,BOC - wholesale,84,12.0,1008.0
+Curaleaf - Mokena,INV-045492,Delivered,6/29/21,BOC - wholesale,56,12.0,672.0
+Curaleaf - Westmont,INV-045493,Delivered,6/29/21,BOC - wholesale,20,12.0,240.0
+EarthMed - Rosemont ,INV-045494,Delivered,6/29/21,BOC - wholesale,8,12.0,96.0
+Ascend - Collinsville,INV-045496,Delivered,6/29/21,BOC - wholesale,16,12.0,192.0
+Zen Leaf - Evanston,INV-045497,Delivered,6/29/21,BOC - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045498,Delivered,6/29/21,BOC - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045499,Delivered,6/29/21,BOC - wholesale,8,12.0,96.0
+Zen Leaf - Lombard,INV-045500,Delivered,6/29/21,BOC - wholesale,28,12.0,336.0
+Windy City - Litchfield,INV-045501,Delivered,6/29/21,BOC - wholesale,16,12.0,192.0
+Windy City - Litchfield,INV-045502,Delivered,6/29/21,BOC - wholesale,16,12.0,192.0
+Windy City - Highwood,INV-045503,Delivered,6/29/21,BOC - wholesale,72,12.0,864.0
+Rise - Lake in the Hills,INV-045509,Delivered,6/29/21,BOC - wholesale,200,12.0,2400.0
+Curaleaf - Worth,INV-045589,Delivered,6/30/21,BOC - wholesale,80,12.0,960.0
+Ascend - Horizon,INV-045590,Delivered,6/30/21,BOC - wholesale,24,12.0,288.0
+Windy City - Macomb,INV-045593,Delivered,6/30/21,BOC - wholesale,72,12.0,864.0
+Rise - Effingham,INV-045602,Delivered,6/30/21,BOC - wholesale,60,12.0,720.0
+Rise - Naperville,INV-045603,Delivered,6/30/21,BOC - wholesale,36,12.0,432.0
+Nature's Care - West Loop,INV-045604,Delivered,6/30/21,BOC - wholesale,24,12.0,288.0
+Sunnyside - Naperville,INV-045605,Delivered,6/30/21,BOC - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-039084,Delivered,4/8/21,GR - wholesale,96,12.0,1152.0
+Rise - Niles,INV-039085,Delivered,4/8/21,GR - wholesale,92,12.0,1104.0
+Rise - Canton,INV-039193,Delivered,4/9/21,GR - wholesale,20,12.0,240.0
+Rise - Effingham,INV-039194,Delivered,4/9/21,GR - wholesale,68,12.0,816.0
+Rise - Joliet (Rock Creek),INV-039195,Delivered,4/9/21,GR - wholesale,32,12.0,384.0
+Rise - Naperville,INV-039196,Delivered,4/9/21,GR - wholesale,92,12.0,1104.0
+Rise - Quincy,INV-039197,Delivered,4/9/21,GR - wholesale,44,12.0,528.0
+Rise - Lake in the Hills,INV-039198,Delivered,4/9/21,GR - wholesale,84,12.0,1008.0
+Ascend - Fairview,INV-039629,Delivered,4/15/21,GR - wholesale,64,12.0,768.0
+Ascend - Collinsville,INV-039630,Delivered,4/15/21,GR - wholesale,64,12.0,768.0
+Ascend - Springfield,INV-039696,Delivered,4/16/21,GR - wholesale,72,12.0,864.0
+Ascend - Horizon,INV-039697,Delivered,4/16/21,GR - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-039698,Delivered,4/16/21,GR - wholesale,72,12.0,864.0
+Midway - Chicago Ridge,INV-039699,Delivered,4/16/21,GR - wholesale,72,12.0,864.0
+MOCA - Logan Square,INV-039700,Delivered,4/16/21,GR - wholesale,60,12.0,720.0
+MOCA - River North,INV-039701,Delivered,4/16/21,GR - wholesale,60,12.0,720.0
+Ascend - Fairview,INV-039838,Delivered,4/19/21,GR - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039839,Delivered,4/19/21,GR - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-039840,Delivered,4/19/21,GR - wholesale,60,12.0,720.0
+Rise - Joliet (Rock Creek),INV-039841,Delivered,4/19/21,GR - wholesale,32,12.0,384.0
+Rise - Naperville,INV-039842,Delivered,4/19/21,GR - wholesale,40,12.0,480.0
+Rise - Niles,INV-039843,Delivered,4/19/21,GR - wholesale,56,12.0,672.0
+Rise - Canton,INV-039845,Delivered,4/19/21,GR - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039846,Delivered,4/19/21,GR - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-039854,Delivered,4/19/21,GR - wholesale,52,12.0,624.0
+Rise - Effingham,INV-039855,Delivered,4/19/21,GR - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-039856,Delivered,4/19/21,GR - wholesale,52,12.0,624.0
+Rise - Joliet (Rock Creek),INV-039857,Delivered,4/19/21,GR - wholesale,32,12.0,384.0
+Rise - Naperville,INV-039858,Delivered,4/19/21,GR - wholesale,40,12.0,480.0
+Rise - Niles,INV-039859,Delivered,4/19/21,GR - wholesale,56,12.0,672.0
+Rise - Canton,INV-039861,Delivered,4/19/21,GR - wholesale,20,12.0,240.0
+Rise - Quincy,INV-039862,Delivered,4/19/21,GR - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-039963,Delivered,4/19/21,GR - wholesale,-52,12.0,-624.0
+Rise - Effingham,INV-039964,Delivered,4/19/21,GR - wholesale,-40,12.0,-480.0
+Rise - Joliet (Colorado Ave),INV-039965,Delivered,4/19/21,GR - wholesale,-52,12.0,-624.0
+Rise - Joliet (Rock Creek),INV-039966,Delivered,4/19/21,GR - wholesale,-32,12.0,-384.0
+Rise - Naperville,INV-039967,Delivered,4/19/21,GR - wholesale,-40,12.0,-480.0
+Rise - Niles,INV-039968,Delivered,4/19/21,GR - wholesale,-56,12.0,-672.0
+Rise - Canton,INV-039970,Delivered,4/19/21,GR - wholesale,-20,12.0,-240.0
+Rise - Quincy,INV-039971,Delivered,4/19/21,GR - wholesale,-20,12.0,-240.0
+Rise - Joliet (Colorado Ave),INV-040065,Delivered,4/19/21,GR - wholesale,-52,12.0,-624.0
+MedMen - Oak Park,INV-039938,Delivered,4/20/21,GR - wholesale,20,12.0,240.0
+Ascend - Fairview,INV-040012,Delivered,4/21/21,GR - wholesale,172,12.0,2064.0
+Ascend - Collinsville,INV-040105,Delivered,4/22/21,GR - wholesale,66,12.0,792.0
+Ascend - Collinsville,INV-040202,Delivered,4/23/21,GR - wholesale,88,12.0,1056.0
+Ascend - Springfield,INV-040226,Delivered,4/23/21,GR - wholesale,72,12.0,864.0
+Ascend - Collinsville,INV-040227,Delivered,4/23/21,GR - wholesale,-88,12.0,-1056.0
+Rise - Effingham,INV-040515,Delivered,4/28/21,GR - wholesale,148,12.0,1776.0
+Rise - Joliet (Colorado Ave),INV-040516,Delivered,4/28/21,GR - wholesale,172,12.0,2064.0
+Rise - Joliet (Rock Creek),INV-040517,Delivered,4/28/21,GR - wholesale,72,12.0,864.0
+Rise - Naperville,INV-040518,Delivered,4/28/21,GR - wholesale,72,12.0,864.0
+Rise - Niles,INV-040519,Delivered,4/28/21,GR - wholesale,168,12.0,2016.0
+Rise - Lake in the Hills,INV-040520,Delivered,4/28/21,GR - wholesale,160,12.0,1920.0
+MedMen - Oak Park,INV-040608,Delivered,4/29/21,GR - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-040609,Delivered,4/29/21,GR - wholesale,60,12.0,720.0
+MOCA - River North,INV-040610,Delivered,4/29/21,GR - wholesale,120,12.0,1440.0
+Rise - Canton,INV-040611,Delivered,4/29/21,GR - wholesale,40,12.0,480.0
+Ascend - Collinsville,INV-040666,Delivered,4/30/21,GR - wholesale,40,12.0,480.0
+Ascend - Horizon,INV-040668,Delivered,4/30/21,GR - wholesale,72,12.0,864.0
+Ascend - Fairview,INV-040669,Delivered,4/30/21,GR - wholesale,96,12.0,1152.0
+Rise - Joliet (Colorado Ave),INV-040962,Delivered,5/4/21,GR - wholesale,40,12.0,480.0
+Rise - Joliet (Rock Creek),INV-040963,Delivered,5/4/21,GR - wholesale,40,12.0,480.0
+Rise - Naperville,INV-040964,Delivered,5/4/21,GR - wholesale,56,12.0,672.0
+Rise - Niles,INV-040965,Delivered,5/4/21,GR - wholesale,140,12.0,1680.0
+Rise - Lake in the Hills,INV-040966,Delivered,5/4/21,GR - wholesale,140,12.0,1680.0
+Ascend - Springfield,INV-041189,Delivered,5/5/21,GR - wholesale,28,12.0,336.0
+Ascend - Horizon,INV-041190,Delivered,5/5/21,GR - wholesale,24,12.0,288.0
+Ascend - Collinsville,INV-041273,Delivered,5/6/21,GR - wholesale,136,12.0,1632.0
+Ascend - Fairview,INV-041274,Delivered,5/6/21,GR - wholesale,112,12.0,1344.0
+Midway - Chicago Ridge,INV-041275,Delivered,5/6/21,GR - wholesale,48,12.0,576.0
+Midway - Chicago Archer,INV-041276,Delivered,5/6/21,GR - wholesale,48,12.0,576.0
+MOCA - Logan Square,INV-041277,Delivered,5/6/21,GR - wholesale,72,12.0,864.0
+MOCA - River North,INV-041278,Delivered,5/6/21,GR - wholesale,60,12.0,720.0
+Rise - Canton,INV-041279,Delivered,5/6/21,GR - wholesale,40,12.0,480.0
+Rise - Niles,INV-041338,Delivered,5/7/21,GR - wholesale,96,12.0,1152.0
+Midway - Chicago Archer,INV-041413,Delivered,5/10/21,GR - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041414,Delivered,5/10/21,GR - wholesale,40,12.0,480.0
+MOCA - River North,INV-041415,Delivered,5/10/21,GR - wholesale,32,12.0,384.0
+MOCA - River North,INV-041646,Delivered,5/10/21,GR - wholesale,-32,12.0,-384.0
+MOCA - Logan Square,INV-041647,Delivered,5/10/21,GR - wholesale,-40,12.0,-480.0
+Midway - Chicago Archer,INV-041648,Delivered,5/10/21,GR - wholesale,-20,12.0,-240.0
+Rise - Naperville,INV-041528,Delivered,5/11/21,GR - wholesale,28,12.0,336.0
+Rise - Niles,INV-041529,Delivered,5/11/21,GR - wholesale,144,12.0,1728.0
+Midway - Chicago Archer,INV-041640,Delivered,5/12/21,GR - wholesale,20,12.0,240.0
+MOCA - Logan Square,INV-041641,Delivered,5/12/21,GR - wholesale,40,12.0,480.0
+MOCA - River North,INV-041642,Delivered,5/12/21,GR - wholesale,32,12.0,384.0
+Rise - Joliet (Colorado Ave),INV-041643,Delivered,5/12/21,GR - wholesale,64,12.0,768.0
+Rise - Joliet (Rock Creek),INV-041644,Delivered,5/12/21,GR - wholesale,32,12.0,384.0
+Ascend - Springfield,INV-041757,Delivered,5/13/21,GR - wholesale,28,12.0,336.0
+Ascend - Collinsville,INV-041758,Delivered,5/13/21,GR - wholesale,48,12.0,576.0
+Ascend - Horizon,INV-041759,Delivered,5/13/21,GR - wholesale,28,12.0,336.0
+Ascend - Fairview,INV-041760,Delivered,5/13/21,GR - wholesale,36,12.0,432.0
+Rise - Quincy,INV-042186,Delivered,5/20/21,GR - wholesale,36,12.0,432.0
+MedMen - Oak Park,INV-042301,Delivered,5/21/21,GR - wholesale,4,12.0,48.0
+The Herbal Care Center,INV-042303,Delivered,5/21/21,GR - wholesale,36,12.0,432.0
+MedMen - Oak Park,INV-042910,Delivered,5/28/21,GR - wholesale,28,12.0,336.0
+MOCA - Logan Square,INV-042911,Delivered,5/28/21,GR - wholesale,92,12.0,1104.0
+MOCA - River North,INV-042912,Delivered,5/28/21,GR - wholesale,12,12.0,144.0
+The Herbal Care Center,INV-042913,Delivered,5/28/21,GR - wholesale,20,12.0,240.0
+Rise - Niles,INV-042934,Delivered,5/29/21,GR - wholesale,100,12.0,1200.0
+Sunnyside - Schaumburg,INV-042958,Delivered,6/1/21,GR - wholesale,184,12.0,2208.0
+Rise - Quincy,INV-043880,Delivered,6/1/21,GR - wholesale,-36,12.0,-432.0
+Curaleaf - Northbrook,INV-043213,Delivered,6/2/21,GR - wholesale,92,12.0,1104.0
+Curaleaf - Skokie,INV-043214,Delivered,6/2/21,GR - wholesale,92,12.0,1104.0
+Sunnyside - River North,INV-043351,Delivered,6/3/21,GR - wholesale,120,12.0,1440.0
+Sunnyside - Naperville,INV-043352,Delivered,6/3/21,GR - wholesale,52,12.0,624.0
+Curaleaf - Worth,INV-043353,Delivered,6/3/21,GR - wholesale,92,12.0,1104.0
+Curaleaf - Mokena,INV-043354,Delivered,6/3/21,GR - wholesale,36,12.0,432.0
+Curaleaf - Westmont,INV-043355,Delivered,6/3/21,GR - wholesale,20,12.0,240.0
+Sunnyside - Naperville,INV-043415,Delivered,6/3/21,GR - wholesale,-12,12.0,-144.0
+Sunnyside - Elmwood Park ,INV-043460,Delivered,6/4/21,GR - wholesale,132,12.0,1584.0
+Sunnyside - Buffalo Grove,INV-043461,Delivered,6/4/21,GR - wholesale,28,12.0,336.0
+Rise - Niles,INV-043544,Delivered,6/5/21,GR - wholesale,36,12.0,432.0
+MOCA - Logan Square,INV-043615,Delivered,6/7/21,GR - wholesale,160,12.0,1920.0
+MOCA - River North,INV-043616,Delivered,6/7/21,GR - wholesale,40,12.0,480.0
+Rise - Niles,INV-043617,Delivered,6/7/21,GR - wholesale,212,12.0,2544.0
+Rise - Joliet (Colorado Ave),INV-043710,Delivered,6/8/21,GR - wholesale,64,12.0,768.0
+Rise - Naperville,INV-043712,Delivered,6/8/21,GR - wholesale,60,12.0,720.0
+Rise - Joliet (Colorado Ave),INV-043787,Delivered,6/8/21,GR - wholesale,-64,12.0,-768.0
+Rise - Naperville,INV-043789,Delivered,6/8/21,GR - wholesale,-60,12.0,-720.0
+Rise - Canton,INV-043793,Delivered,6/8/21,GR - wholesale,11,12.0,132.0
+Rise - Quincy,INV-043821,Delivered,6/9/21,GR - wholesale,48,12.0,576.0
+Rise - Quincy,INV-043940,Delivered,6/10/21,GR - wholesale,48,12.0,576.0
+Rise - Joliet (Colorado Ave),INV-043962,Delivered,6/10/21,GR - wholesale,64,12.0,768.0
+Rise - Naperville,INV-043964,Delivered,6/10/21,GR - wholesale,60,12.0,720.0
+Rise - Quincy,INV-044251,Delivered,6/10/21,GR - wholesale,-48,12.0,-576.0
+MedMen - Oak Park,INV-046343,Delivered,6/10/21,GR - wholesale,28,12.0,336.0
+Rise - Joliet (Colorado Ave),INV-044026,Delivered,6/11/21,GR - wholesale,64,12.0,768.0
+Rise - Joliet (Colorado Ave),INV-044038,Delivered,6/11/21,GR - wholesale,-64,12.0,-768.0
+MOCA - River North,INV-044070,Delivered,6/11/21,GR - wholesale,60,12.0,720.0
+MOCA - Logan Square,INV-044071,Delivered,6/11/21,GR - wholesale,72,12.0,864.0
+Midway - Chicago Archer,INV-044072,Delivered,6/11/21,GR - wholesale,48,12.0,576.0
+Midway - Chicago Ridge,INV-044073,Delivered,6/11/21,GR - wholesale,48,12.0,576.0
+The Herbal Care Center,INV-044074,Delivered,6/11/21,GR - wholesale,32,12.0,384.0
+Rise - Lake in the Hills,INV-044118,Delivered,6/12/21,GR - wholesale,40,12.0,480.0
+Curaleaf - Northbrook,INV-044171,Delivered,6/14/21,GR - wholesale,80,12.0,960.0
+Dispensary 33 - W Randolph,INV-044172,Delivered,6/14/21,GR - wholesale,32,12.0,384.0
+Dispensary 33 - N Clark,INV-044173,Delivered,6/14/21,GR - wholesale,12,12.0,144.0
+Dispensary 33 - N Clark,INV-044174,Delivered,6/14/21,GR - wholesale,12,12.0,144.0
+Nature's Care - West Loop,INV-044175,Delivered,6/14/21,GR - wholesale,12,12.0,144.0
+Ascend - Fairview,INV-044333,Delivered,6/15/21,GR - wholesale,36,12.0,432.0
+Rise - Lake in the Hills,INV-044336,Delivered,6/15/21,GR - wholesale,60,12.0,720.0
+Rise - Niles,INV-044337,Delivered,6/15/21,GR - wholesale,120,12.0,1440.0
+Rise - Naperville,INV-044423,Delivered,6/15/21,GR - wholesale,-36,12.0,-432.0
+Nature's Care - West Loop,INV-044408,Delivered,6/16/21,GR - wholesale,12,12.0,144.0
+Curaleaf - Worth,INV-044409,Delivered,6/16/21,GR - wholesale,60,12.0,720.0
+Curaleaf - Mokena,INV-044410,Delivered,6/16/21,GR - wholesale,40,12.0,480.0
+Curaleaf - Westmont,INV-044411,Delivered,6/16/21,GR - wholesale,28,12.0,336.0
+Enlightened - Schaumburg,INV-044413,Delivered,6/16/21,GR - wholesale,40,12.0,480.0
+Midway - Chicago Archer,INV-044415,Delivered,6/16/21,GR - wholesale,40,12.0,480.0
+MOCA - River North,INV-044416,Delivered,6/16/21,GR - wholesale,60,12.0,720.0
+MOCA - Logan Square,INV-044417,Delivered,6/16/21,GR - wholesale,160,12.0,1920.0
+Rise - Joliet (Colorado Ave),INV-044418,Delivered,6/16/21,GR - wholesale,60,12.0,720.0
+Rise - Naperville,INV-044419,Delivered,6/16/21,GR - wholesale,36,12.0,432.0
+Rise - Naperville,INV-044420,Delivered,6/16/21,GR - wholesale,36,12.0,432.0
+Sunnyside - Lakeview,INV-044422,Delivered,6/16/21,GR - wholesale,24,12.0,288.0
+Windy City - Carpentersville,INV-044526,Delivered,6/17/21,GR - wholesale,72,12.0,864.0
+Windy City - Posen,INV-044527,Delivered,6/17/21,GR - wholesale,64,12.0,768.0
+Windy City - Homewood,INV-044528,Delivered,6/17/21,GR - wholesale,64,12.0,768.0
+Consume - Carbondale,INV-044529,Delivered,6/17/21,GR - wholesale,40,12.0,480.0
+Consume - Marion ,INV-044530,Delivered,6/17/21,GR - wholesale,32,12.0,384.0
+Consume - Marion ,INV-044531,Delivered,6/17/21,GR - wholesale,20,12.0,240.0
+The Herbal Care Center,INV-044532,Delivered,6/17/21,GR - wholesale,20,12.0,240.0
+Consume - Oak Brook Terrace,INV-044535,Delivered,6/17/21,GR - wholesale,40,12.0,480.0
+EarthMed - Addison,INV-044589,Delivered,6/18/21,GR - wholesale,16,12.0,192.0
+Curaleaf - Skokie,INV-044591,Delivered,6/18/21,GR - wholesale,132,12.0,1584.0
+Consume - Chicago,INV-044592,Delivered,6/18/21,GR - wholesale,20,12.0,240.0
+Consume - Chicago,INV-044593,Delivered,6/18/21,GR - wholesale,20,12.0,240.0
+Sunnyside - South Beloit,INV-044705,Delivered,6/21/21,GR - wholesale,88,12.0,1056.0
+Sunnyside - Rockford,INV-044706,Delivered,6/21/21,GR - wholesale,48,12.0,576.0
+Rise - Joliet (Rock Creek),INV-044709,Delivered,6/21/21,GR - wholesale,48,12.0,576.0
+Rise - Joliet (Colorado Ave),INV-044710,Delivered,6/21/21,GR - wholesale,80,12.0,960.0
+Rise - Naperville,INV-044711,Delivered,6/21/21,GR - wholesale,36,12.0,432.0
+Rise - Lake in the Hills,INV-044712,Delivered,6/21/21,GR - wholesale,140,12.0,1680.0
+Rise - Niles,INV-044713,Delivered,6/21/21,GR - wholesale,124,12.0,1488.0
+Sunnyside - Champaign,INV-044821,Delivered,6/22/21,GR - wholesale,16,12.0,192.0
+Nature's Care - West Loop,INV-044823,Delivered,6/22/21,GR - wholesale,24,12.0,288.0
+Curaleaf - Melrose Park,INV-044824,Delivered,6/22/21,GR - wholesale,36,12.0,432.0
+Curaleaf - Weed Street,INV-044825,Delivered,6/22/21,GR - wholesale,20,12.0,240.0
+Rise - Effingham,INV-044828,Delivered,6/22/21,GR - wholesale,40,12.0,480.0
+Mission - South Chicago,INV-044832,Delivered,6/22/21,GR - wholesale,100,12.0,1200.0
+Mission - Calumet City,INV-044833,Delivered,6/22/21,GR - wholesale,100,12.0,1200.0
+Sunnyside - Danville,INV-045049,Delivered,6/23/21,GR - wholesale,64,12.0,768.0
+Curaleaf - Deerfield,INV-045051,Delivered,6/23/21,GR - wholesale,36,12.0,432.0
+Rise - Canton,INV-045053,Delivered,6/23/21,GR - wholesale,32,12.0,384.0
+Rise - Quincy,INV-045054,Delivered,6/23/21,GR - wholesale,24,12.0,288.0
+Nature's Care - Rolling Meadows,INV-045057,Delivered,6/23/21,GR - wholesale,44,12.0,528.0
+Curaleaf - Justice,INV-045146,Delivered,6/24/21,GR - wholesale,92,12.0,1104.0
+Zen Leaf - Highland Park,INV-045148,Delivered,6/24/21,GR - wholesale,28,12.0,336.0
+Curaleaf - Justice,INV-045331,Delivered,6/24/21,GR - wholesale,-2,12.0,-24.0
+Curaleaf - Morris,INV-045252,Delivered,6/25/21,GR - wholesale,92,12.0,1104.0
+Zen Leaf - Prospect Heights,INV-045254,Delivered,6/25/21,GR - wholesale,36,12.0,432.0
+Zen Leaf - Prospect Heights,INV-045348,Delivered,6/25/21,GR - wholesale,-9,12.0,-108.0
+Zen Leaf - Prospect Heights,INV-045350,Delivered,6/25/21,GR - wholesale,-36,12.0,-432.0
+Curaleaf - Northbrook,INV-045405,Delivered,6/28/21,GR - wholesale,60,12.0,720.0
+Rise - Joliet (Rock Creek),INV-045414,Delivered,6/28/21,GR - wholesale,36,12.0,432.0
+Rise - Joliet (Colorado Ave),INV-045415,Delivered,6/28/21,GR - wholesale,68,12.0,816.0
+Rise - Niles,INV-045416,Delivered,6/28/21,GR - wholesale,120,12.0,1440.0
+The Herbal Care Center,INV-045417,Delivered,6/28/21,GR - wholesale,28,12.0,336.0
+MedMen - Oak Park,INV-045418,Delivered,6/28/21,GR - wholesale,28,12.0,336.0
+Curaleaf - Skokie,INV-045491,Delivered,6/29/21,GR - wholesale,28,12.0,336.0
+Curaleaf - Mokena,INV-045492,Delivered,6/29/21,GR - wholesale,40,12.0,480.0
+Curaleaf - Westmont,INV-045493,Delivered,6/29/21,GR - wholesale,28,12.0,336.0
+EarthMed - Rosemont ,INV-045494,Delivered,6/29/21,GR - wholesale,8,12.0,96.0
+Zen Leaf - Evanston,INV-045497,Delivered,6/29/21,GR - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045498,Delivered,6/29/21,GR - wholesale,8,12.0,96.0
+Enlightened - Mount Prospect,INV-045499,Delivered,6/29/21,GR - wholesale,8,12.0,96.0
+Zen Leaf - Lombard,INV-045500,Delivered,6/29/21,GR - wholesale,28,12.0,336.0
+Windy City - Litchfield,INV-045501,Delivered,6/29/21,GR - wholesale,16,12.0,192.0
+Windy City - Litchfield,INV-045502,Delivered,6/29/21,GR - wholesale,16,12.0,192.0
+Windy City - Highwood,INV-045503,Delivered,6/29/21,GR - wholesale,72,12.0,864.0
+Rise - Lake in the Hills,INV-045509,Delivered,6/29/21,GR - wholesale,116,12.0,1392.0
+Windy City - Macomb,INV-045593,Delivered,6/30/21,GR - wholesale,72,12.0,864.0
+Rise - Effingham,INV-045602,Delivered,6/30/21,GR - wholesale,32,12.0,384.0
+Rise - Naperville,INV-045603,Delivered,6/30/21,GR - wholesale,36,12.0,432.0
+Nature's Care - West Loop,INV-045604,Delivered,6/30/21,GR - wholesale,24,12.0,288.0
+Sunnyside - Naperville,INV-045605,Delivered,6/30/21,GR - wholesale,40,12.0,480.0
+Windy City - Macomb,INV-045769,Delivered,6/30/21,GR - wholesale,-1,12.0,-12.0
+Curaleaf - Northbrook,INV-045405,Delivered,6/28/21,PJ - wholesale,160,12.0,1920.0
+Midway - Chicago Archer,INV-045406,Delivered,6/28/21,PJ - wholesale,48,12.0,576.0
+MOCA - River North,INV-045407,Delivered,6/28/21,PJ - wholesale,72,12.0,864.0
+MOCA - Logan Square,INV-045408,Delivered,6/28/21,PJ - wholesale,100,12.0,1200.0
+Sunnyside - South Beloit,INV-045409,Delivered,6/28/21,PJ - wholesale,40,12.0,480.0
+Sunnyside - Schaumburg,INV-045410,Delivered,6/28/21,PJ - wholesale,32,12.0,384.0
+Sunnyside - Rockford,INV-045411,Delivered,6/28/21,PJ - wholesale,24,12.0,288.0
+Sunnyside - River North,INV-045412,Delivered,6/28/21,PJ - wholesale,16,12.0,192.0
+Sunnyside - Lakeview,INV-045413,Delivered,6/28/21,PJ - wholesale,24,12.0,288.0
+Rise - Joliet (Rock Creek),INV-045414,Delivered,6/28/21,PJ - wholesale,40,12.0,480.0
+Rise - Joliet (Colorado Ave),INV-045415,Delivered,6/28/21,PJ - wholesale,100,12.0,1200.0
+Rise - Niles,INV-045416,Delivered,6/28/21,PJ - wholesale,100,12.0,1200.0
+The Herbal Care Center,INV-045417,Delivered,6/28/21,PJ - wholesale,20,12.0,240.0
+Curaleaf - Melrose Park,INV-045489,Delivered,6/29/21,PJ - wholesale,28,12.0,336.0
+Curaleaf - Deerfield,INV-045490,Delivered,6/29/21,PJ - wholesale,76,12.0,912.0
+Curaleaf - Skokie,INV-045491,Delivered,6/29/21,PJ - wholesale,160,12.0,1920.0
+Curaleaf - Mokena,INV-045492,Delivered,6/29/21,PJ - wholesale,76,12.0,912.0
+Curaleaf - Westmont,INV-045493,Delivered,6/29/21,PJ - wholesale,40,12.0,480.0
+Ascend - Fairview,INV-045495,Delivered,6/29/21,PJ - wholesale,100,12.0,1200.0
+Ascend - Collinsville,INV-045496,Delivered,6/29/21,PJ - wholesale,92,12.0,1104.0
+Windy City - Litchfield,INV-045501,Delivered,6/29/21,PJ - wholesale,16,12.0,192.0
+Windy City - Litchfield,INV-045502,Delivered,6/29/21,PJ - wholesale,16,12.0,192.0
+Windy City - Highwood,INV-045503,Delivered,6/29/21,PJ - wholesale,72,12.0,864.0
+Windy City - Carpentersville,INV-045504,Delivered,6/29/21,PJ - wholesale,72,12.0,864.0
+Windy City - Posen,INV-045505,Delivered,6/29/21,PJ - wholesale,18,12.0,216.0
+Windy City - Posen,INV-045506,Delivered,6/29/21,PJ - wholesale,24,12.0,288.0
+Sunnyside - Elmwood Park ,INV-045507,Delivered,6/29/21,PJ - wholesale,16,12.0,192.0
+Sunnyside - Buffalo Grove,INV-045508,Delivered,6/29/21,PJ - wholesale,8,12.0,96.0
+Rise - Lake in the Hills,INV-045509,Delivered,6/29/21,PJ - wholesale,100,12.0,1200.0
+Curaleaf - Weed Street,INV-045586,Delivered,6/30/21,PJ - wholesale,28,12.0,336.0
+Curaleaf - Morris,INV-045587,Delivered,6/30/21,PJ - wholesale,76,12.0,912.0
+Curaleaf - Justice,INV-045588,Delivered,6/30/21,PJ - wholesale,100,12.0,1200.0
+Curaleaf - Worth,INV-045589,Delivered,6/30/21,PJ - wholesale,60,12.0,720.0
+Ascend - Horizon,INV-045590,Delivered,6/30/21,PJ - wholesale,76,12.0,912.0
+Ascend - Springfield,INV-045591,Delivered,6/30/21,PJ - wholesale,52,12.0,624.0
+Midway - Chicago Ridge,INV-045592,Delivered,6/30/21,PJ - wholesale,32,12.0,384.0
+Windy City - Macomb,INV-045593,Delivered,6/30/21,PJ - wholesale,72,12.0,864.0
+Windy City - Homewood,INV-045594,Delivered,6/30/21,PJ - wholesale,32,12.0,384.0
+Windy City - Homewood,INV-045595,Delivered,6/30/21,PJ - wholesale,32,12.0,384.0
+Sunnyside - River North,INV-045596,Delivered,6/30/21,PJ - wholesale,16,12.0,192.0
+Sunnyside - Lakeview,INV-045597,Delivered,6/30/21,PJ - wholesale,24,12.0,288.0
+Sunnyside - Danville,INV-045598,Delivered,6/30/21,PJ - wholesale,40,12.0,480.0
+Sunnyside - Champaign,INV-045599,Delivered,6/30/21,PJ - wholesale,16,12.0,192.0
+Rise - Canton,INV-045600,Delivered,6/30/21,PJ - wholesale,36,12.0,432.0
+Rise - Quincy,INV-045601,Delivered,6/30/21,PJ - wholesale,39,12.0,468.0
+Rise - Effingham,INV-045602,Delivered,6/30/21,PJ - wholesale,72,12.0,864.0
+Rise - Naperville,INV-045603,Delivered,6/30/21,PJ - wholesale,36,12.0,432.0
+Sunnyside - Naperville,INV-045605,Delivered,6/30/21,PJ - wholesale,24,12.0,288.0
+Rise - Niles,INV-039702,Delivered,4/16/21,LL - staff,120,0.01,1.2
+Rise - Niles,INV-039815,Delivered,4/19/21,LL - staff,168,0.01,1.68
+Rise - Effingham,INV-039839,Delivered,4/19/21,LL - staff,76,0.01,0.76
+Rise - Lake in the Hills,INV-039844,Delivered,4/19/21,LL - staff,60,0.01,0.6
+Rise - Effingham,INV-039855,Delivered,4/19/21,LL - staff,76,0.01,0.76
+Rise - Joliet (Colorado Ave),INV-039856,Delivered,4/19/21,LL - staff,60,0.01,0.6
+Rise - Lake in the Hills,INV-039860,Delivered,4/19/21,LL - staff,60,0.01,0.6
+Rise - Effingham,INV-039964,Delivered,4/19/21,LL - staff,-76,0.01,-0.76
+Rise - Joliet (Colorado Ave),INV-039965,Delivered,4/19/21,LL - staff,-60,0.01,-0.6
+Rise - Lake in the Hills,INV-039969,Delivered,4/19/21,LL - staff,-60,0.01,-0.6
+Ascend - Springfield,INV-041189,Delivered,5/5/21,LL - staff,60,0.01,0.6
+Ascend - Horizon,INV-041190,Delivered,5/5/21,LL - staff,60,0.01,0.6
+Curaleaf - Northbrook,INV-041524,Delivered,5/11/21,LL - staff,64,0.01,0.64
+Curaleaf - Skokie,INV-041525,Delivered,5/11/21,LL - staff,56,0.01,0.56
+Curaleaf - Westmont,INV-041526,Delivered,5/11/21,LL - staff,28,0.01,0.28
+Curaleaf - Worth,INV-041527,Delivered,5/11/21,LL - staff,48,0.01,0.48
+Curaleaf - Mokena,INV-041836,Delivered,5/14/21,LL - staff,32,0.01,0.32
+Sunnyside - Buffalo Grove,INV-041840,Delivered,5/14/21,LL - staff,20,0.01,0.2
+Sunnyside - Naperville,INV-041841,Delivered,5/14/21,LL - staff,40,0.01,0.4
+Sunnyside - River North,INV-041842,Delivered,5/14/21,LL - staff,32,0.01,0.32
+Sunnyside - Schaumburg,INV-041843,Delivered,5/14/21,LL - staff,52,0.01,0.52
+The Herbal Care Center,INV-041844,Delivered,5/14/21,LL - staff,40,0.01,0.4
+Curaleaf - Mokena,INV-041870,Delivered,5/14/21,LL - staff,-8,0.01,-0.08
+Consume - Oak Brook Terrace,INV-043961,Delivered,6/10/21,LL - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044028,Delivered,6/11/21,LL - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044040,Delivered,6/11/21,LL - staff,-36,0.01,-0.36
+Dispensary 33 - W Randolph,INV-044067,Delivered,6/11/21,LL - staff,20,0.01,0.2
+Dispensary 33 - N Clark,INV-044068,Delivered,6/11/21,LL - staff,40,0.01,0.4
+Sunnyside - Lakeview,INV-044069,Delivered,6/11/21,LL - staff,48,0.01,0.48
+Consume - Chicago,INV-044075,Delivered,6/11/21,LL - staff,28,0.01,0.28
+Windy City - Homewood,INV-044176,Delivered,6/14/21,LL - staff,32,0.01,0.32
+Windy City - Posen,INV-044177,Delivered,6/14/21,LL - staff,32,0.01,0.32
+Nature's Care - West Loop,INV-044412,Delivered,6/16/21,LL - staff,24,0.01,0.24
+Enlightened - Schaumburg,INV-044414,Delivered,6/16/21,LL - staff,60,0.01,0.6
+Windy City - Carpentersville,INV-044421,Delivered,6/16/21,LL - staff,32,0.01,0.32
+Consume - Marion,INV-044533,Delivered,6/17/21,LL - staff,48,0.01,0.48
+Consume - Carbondale,INV-044534,Delivered,6/17/21,LL - staff,28,0.01,0.28
+EarthMed - Addison,INV-044590,Delivered,6/18/21,LL - staff,28,0.01,0.28
+Sunnyside - South Beloit,INV-044707,Delivered,6/21/21,LL - staff,48,0.01,0.48
+Sunnyside - Rockford,INV-044708,Delivered,6/21/21,LL - staff,40,0.01,0.4
+Sunnyside - Champaign,INV-044822,Delivered,6/22/21,LL - staff,32,0.01,0.32
+Curaleaf - Melrose Park,INV-044826,Delivered,6/22/21,LL - staff,28,0.01,0.28
+Curaleaf - Weed Street,INV-044827,Delivered,6/22/21,LL - staff,32,0.01,0.32
+Rise - Mundelein ,INV-044831,Delivered,6/22/21,LL - staff,112,0.01,1.12
+Mission - South Chicago,INV-044834,Delivered,6/22/21,LL - staff,60,0.01,0.6
+Mission - Calumet City,INV-044835,Delivered,6/22/21,LL - staff,60,0.01,0.6
+Sunnyside - Danville,INV-045050,Delivered,6/23/21,LL - staff,36,0.01,0.36
+Curaleaf - Deerfield,INV-045052,Delivered,6/23/21,LL - staff,36,0.01,0.36
+Nature's Care - Rolling Meadows,INV-045058,Delivered,6/23/21,LL - staff,36,0.01,0.36
+Curaleaf - Justice,INV-045147,Delivered,6/24/21,LL - staff,28,0.01,0.28
+Zen Leaf - Highland Park,INV-045149,Delivered,6/24/21,LL - staff,28,0.01,0.28
+Curaleaf - Morris,INV-045253,Delivered,6/25/21,LL - staff,32,0.01,0.32
+Zen Leaf - Prospect Heights,INV-045255,Delivered,6/25/21,LL - staff,36,0.01,0.36
+Rise - Niles,INV-039702,Delivered,4/16/21,BOC - staff,120,0.01,1.2
+Rise - Niles,INV-039815,Delivered,4/19/21,BOC - staff,168,0.01,1.68
+Ascend - Springfield,INV-041189,Delivered,5/5/21,BOC - staff,60,0.01,0.6
+Ascend - Horizon,INV-041190,Delivered,5/5/21,BOC - staff,60,0.01,0.6
+Curaleaf - Northbrook,INV-041524,Delivered,5/11/21,BOC - staff,64,0.01,0.64
+Curaleaf - Skokie,INV-041525,Delivered,5/11/21,BOC - staff,56,0.01,0.56
+Curaleaf - Westmont,INV-041526,Delivered,5/11/21,BOC - staff,28,0.01,0.28
+Curaleaf - Worth,INV-041527,Delivered,5/11/21,BOC - staff,48,0.01,0.48
+Curaleaf - Mokena,INV-041836,Delivered,5/14/21,BOC - staff,32,0.01,0.32
+Sunnyside - Buffalo Grove,INV-041840,Delivered,5/14/21,BOC - staff,20,0.01,0.2
+Sunnyside - Naperville,INV-041841,Delivered,5/14/21,BOC - staff,40,0.01,0.4
+Sunnyside - River North,INV-041842,Delivered,5/14/21,BOC - staff,32,0.01,0.32
+Sunnyside - Schaumburg,INV-041843,Delivered,5/14/21,BOC - staff,52,0.01,0.52
+The Herbal Care Center,INV-041844,Delivered,5/14/21,BOC - staff,40,0.01,0.4
+Curaleaf - Mokena,INV-041870,Delivered,5/14/21,BOC - staff,-8,0.01,-0.08
+Consume - Oak Brook Terrace,INV-043961,Delivered,6/10/21,BOC - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044028,Delivered,6/11/21,BOC - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044040,Delivered,6/11/21,BOC - staff,-36,0.01,-0.36
+Dispensary 33 - W Randolph,INV-044067,Delivered,6/11/21,BOC - staff,20,0.01,0.2
+Dispensary 33 - N Clark,INV-044068,Delivered,6/11/21,BOC - staff,40,0.01,0.4
+Sunnyside - Lakeview,INV-044069,Delivered,6/11/21,BOC - staff,48,0.01,0.48
+Consume - Chicago,INV-044075,Delivered,6/11/21,BOC - staff,28,0.01,0.28
+Windy City - Homewood,INV-044176,Delivered,6/14/21,BOC - staff,32,0.01,0.32
+Windy City - Posen,INV-044177,Delivered,6/14/21,BOC - staff,32,0.01,0.32
+Nature's Care - West Loop,INV-044412,Delivered,6/16/21,BOC - staff,24,0.01,0.24
+Enlightened - Schaumburg,INV-044414,Delivered,6/16/21,BOC - staff,60,0.01,0.6
+Windy City - Carpentersville,INV-044421,Delivered,6/16/21,BOC - staff,32,0.01,0.32
+Consume - Marion,INV-044533,Delivered,6/17/21,BOC - staff,48,0.01,0.48
+Consume - Carbondale,INV-044534,Delivered,6/17/21,BOC - staff,28,0.01,0.28
+EarthMed - Addison,INV-044590,Delivered,6/18/21,BOC - staff,28,0.01,0.28
+Sunnyside - South Beloit,INV-044707,Delivered,6/21/21,BOC - staff,48,0.01,0.48
+Sunnyside - Rockford,INV-044708,Delivered,6/21/21,BOC - staff,40,0.01,0.4
+Sunnyside - Champaign,INV-044822,Delivered,6/22/21,BOC - staff,32,0.01,0.32
+Curaleaf - Melrose Park,INV-044826,Delivered,6/22/21,BOC - staff,28,0.01,0.28
+Curaleaf - Weed Street,INV-044827,Delivered,6/22/21,BOC - staff,32,0.01,0.32
+Rise - Mundelein ,INV-044831,Delivered,6/22/21,BOC - staff,112,0.01,1.12
+Mission - South Chicago,INV-044834,Delivered,6/22/21,BOC - staff,60,0.01,0.6
+Mission - Calumet City,INV-044835,Delivered,6/22/21,BOC - staff,60,0.01,0.6
+Sunnyside - Danville,INV-045050,Delivered,6/23/21,BOC - staff,36,0.01,0.36
+Curaleaf - Deerfield,INV-045052,Delivered,6/23/21,BOC - staff,36,0.01,0.36
+Nature's Care - Rolling Meadows,INV-045058,Delivered,6/23/21,BOC - staff,36,0.01,0.36
+Curaleaf - Justice,INV-045147,Delivered,6/24/21,BOC - staff,28,0.01,0.28
+Zen Leaf - Highland Park,INV-045149,Delivered,6/24/21,BOC - staff,28,0.01,0.28
+Curaleaf - Morris,INV-045253,Delivered,6/25/21,BOC - staff,32,0.01,0.32
+Zen Leaf - Prospect Heights,INV-045255,Delivered,6/25/21,BOC - staff,36,0.01,0.36
+Rise - Niles,INV-039702,Delivered,4/16/21,GR - staff,120,0.01,1.2
+Rise - Niles,INV-039815,Delivered,4/19/21,GR - staff,168,0.01,1.68
+Rise - Lake in the Hills,INV-039844,Delivered,4/19/21,GR - staff,60,0.01,0.6
+Rise - Joliet (Colorado Ave),INV-039856,Delivered,4/19/21,GR - staff,8,0.01,0.08
+Rise - Lake in the Hills,INV-039860,Delivered,4/19/21,GR - staff,60,0.01,0.6
+Rise - Joliet (Colorado Ave),INV-039965,Delivered,4/19/21,GR - staff,-8,0.01,-0.08
+Rise - Lake in the Hills,INV-039969,Delivered,4/19/21,GR - staff,-60,0.01,-0.6
+Ascend - Springfield,INV-041189,Delivered,5/5/21,GR - staff,60,0.01,0.6
+Ascend - Horizon,INV-041190,Delivered,5/5/21,GR - staff,60,0.01,0.6
+Curaleaf - Northbrook,INV-041524,Delivered,5/11/21,GR - staff,64,0.01,0.64
+Curaleaf - Skokie,INV-041525,Delivered,5/11/21,GR - staff,56,0.01,0.56
+Curaleaf - Westmont,INV-041526,Delivered,5/11/21,GR - staff,28,0.01,0.28
+Curaleaf - Worth,INV-041527,Delivered,5/11/21,GR - staff,48,0.01,0.48
+Consume - Oak Brook Terrace,INV-043961,Delivered,6/10/21,GR - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044028,Delivered,6/11/21,GR - staff,36,0.01,0.36
+Consume - Oak Brook Terrace,INV-044040,Delivered,6/11/21,GR - staff,-36,0.01,-0.36
+Dispensary 33 - W Randolph,INV-044067,Delivered,6/11/21,GR - staff,20,0.01,0.2
+Dispensary 33 - N Clark,INV-044068,Delivered,6/11/21,GR - staff,40,0.01,0.4
+Sunnyside - Lakeview,INV-044069,Delivered,6/11/21,GR - staff,48,0.01,0.48
+Consume - Chicago,INV-044075,Delivered,6/11/21,GR - staff,28,0.01,0.28
+Windy City - Homewood,INV-044176,Delivered,6/14/21,GR - staff,32,0.01,0.32
+Windy City - Posen,INV-044177,Delivered,6/14/21,GR - staff,32,0.01,0.32
+Nature's Care - West Loop,INV-044412,Delivered,6/16/21,GR - staff,24,0.01,0.24
+Enlightened - Schaumburg,INV-044414,Delivered,6/16/21,GR - staff,60,0.01,0.6
+Windy City - Carpentersville,INV-044421,Delivered,6/16/21,GR - staff,32,0.01,0.32
+Consume - Marion,INV-044533,Delivered,6/17/21,GR - staff,48,0.01,0.48
+Consume - Carbondale,INV-044534,Delivered,6/17/21,GR - staff,28,0.01,0.28
+EarthMed - Addison,INV-044590,Delivered,6/18/21,GR - staff,28,0.01,0.28
+Sunnyside - South Beloit,INV-044707,Delivered,6/21/21,GR - staff,48,0.01,0.48
+Sunnyside - Rockford,INV-044708,Delivered,6/21/21,GR - staff,40,0.01,0.4
+Sunnyside - Champaign,INV-044822,Delivered,6/22/21,GR - staff,32,0.01,0.32
+Curaleaf - Melrose Park,INV-044826,Delivered,6/22/21,GR - staff,28,0.01,0.28
+Curaleaf - Weed Street,INV-044827,Delivered,6/22/21,GR - staff,32,0.01,0.32
+Rise - Mundelein ,INV-044831,Delivered,6/22/21,GR - staff,112,0.01,1.12
+Mission - South Chicago,INV-044834,Delivered,6/22/21,GR - staff,60,0.01,0.6
+Mission - Calumet City,INV-044835,Delivered,6/22/21,GR - staff,60,0.01,0.6
+Sunnyside - Danville,INV-045050,Delivered,6/23/21,GR - staff,36,0.01,0.36
+Curaleaf - Deerfield,INV-045052,Delivered,6/23/21,GR - staff,36,0.01,0.36
+Nature's Care - Rolling Meadows,INV-045058,Delivered,6/23/21,GR - staff,36,0.01,0.36
+Curaleaf - Justice,INV-045147,Delivered,6/24/21,GR - staff,28,0.01,0.28
+Zen Leaf - Highland Park,INV-045149,Delivered,6/24/21,GR - staff,28,0.01,0.28
+Curaleaf - Morris,INV-045253,Delivered,6/25/21,GR - staff,32,0.01,0.32
+Zen Leaf - Prospect Heights,INV-045255,Delivered,6/25/21,GR - staff,36,0.01,0.36

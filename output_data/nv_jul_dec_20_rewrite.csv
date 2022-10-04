@@ -1,0 +1,1220 @@
+Name,Owner,Existing/New,"Order
+Date",PO Number,Status,"Delivery
+Date",total,parsed_formula,adj_total,hardcoded_unit_price_calc,variable,value,unit_price,dollar_val
+Jardin,0.0, Existing ,3/9/21,18592.0, Delivered ,3/22/21,2471.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",2471.0,15.941935483870967,Credit,324.0,1.0,-324.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,3/15/21,18563.0, Delivered ,3/23/21,2495.72,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2495.72,45.37672727272727,Credit,99.28,1.0,-99.28
+Jardin,0.0,Existing,3/23/21,18615.0, Delivered ,3/29/21,666.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",666.0,5.123076923076923,Credit,504.0,1.0,-504.0
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - wholesale 6pk,56.0,12.0,672.0
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - wholesale 6pk,56.0,12.0,672.0
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - wholesale 6pk,40.0,12.0,480.0
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - wholesale 6pk,112.0,12.0,1344.0
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - wholesale 6pk,112.0,12.0,1344.0
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - wholesale 6pk,112.0,12.0,1344.0
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - wholesale 6pk,40.0,12.0,480.0
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,LL - wholesale 6pk,60.0,12.0,720.0
+Essence Durango,Team,Existing,0.0,0.0,Delivered,8/26/20,912.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",912.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Essence Rainbow,Team,Existing,0.0,0.0,Delivered,8/26/20,1296.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - wholesale 6pk,28.0,12.0,336.0
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,LL - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,LL - wholesale 6pk,24.0,9.6,230.39999999999998
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,LL - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,9/21/20,461.04,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,LL - wholesale 6pk,24.0,9.6,230.39999999999998
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - wholesale 6pk,6.0,12.0,72.0
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,LL - wholesale 6pk,100.0,12.0,1200.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - wholesale 6pk,50.0,12.0,600.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - wholesale 6pk,28.0,12.0,336.0
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,LL - wholesale 6pk,96.0,12.0,1152.0
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - wholesale 6pk,56.0,12.0,672.0
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - wholesale 6pk,50.0,12.0,600.0
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,LL - wholesale 6pk,38.0,9.6,364.8
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,LL - wholesale 6pk,75.0,9.6,720.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,LL - wholesale 6pk,28.0,9.6,268.8
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,LL - wholesale 6pk,20.0,9.6,192.0
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,LL - wholesale 6pk,16.0,12.0,192.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,825.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",825.6,9.6,LL - wholesale 6pk,50.0,9.6,480.0
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,LL - wholesale 6pk,24.0,12.0,288.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/5/20,1008.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - wholesale 6pk,28.0,12.0,336.0
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - wholesale 6pk,6.0,12.0,72.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,LL - wholesale 6pk,21.0,12.0,252.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/13/20,1267.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,LL - wholesale 6pk,48.0,9.6,460.79999999999995
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/14/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,LL - wholesale 6pk,24.0,9.6,230.39999999999998
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,LL - wholesale 6pk,30.0,12.0,360.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,LL - wholesale 6pk,30.0,12.0,360.0
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - wholesale 6pk,40.0,12.0,480.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - wholesale 6pk,56.0,12.0,672.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - wholesale 6pk,28.0,12.0,336.0
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,LL - wholesale 6pk,100.0,9.6,960.0
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/29/20,1497.6,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1497.6,9.6,LL - wholesale 6pk,72.0,9.6,691.1999999999999
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/29/20,345.6,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",345.6,9.600000000000001,LL - wholesale 6pk,24.0,9.6,230.39999999999998
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,10/29/20,720.12,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,LL - wholesale 6pk,50.0,9.6,480.0
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,10/29/20,2880.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2880.0,9.6,LL - wholesale 6pk,100.0,9.6,960.0
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - wholesale 6pk,50.0,12.0,600.0
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,11/2/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,LL - wholesale 6pk,12.0,9.6,115.19999999999999
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/5/20,1843.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1843.2,9.6,LL - wholesale 6pk,84.0,9.6,806.4
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,LL - wholesale 6pk,16.0,12.0,192.0
+Reef Dispensaries,Christy,New,0.0,0.0,Delivered,11/17/20,5040.0,"{'N': '10', 'R': '0.01', 'V': '0.01'}",5040.0,10.0,LL - wholesale 6pk,168.0,10.0,1680.0
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,LL - wholesale 6pk,50.0,12.0,600.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,11/24/20,324.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",324.0,9.0,LL - wholesale 6pk,12.0,9.0,108.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/24/20,756.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",756.0,9.0,LL - wholesale 6pk,36.0,9.0,324.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/24/20,864.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",864.0,9.0,LL - wholesale 6pk,36.0,9.0,324.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/24/20,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,LL - wholesale 6pk,48.0,9.0,432.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,LL - wholesale 6pk,12.0,12.0,144.0
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,11/30/20,480.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",480.0,9.6,LL - wholesale 6pk,50.0,9.6,480.0
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - wholesale 6pk,30.0,11.4,342.0
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - wholesale 6pk,30.0,11.4,342.0
+The Source Henderson,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,LL - wholesale 6pk,160.0,7.2,1152.0
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,LL - wholesale 6pk,160.0,7.2,1152.0
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,LL - wholesale 6pk,54.0,9.6,518.4
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,LL - wholesale 6pk,40.0,9.6,384.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,12/4/20,480.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",480.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,12/22/20,1080.0,Hardcoded,1080.0,12.0,LL - wholesale 6pk,30.0,12.0,360.0
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,LL - wholesale 6pk,12.0,12.0,144.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,LL - wholesale 6pk,15.0,12.0,180.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,LL - wholesale 6pk,30.0,9.6,288.0
+The Dispensary Henderson,Tyler,Existing,0.0,0.0,Delivered,12/23/20,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,LL - wholesale 6pk,25.0,9.0,225.0
+Apothecarium,Tyler,Exisiting,0.0,0.0,Delivered,12/30/20,600.0,Hardcoded,600.0,12.0,LL - wholesale 6pk,10.0,12.0,120.0
+Jardin,Tyler,New,0.0,0.0,Delivered,12/30/20,3240.0,Hardcoded,3240.0,9.0,LL - wholesale 6pk,120.0,9.0,1080.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/4/21,1188.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1188.0,9.0,LL - wholesale 6pk,48.0,9.0,432.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,1/4/21,1539.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1539.0,9.0,LL - wholesale 6pk,70.0,9.0,630.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/4/21,1449.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1449.0,9.0,LL - wholesale 6pk,65.0,9.0,585.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,1/4/21,648.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",648.0,9.0,LL - wholesale 6pk,24.0,9.0,216.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,1/4/21,918.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",918.0,9.0,LL - wholesale 6pk,36.0,9.0,324.0
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - wholesale 6pk,20.0,12.0,240.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,936.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",936.0,9.0,LL - wholesale 6pk,32.0,9.0,288.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,1008.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1008.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,1/12/21,1056.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1056.0,9.6,LL - wholesale 6pk,50.0,9.6,480.0
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,1/12/21,1920.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1920.0,9.6,LL - wholesale 6pk,120.0,9.6,1152.0
+MedMen Spring Valley,Christy,Existing,0.0,0.0,Delivered,1/12/21,1728.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1728.0,9.6,LL - wholesale 6pk,60.0,9.6,576.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,1/13/21,720.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,LL - wholesale 6pk,30.0,9.6,288.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/14/21,164.15,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",164.15,9.119444444444445,LL - wholesale 6pk,18.0,9.0,162.0
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,LL - wholesale 6pk,12.0,9.0,108.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,LL - wholesale 6pk,12.0,9.0,108.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,1/14/21,216.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",216.0,9.0,LL - wholesale 6pk,24.0,9.0,216.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,LL - wholesale 6pk,40.0,12.0,480.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/15/21,223.69,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",223.69,9.320416666666667,LL - wholesale 6pk,24.0,9.0,216.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/15/21,108.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",108.0,9.0,LL - wholesale 6pk,12.0,9.0,108.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,LL - wholesale 6pk,40.0,12.0,480.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,1/20/21,1800.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1800.0,9.0,LL - wholesale 6pk,67.0,9.0,603.0
+Essence Durango,0.0,Existing,0.0,0.0,Delivered,2/2/21,1440.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1440.0,9.0,LL - wholesale 6pk,65.0,9.0,585.0
+Essence Henderson,0.0,Existing,0.0,0.0,Delivered,2/2/21,1755.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1755.0,9.0,LL - wholesale 6pk,80.0,9.0,720.0
+Essence Rainbow,0.0,Existing,0.0,0.0,Delivered,2/2/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,LL - wholesale 6pk,15.0,9.0,135.0
+Essence Tropicana,0.0,Existing,0.0,0.0,Delivered,2/2/21,855.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",855.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/3/21,2160.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2160.0,12.0,LL - wholesale 6pk,60.0,12.0,720.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/3/21,1488.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1488.0,9.6,LL - wholesale 6pk,35.0,9.6,336.0
+Rise Carson City,0.0,Existing,0.0,0.0,Delivered,2/3/21,1170.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1170.0,9.0,LL - wholesale 6pk,65.0,9.0,585.0
+Rise Spanish Springs,0.0,Existing,0.0,0.0,Delivered,2/3/21,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,LL - wholesale 6pk,25.0,9.0,225.0
+Thrive North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/5/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+Silver Sage Wellness,0.0,Existing,2/2/21,0.0,Delivered,2/8/21,216.0,Hardcoded,216.0,9.0,LL - wholesale 6pk,8.0,9.0,72.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Thrive Reno,0.0,Existing,0.0,0.0,Delivered,2/8/21,1296.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+Thrive Southern Highlands,0.0,Existing,0.0,0.0,Delivered,2/8/21,828.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",828.0,9.0,LL - wholesale 6pk,32.0,9.0,288.0
+Thrive West Sahara,0.0,Existing,0.0,0.0,Delivered,2/8/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,LL - wholesale 6pk,48.0,9.0,432.0
+Mynt Downtown,0.0,Existing,0.0,0.0,Delivered,2/16/21,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,LL - wholesale 6pk,52.0,9.0,468.0
+Mynt North,0.0,Existing,0.0,0.0,Delivered,2/16/21,450.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",450.0,9.0,LL - wholesale 6pk,24.0,9.0,216.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,LL - wholesale 6pk,46.0,9.0,414.0
+The Dispensary Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Reno,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+Nuwu,0.0,Existing,2/18/21,0.0,Delivered,2/19/21,768.0,"{'N': '8', 'R': '0.01', 'V': '0.01'}",768.0,8.0,LL - wholesale 6pk,32.0,8.0,256.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,LL - wholesale 6pk,80.0,9.0,720.0
+Essence Durango,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,810.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",810.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+Essence Henderson,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,1098.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1098.0,9.0,LL - wholesale 6pk,50.0,9.0,450.0
+Essence Rainbow,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,450.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",450.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Essence Strip,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,135.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",135.0,9.0,LL - wholesale 6pk,15.0,9.0,135.0
+Essence Tropicana,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,513.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",513.0,9.0,LL - wholesale 6pk,45.0,9.0,405.0
+Rise Carson City,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,1350.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1350.0,9.0,LL - wholesale 6pk,55.0,9.0,495.0
+Rise Spanish Springs,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,675.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",675.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,1620.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1620.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+The Dispensary Las Vegas,0.0,Existing,3/1/21,0.0, Delivered ,3/3/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,303.06,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+The Dispensary Reno,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,3/3/21,0.0, Delivered ,3/5/21,2700.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2700.0,9.0,LL - wholesale 6pk,100.0,9.0,900.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,LL - wholesale 6pk,35.0,9.0,315.0
+Essence Henderson,0.0,Existing,3/2/21,0.0, Delivered ,3/8/21,1053.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1053.0,9.0,LL - wholesale 6pk,32.0,9.0,288.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,LL - wholesale 6pk,65.0,9.0,585.0
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,LL - wholesale 6pk,32.0,9.0,288.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,LL - wholesale 6pk,12.0,9.0,108.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,LL - wholesale 6pk,24.0,9.0,216.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,LL - wholesale 6pk,12.0,9.0,108.0
+The Dispensary Henderson,0.0, Existing ,3/9/21,18534.0, Delivered ,3/12/21,1080.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+Apothecarium,0.0, Existing ,3/10/21,18935.0, Delivered ,3/15/21,1620.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1620.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,60.0,9.0,540.0
+The Source Henderson,0.0,Existing,3/10/21,18635.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/10/21,18631.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Jardin,0.0, Existing ,3/9/21,18592.0, Delivered ,3/22/21,2471.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",2471.0,15.941935483870967,LL - wholesale 6pk,65.0,9.0,585.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18541.0, Delivered ,3/22/21,603.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",603.0,30.15,LL - wholesale 6pk,20.0,9.0,180.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,3/15/21,18563.0, Delivered ,3/23/21,2495.72,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2495.72,45.37672727272727,LL - wholesale 6pk,25.0,9.0,225.0
+Thrive Reno,0.0, Existing ,3/17/21,18716.0, Delivered ,3/24/21,1044.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1044.0,9.0,LL - wholesale 6pk,48.0,9.0,432.0
+Apothecary Shoppe,0.0, Existing ,3/22/21,18729.0, Delivered ,3/26/21,1296.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,LL - wholesale 6pk,48.0,9.0,432.0
+Pisos,0.0, Existing ,3/22/21,18731.0, Delivered ,3/26/21,744.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",744.0,15.5,LL - wholesale 6pk,16.0,9.0,144.0
+Essence Durango,0.0, Existing ,3/18/21,18620.0, Delivered ,3/29/21,1350.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1350.0,9.0,LL - wholesale 6pk,85.0,9.0,765.0
+Essence Henderson,0.0, Existing ,3/18/21,18622.0, Delivered ,3/29/21,1170.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1170.0,9.0,LL - wholesale 6pk,75.0,9.0,675.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,LL - wholesale 6pk,45.0,9.0,405.0
+Essence Tropicana,0.0, Existing ,3/18/21,18624.0, Delivered ,3/29/21,882.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",882.0,9.0,LL - wholesale 6pk,38.0,9.0,342.0
+Jardin,0.0,Existing,3/23/21,18615.0, Delivered ,3/29/21,666.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",666.0,5.123076923076923,LL - wholesale 6pk,40.0,9.0,360.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,630.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",630.0,9.0,LL - wholesale 6pk,30.0,9.0,270.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0, Existing ,3/19/21,18734.0, Delivered ,3/29/21,270.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",270.0,9.0,LL - wholesale 6pk,30.0,9.0,270.0
+Mynt North,0.0, Existing ,3/19/21,18734.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+Apothecarium,0.0, Existing ,3/19/21,18645.0, Delivered ,3/30/21,1512.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1512.0,9.0,LL - wholesale 6pk,56.0,9.0,504.0
+The Dispensary Las Vegas,0.0, Existing ,3/19/21,18733.0, Delivered ,3/30/21,945.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",945.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Las Vegas,0.0, Existing ,3/19/21,18733.0, Delivered ,3/30/21,201.6,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",201.6,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,LL - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0, Existing ,3/24/21,18742.0, Delivered ,3/30/21,1094.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1094.0,12.155555555555555,LL - wholesale 6pk,30.0,9.0,270.0
+The Source Rainbow,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,824.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",824.0,13.733333333333333,LL - wholesale 6pk,20.0,9.0,180.0
+The Source Reno,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,682.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",682.0,11.366666666666667,LL - wholesale 6pk,20.0,9.0,180.0
+Inyo,0.0,Existing,3/26/21,18730.0, Delivered ,3/31/21,540.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,LL - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,Existing,3/23/21,18613.0, Delivered ,3/31/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,LL - wholesale 6pk,40.0,9.0,360.0
+NuWu,0.0, Existing ,3/23/21,18744.0, Delivered ,3/31/21,1296.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,LL - wholesale 6pk,48.0,8.0,384.0
+NuWu North,0.0, Existing ,3/23/21,18743.0, Delivered ,3/31/21,576.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",576.0,8.0,LL - wholesale 6pk,24.0,8.0,192.0
+Thrive West Sahara,0.0, Existing ,3/22/21,18616.0, Delivered ,3/31/21,864.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",864.0,9.0,LL - wholesale 6pk,24.0,9.0,216.0
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - wholesale 6pk,56.0,12.0,672.0
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - wholesale 6pk,36.0,12.0,432.0
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - wholesale 6pk,56.0,12.0,672.0
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - wholesale 6pk,36.0,12.0,432.0
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - wholesale 6pk,36.0,12.0,432.0
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - wholesale 6pk,40.0,12.0,480.0
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - wholesale 6pk,112.0,12.0,1344.0
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - wholesale 6pk,112.0,12.0,1344.0
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - wholesale 6pk,112.0,12.0,1344.0
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/4/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,60.0,12.0,720.0
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - wholesale 6pk,40.0,12.0,480.0
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/26/20,540.45,"{'N': '12', 'R': '0.01', 'V': '0.01'}",540.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Essence Durango,Team,Existing,0.0,0.0,Delivered,8/26/20,912.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",912.0,12.0,BOC - wholesale 6pk,24.0,12.0,288.0
+Essence Rainbow,Team,Existing,0.0,0.0,Delivered,8/26/20,1296.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,20.0,12.0,240.0
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - wholesale 6pk,28.0,12.0,336.0
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,40.0,12.0,480.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,BOC - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,BOC - wholesale 6pk,36.0,9.6,345.59999999999997
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,BOC - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,9/21/20,461.04,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,BOC - wholesale 6pk,24.0,9.6,230.39999999999998
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - wholesale 6pk,6.0,12.0,72.0
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,BOC - wholesale 6pk,100.0,12.0,1200.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - wholesale 6pk,56.0,12.0,672.0
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,BOC - wholesale 6pk,96.0,12.0,1152.0
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,20.0,12.0,240.0
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,20.0,12.0,240.0
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - wholesale 6pk,56.0,12.0,672.0
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,20.0,12.0,240.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,BOC - wholesale 6pk,30.0,9.6,288.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,BOC - wholesale 6pk,72.0,9.6,691.1999999999999
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,BOC - wholesale 6pk,40.0,9.6,384.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,BOC - wholesale 6pk,26.0,9.6,249.6
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,BOC - wholesale 6pk,18.0,12.0,216.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,40.0,12.0,480.0
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,825.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",825.6,9.6,BOC - wholesale 6pk,36.0,9.6,345.59999999999997
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,518.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",518.4,9.6,BOC - wholesale 6pk,54.0,9.6,518.4
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,BOC - wholesale 6pk,24.0,12.0,288.0
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - wholesale 6pk,6.0,12.0,72.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,BOC - wholesale 6pk,21.0,12.0,252.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/13/20,1267.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,BOC - wholesale 6pk,36.0,9.6,345.59999999999997
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/13/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,BOC - wholesale 6pk,24.0,9.6,230.39999999999998
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/13/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,BOC - wholesale 6pk,24.0,9.6,230.39999999999998
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - wholesale 6pk,40.0,12.0,480.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - wholesale 6pk,84.0,12.0,1008.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - wholesale 6pk,28.0,12.0,336.0
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,BOC - wholesale 6pk,125.0,9.6,1200.0
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/29/20,1497.6,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1497.6,9.6,BOC - wholesale 6pk,72.0,9.6,691.1999999999999
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/29/20,230.4,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",230.4,9.6,BOC - wholesale 6pk,12.0,9.6,115.19999999999999
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/29/20,345.6,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",345.6,9.600000000000001,BOC - wholesale 6pk,12.0,9.6,115.19999999999999
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,10/29/20,720.12,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,BOC - wholesale 6pk,25.0,9.6,240.0
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,10/29/20,2880.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2880.0,9.6,BOC - wholesale 6pk,100.0,9.6,960.0
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,11/2/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,BOC - wholesale 6pk,36.0,9.6,345.59999999999997
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/5/20,1843.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1843.2,9.6,BOC - wholesale 6pk,84.0,9.6,806.4
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,BOC - wholesale 6pk,16.0,12.0,192.0
+Reef Dispensaries,Christy,New,0.0,0.0,Delivered,11/17/20,5040.0,"{'N': '10', 'R': '0.01', 'V': '0.01'}",5040.0,10.0,BOC - wholesale 6pk,168.0,10.0,1680.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,11/20/20,360.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,11/24/20,216.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",216.0,9.0,BOC - wholesale 6pk,24.0,9.0,216.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/24/20,756.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",756.0,9.0,BOC - wholesale 6pk,12.0,9.0,108.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/24/20,864.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",864.0,9.0,BOC - wholesale 6pk,24.0,9.0,216.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/24/20,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,BOC - wholesale 6pk,36.0,9.0,324.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - wholesale 6pk,10.0,12.0,120.0
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,BOC - wholesale 6pk,12.0,12.0,144.0
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - wholesale 6pk,30.0,11.4,342.0
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - wholesale 6pk,30.0,11.4,342.0
+The Source Henderson,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,BOC - wholesale 6pk,160.0,7.2,1152.0
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,BOC - wholesale 6pk,160.0,7.2,1152.0
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,BOC - wholesale 6pk,54.0,9.6,518.4
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,BOC - wholesale 6pk,40.0,9.6,384.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,12/4/20,480.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",480.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,12/22/20,1080.0,Hardcoded,1080.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,BOC - wholesale 6pk,12.0,12.0,144.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,BOC - wholesale 6pk,30.0,9.6,288.0
+The Dispensary Henderson,Tyler,Existing,0.0,0.0,Delivered,12/23/20,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,BOC - wholesale 6pk,42.0,9.0,378.0
+Apothecarium,Tyler,Exisiting,0.0,0.0,Delivered,12/30/20,600.0,Hardcoded,600.0,12.0,BOC - wholesale 6pk,30.0,12.0,360.0
+Jardin,Tyler,New,0.0,0.0,Delivered,12/30/20,3240.0,Hardcoded,3240.0,9.0,BOC - wholesale 6pk,120.0,9.0,1080.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/4/21,1188.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1188.0,9.0,BOC - wholesale 6pk,36.0,9.0,324.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,1/4/21,1539.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1539.0,9.0,BOC - wholesale 6pk,65.0,9.0,585.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/4/21,1449.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1449.0,9.0,BOC - wholesale 6pk,48.0,9.0,432.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,1/4/21,648.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",648.0,9.0,BOC - wholesale 6pk,24.0,9.0,216.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,1/4/21,918.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",918.0,9.0,BOC - wholesale 6pk,42.0,9.0,378.0
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - wholesale 6pk,20.0,12.0,240.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,936.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",936.0,9.0,BOC - wholesale 6pk,48.0,9.0,432.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,1008.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1008.0,9.0,BOC - wholesale 6pk,36.0,9.0,324.0
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,1/12/21,1056.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1056.0,9.6,BOC - wholesale 6pk,60.0,9.6,576.0
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,1/12/21,1920.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1920.0,9.6,BOC - wholesale 6pk,80.0,9.6,768.0
+MedMen Spring Valley,Christy,Existing,0.0,0.0,Delivered,1/12/21,1728.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1728.0,9.6,BOC - wholesale 6pk,60.0,9.6,576.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,1/13/21,720.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,BOC - wholesale 6pk,35.0,9.6,336.0
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,BOC - wholesale 6pk,30.0,9.0,270.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,BOC - wholesale 6pk,24.0,9.0,216.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,BOC - wholesale 6pk,50.0,12.0,600.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,BOC - wholesale 6pk,60.0,12.0,720.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,1/20/21,1800.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1800.0,9.0,BOC - wholesale 6pk,67.0,9.0,603.0
+Essence Durango,0.0,Existing,0.0,0.0,Delivered,2/2/21,1440.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1440.0,9.0,BOC - wholesale 6pk,25.0,9.0,225.0
+Essence Henderson,0.0,Existing,0.0,0.0,Delivered,2/2/21,1755.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1755.0,9.0,BOC - wholesale 6pk,45.0,9.0,405.0
+Essence Rainbow,0.0,Existing,0.0,0.0,Delivered,2/2/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,BOC - wholesale 6pk,30.0,9.0,270.0
+Essence Tropicana,0.0,Existing,0.0,0.0,Delivered,2/2/21,855.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",855.0,9.0,BOC - wholesale 6pk,25.0,9.0,225.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/3/21,2160.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2160.0,12.0,BOC - wholesale 6pk,80.0,12.0,960.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/3/21,1488.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1488.0,9.6,BOC - wholesale 6pk,60.0,9.6,576.0
+Rise Carson City,0.0,Existing,0.0,0.0,Delivered,2/3/21,1170.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1170.0,9.0,BOC - wholesale 6pk,35.0,9.0,315.0
+Rise Spanish Springs,0.0,Existing,0.0,0.0,Delivered,2/3/21,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,BOC - wholesale 6pk,35.0,9.0,315.0
+Thrive North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/5/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,BOC - wholesale 6pk,28.0,9.0,252.0
+Silver Sage Wellness,0.0,Existing,2/2/21,0.0,Delivered,2/8/21,216.0,Hardcoded,216.0,9.0,BOC - wholesale 6pk,8.0,9.0,72.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Thrive Reno,0.0,Existing,0.0,0.0,Delivered,2/8/21,1296.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,BOC - wholesale 6pk,24.0,9.0,216.0
+Thrive Southern Highlands,0.0,Existing,0.0,0.0,Delivered,2/8/21,828.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",828.0,9.0,BOC - wholesale 6pk,60.0,9.0,540.0
+Thrive West Sahara,0.0,Existing,0.0,0.0,Delivered,2/8/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,BOC - wholesale 6pk,28.0,9.0,252.0
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,BOC - wholesale 6pk,48.0,9.0,432.0
+Mynt Downtown,0.0,Existing,0.0,0.0,Delivered,2/16/21,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,BOC - wholesale 6pk,52.0,9.0,468.0
+Mynt North,0.0,Existing,0.0,0.0,Delivered,2/16/21,450.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",450.0,9.0,BOC - wholesale 6pk,18.0,9.0,162.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,BOC - wholesale 6pk,10.0,9.0,90.0
+The Dispensary Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+The Dispensary Reno,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,BOC - wholesale 6pk,80.0,9.0,720.0
+Nuwu,0.0,Existing,2/18/21,0.0,Delivered,2/19/21,768.0,"{'N': '8', 'R': '0.01', 'V': '0.01'}",768.0,8.0,BOC - wholesale 6pk,32.0,8.0,256.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,BOC - wholesale 6pk,80.0,9.0,720.0
+Essence Durango,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,810.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",810.0,9.0,BOC - wholesale 6pk,30.0,9.0,270.0
+Essence Henderson,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,1098.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1098.0,9.0,BOC - wholesale 6pk,60.0,9.0,540.0
+Essence Rainbow,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,450.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",450.0,9.0,BOC - wholesale 6pk,30.0,9.0,270.0
+Essence Tropicana,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,513.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",513.0,9.0,BOC - wholesale 6pk,12.0,9.0,108.0
+Rise Carson City,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,1350.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1350.0,9.0,BOC - wholesale 6pk,75.0,9.0,675.0
+Rise Spanish Springs,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,675.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",675.0,9.0,BOC - wholesale 6pk,35.0,9.0,315.0
+Apothecarium,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,1620.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1620.0,9.0,BOC - wholesale 6pk,60.0,9.0,540.0
+The Dispensary Las Vegas,0.0,Existing,3/1/21,0.0, Delivered ,3/3/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,303.06,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+The Dispensary Reno,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,3/3/21,0.0, Delivered ,3/5/21,2700.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2700.0,9.0,BOC - wholesale 6pk,100.0,9.0,900.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,BOC - wholesale 6pk,30.0,9.0,270.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,BOC - wholesale 6pk,35.0,9.0,315.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,BOC - wholesale 6pk,24.0,9.0,216.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,BOC - wholesale 6pk,12.0,9.0,108.0
+The Dispensary Henderson,0.0, Existing ,3/9/21,18534.0, Delivered ,3/12/21,1080.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,BOC - wholesale 6pk,60.0,9.0,540.0
+Apothecarium,0.0, Existing ,3/10/21,18935.0, Delivered ,3/15/21,1620.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1620.0,9.0,BOC - wholesale 6pk,120.0,9.0,1080.0
+The Source Henderson,0.0,Existing,3/10/21,18635.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/10/21,18631.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Jardin,0.0, Existing ,3/9/21,18592.0, Delivered ,3/22/21,2471.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",2471.0,15.941935483870967,BOC - wholesale 6pk,90.0,9.0,810.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,3/15/21,18563.0, Delivered ,3/23/21,2495.72,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2495.72,45.37672727272727,BOC - wholesale 6pk,30.0,9.0,270.0
+Thrive Reno,0.0, Existing ,3/17/21,18716.0, Delivered ,3/24/21,1044.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1044.0,9.0,BOC - wholesale 6pk,40.0,9.0,360.0
+Apothecary Shoppe,0.0, Existing ,3/22/21,18729.0, Delivered ,3/26/21,1296.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,BOC - wholesale 6pk,48.0,9.0,432.0
+Pisos,0.0, Existing ,3/22/21,18731.0, Delivered ,3/26/21,744.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",744.0,15.5,BOC - wholesale 6pk,16.0,9.0,144.0
+Thrive North Las Vegas,0.0, Extisting ,3/17/21,18690.0, Delivered ,3/26/21,582.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",582.0,9.09375,BOC - wholesale 6pk,32.0,9.0,288.0
+Essence Durango,0.0, Existing ,3/18/21,18620.0, Delivered ,3/29/21,1350.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1350.0,9.0,BOC - wholesale 6pk,40.0,9.0,360.0
+Essence Henderson,0.0, Existing ,3/18/21,18622.0, Delivered ,3/29/21,1170.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1170.0,9.0,BOC - wholesale 6pk,25.0,9.0,225.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,BOC - wholesale 6pk,25.0,9.0,225.0
+Essence Tropicana,0.0, Existing ,3/18/21,18624.0, Delivered ,3/29/21,882.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",882.0,9.0,BOC - wholesale 6pk,45.0,9.0,405.0
+Jardin,0.0,Existing,3/23/21,18615.0, Delivered ,3/29/21,666.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",666.0,5.123076923076923,BOC - wholesale 6pk,30.0,9.0,270.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,630.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",630.0,9.0,BOC - wholesale 6pk,30.0,9.0,270.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0, Existing ,3/19/21,18734.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+Apothecarium,0.0, Existing ,3/19/21,18645.0, Delivered ,3/30/21,1512.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1512.0,9.0,BOC - wholesale 6pk,80.0,9.0,720.0
+The Dispensary Las Vegas,0.0, Existing ,3/19/21,18733.0, Delivered ,3/30/21,945.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",945.0,9.0,BOC - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Las Vegas,0.0, Existing ,3/19/21,18733.0, Delivered ,3/30/21,201.6,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",201.6,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,BOC - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,BOC - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0, Existing ,3/24/21,18742.0, Delivered ,3/30/21,1094.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1094.0,12.155555555555555,BOC - wholesale 6pk,30.0,9.0,270.0
+The Source Rainbow,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,824.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",824.0,13.733333333333333,BOC - wholesale 6pk,20.0,9.0,180.0
+The Source Reno,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,682.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",682.0,11.366666666666667,BOC - wholesale 6pk,20.0,9.0,180.0
+Inyo,0.0,Existing,3/26/21,18730.0, Delivered ,3/31/21,540.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,BOC - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,Existing,3/23/21,18613.0, Delivered ,3/31/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,BOC - wholesale 6pk,40.0,9.0,360.0
+NuWu,0.0, Existing ,3/23/21,18744.0, Delivered ,3/31/21,1296.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,BOC - wholesale 6pk,48.0,8.0,384.0
+NuWu North,0.0, Existing ,3/23/21,18743.0, Delivered ,3/31/21,576.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",576.0,8.0,BOC - wholesale 6pk,24.0,8.0,192.0
+Thrive West Sahara,0.0, Existing ,3/22/21,18616.0, Delivered ,3/31/21,864.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",864.0,9.0,BOC - wholesale 6pk,48.0,9.0,432.0
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - wholesale 6pk,56.0,12.0,672.0
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - wholesale 6pk,36.0,12.0,432.0
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - wholesale 6pk,56.0,12.0,672.0
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - wholesale 6pk,36.0,12.0,432.0
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - wholesale 6pk,36.0,12.0,432.0
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - wholesale 6pk,112.0,12.0,1344.0
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - wholesale 6pk,112.0,12.0,1344.0
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - wholesale 6pk,112.0,12.0,1344.0
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/26/20,540.45,"{'N': '12', 'R': '0.01', 'V': '0.01'}",540.0,12.0,GR - wholesale 6pk,15.0,12.0,180.0
+Essence Durango,Team,Existing,0.0,0.0,Delivered,8/26/20,912.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",912.0,12.0,GR - wholesale 6pk,16.0,12.0,192.0
+Essence Rainbow,Team,Existing,0.0,0.0,Delivered,8/26/20,1296.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - wholesale 6pk,36.0,12.0,432.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - wholesale 6pk,20.0,12.0,240.0
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - wholesale 6pk,28.0,12.0,336.0
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,GR - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,GR - wholesale 6pk,36.0,9.6,345.59999999999997
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,GR - wholesale 6pk,36.0,9.6,345.59999999999997
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - wholesale 6pk,6.0,12.0,72.0
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,GR - wholesale 6pk,100.0,12.0,1200.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - wholesale 6pk,50.0,12.0,600.0
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,GR - wholesale 6pk,96.0,12.0,1152.0
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - wholesale 6pk,20.0,12.0,240.0
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - wholesale 6pk,20.0,12.0,240.0
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - wholesale 6pk,56.0,12.0,672.0
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - wholesale 6pk,50.0,12.0,600.0
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - wholesale 6pk,20.0,12.0,240.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,GR - wholesale 6pk,28.0,9.6,268.8
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,GR - wholesale 6pk,40.0,9.6,384.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,GR - wholesale 6pk,16.0,9.6,153.6
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,GR - wholesale 6pk,18.0,9.6,172.79999999999998
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,GR - wholesale 6pk,16.0,12.0,192.0
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,GR - wholesale 6pk,24.0,12.0,288.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/5/20,1008.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - wholesale 6pk,56.0,12.0,672.0
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - wholesale 6pk,6.0,12.0,72.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,GR - wholesale 6pk,21.0,12.0,252.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/13/20,1267.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,GR - wholesale 6pk,48.0,9.6,460.79999999999995
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/13/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,GR - wholesale 6pk,24.0,9.6,230.39999999999998
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/13/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,GR - wholesale 6pk,24.0,9.6,230.39999999999998
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/14/20,460.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,GR - wholesale 6pk,24.0,9.6,230.39999999999998
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,GR - wholesale 6pk,30.0,12.0,360.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,GR - wholesale 6pk,15.0,12.0,180.0
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - wholesale 6pk,28.0,12.0,336.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - wholesale 6pk,28.0,12.0,336.0
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - wholesale 6pk,75.0,9.0,675.0
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - wholesale 6pk,75.0,9.0,675.0
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,GR - wholesale 6pk,50.0,9.6,480.0
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - wholesale 6pk,75.0,9.0,675.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,10/29/20,1497.6,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1497.6,9.6,GR - wholesale 6pk,12.0,9.6,115.19999999999999
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/29/20,230.4,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",230.4,9.6,GR - wholesale 6pk,12.0,9.6,115.19999999999999
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,10/29/20,2880.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2880.0,9.6,GR - wholesale 6pk,100.0,9.6,960.0
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - wholesale 6pk,50.0,12.0,600.0
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - wholesale 6pk,75.0,9.0,675.0
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - wholesale 6pk,75.0,9.0,675.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/5/20,1843.2,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1843.2,9.6,GR - wholesale 6pk,24.0,9.6,230.39999999999998
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,GR - wholesale 6pk,16.0,12.0,192.0
+Reef Dispensaries,Christy,New,0.0,0.0,Delivered,11/17/20,5040.0,"{'N': '10', 'R': '0.01', 'V': '0.01'}",5040.0,10.0,GR - wholesale 6pk,168.0,10.0,1680.0
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,GR - wholesale 6pk,25.0,12.0,300.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,11/24/20,324.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",324.0,9.0,GR - wholesale 6pk,24.0,9.0,216.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/24/20,756.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",756.0,9.0,GR - wholesale 6pk,36.0,9.0,324.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/24/20,864.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",864.0,9.0,GR - wholesale 6pk,36.0,9.0,324.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/24/20,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,GR - wholesale 6pk,36.0,9.0,324.0
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,GR - wholesale 6pk,12.0,12.0,144.0
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - wholesale 6pk,30.0,11.4,342.0
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - wholesale 6pk,30.0,11.4,342.0
+The Source Henderson,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,GR - wholesale 6pk,160.0,7.2,1152.0
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,11/30/20,3456.0,"{'N': '7.2', 'R': '0.01', 'V': '0.01'}",3456.0,7.2,GR - wholesale 6pk,160.0,7.2,1152.0
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,GR - wholesale 6pk,54.0,9.6,518.4
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,GR - wholesale 6pk,40.0,9.6,384.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,12/22/20,1080.0,Hardcoded,1080.0,12.0,GR - wholesale 6pk,30.0,12.0,360.0
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,GR - wholesale 6pk,12.0,12.0,144.0
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,GR - wholesale 6pk,30.0,12.0,360.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,GR - wholesale 6pk,30.0,9.6,288.0
+The Dispensary Henderson,Tyler,Existing,0.0,0.0,Delivered,12/23/20,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,GR - wholesale 6pk,18.0,9.0,162.0
+Apothecarium,Tyler,Exisiting,0.0,0.0,Delivered,12/30/20,600.0,Hardcoded,600.0,12.0,GR - wholesale 6pk,10.0,12.0,120.0
+Jardin,Tyler,New,0.0,0.0,Delivered,12/30/20,3240.0,Hardcoded,3240.0,9.0,GR - wholesale 6pk,120.0,9.0,1080.0
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/4/21,1188.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1188.0,9.0,GR - wholesale 6pk,48.0,9.0,432.0
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,1/4/21,1539.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1539.0,9.0,GR - wholesale 6pk,36.0,9.0,324.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/4/21,1449.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1449.0,9.0,GR - wholesale 6pk,48.0,9.0,432.0
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,1/4/21,648.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",648.0,9.0,GR - wholesale 6pk,24.0,9.0,216.0
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,1/4/21,918.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",918.0,9.0,GR - wholesale 6pk,24.0,9.0,216.0
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - wholesale 6pk,20.0,12.0,240.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,936.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",936.0,9.0,GR - wholesale 6pk,24.0,9.0,216.0
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,1008.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1008.0,9.0,GR - wholesale 6pk,36.0,9.0,324.0
+MedMen Spring Valley,Christy,Existing,0.0,0.0,Delivered,1/12/21,1728.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1728.0,9.6,GR - wholesale 6pk,60.0,9.6,576.0
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,1/13/21,720.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,GR - wholesale 6pk,10.0,9.6,96.0
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,GR - wholesale 6pk,24.0,9.0,216.0
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,GR - wholesale 6pk,12.0,9.0,108.0
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,1/20/21,1800.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1800.0,9.0,GR - wholesale 6pk,66.0,9.0,594.0
+Essence Durango,0.0,Existing,0.0,0.0,Delivered,2/2/21,1440.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1440.0,9.0,GR - wholesale 6pk,70.0,9.0,630.0
+Essence Henderson,0.0,Existing,0.0,0.0,Delivered,2/2/21,1755.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1755.0,9.0,GR - wholesale 6pk,70.0,9.0,630.0
+Essence Rainbow,0.0,Existing,0.0,0.0,Delivered,2/2/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,GR - wholesale 6pk,15.0,9.0,135.0
+Essence Tropicana,0.0,Existing,0.0,0.0,Delivered,2/2/21,855.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",855.0,9.0,GR - wholesale 6pk,30.0,9.0,270.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/3/21,2160.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2160.0,12.0,GR - wholesale 6pk,40.0,12.0,480.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/3/21,1488.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1488.0,9.6,GR - wholesale 6pk,60.0,9.6,576.0
+Rise Carson City,0.0,Existing,0.0,0.0,Delivered,2/3/21,1170.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1170.0,9.0,GR - wholesale 6pk,30.0,9.0,270.0
+Rise Spanish Springs,0.0,Existing,0.0,0.0,Delivered,2/3/21,765.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",765.0,9.0,GR - wholesale 6pk,25.0,9.0,225.0
+Thrive North Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/5/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,GR - wholesale 6pk,60.0,9.0,540.0
+Silver Sage Wellness,0.0,Existing,2/2/21,0.0,Delivered,2/8/21,216.0,Hardcoded,216.0,9.0,GR - wholesale 6pk,8.0,9.0,72.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/8/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Thrive Reno,0.0,Existing,0.0,0.0,Delivered,2/8/21,1296.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,GR - wholesale 6pk,60.0,9.0,540.0
+Thrive West Sahara,0.0,Existing,0.0,0.0,Delivered,2/8/21,1332.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1332.0,9.0,GR - wholesale 6pk,60.0,9.0,540.0
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,GR - wholesale 6pk,48.0,9.0,432.0
+Mynt Downtown,0.0,Existing,0.0,0.0,Delivered,2/16/21,1080.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1080.0,9.0,GR - wholesale 6pk,16.0,9.0,144.0
+Mynt North,0.0,Existing,0.0,0.0,Delivered,2/16/21,450.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",450.0,9.0,GR - wholesale 6pk,8.0,9.0,72.0
+The Dispensary Henderson,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,GR - wholesale 6pk,44.0,9.0,396.0
+The Dispensary Las Vegas,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,GR - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Reno,0.0,Existing,0.0,0.0,Delivered,2/16/21,900.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",900.0,9.0,GR - wholesale 6pk,40.0,9.0,360.0
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Nuwu,0.0,Existing,2/18/21,0.0,Delivered,2/19/21,768.0,"{'N': '8', 'R': '0.01', 'V': '0.01'}",768.0,8.0,GR - wholesale 6pk,32.0,8.0,256.0
+The Source Henderson,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,0.0,0.0,Delivered,2/19/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,GR - wholesale 6pk,80.0,9.0,720.0
+Essence Henderson,0.0,Existing,2/17/21,0.0, Delivered ,2/23/21,1098.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1098.0,9.0,GR - wholesale 6pk,12.0,9.0,108.0
+Rise Carson City,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,1350.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1350.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Rise Spanish Springs,0.0,Existing,2/17/21,0.0, Delivered ,2/24/21,675.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",675.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,1620.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1620.0,9.0,GR - wholesale 6pk,60.0,9.0,540.0
+The Dispensary Las Vegas,0.0,Existing,3/1/21,0.0, Delivered ,3/3/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,303.06,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+The Dispensary Reno,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,302.4,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/1/21,0.0,Delivered,3/4/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Apothecarium,0.0,Existing,3/3/21,0.0, Delivered ,3/5/21,2700.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2700.0,9.0,GR - wholesale 6pk,100.0,9.0,900.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,GR - wholesale 6pk,45.0,9.0,405.0
+Essence Henderson,0.0,Existing,3/2/21,0.0, Delivered ,3/8/21,1053.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1053.0,9.0,GR - wholesale 6pk,85.0,9.0,765.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,GR - wholesale 6pk,25.0,9.0,225.0
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,GR - wholesale 6pk,35.0,9.0,315.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,GR - wholesale 6pk,45.0,9.0,405.0
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,GR - wholesale 6pk,25.0,9.0,225.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,GR - wholesale 6pk,40.0,9.0,360.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,GR - wholesale 6pk,12.0,9.0,108.0
+The Dispensary Henderson,0.0, Existing ,3/9/21,18534.0, Delivered ,3/12/21,1080.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Henderson,0.0,Existing,3/10/21,18635.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Rainbow,0.0,Existing,3/10/21,18631.0,Delivered,3/18/21,540.0,"{'N': '9', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Thrive Reno,0.0, Existing ,3/17/21,18716.0, Delivered ,3/24/21,1044.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1044.0,9.0,GR - wholesale 6pk,28.0,9.0,252.0
+Apothecary Shoppe,0.0, Existing ,3/22/21,18729.0, Delivered ,3/26/21,1296.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,GR - wholesale 6pk,48.0,9.0,432.0
+Pisos,0.0, Existing ,3/22/21,18731.0, Delivered ,3/26/21,744.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",744.0,15.5,GR - wholesale 6pk,16.0,9.0,144.0
+Thrive North Las Vegas,0.0, Extisting ,3/17/21,18690.0, Delivered ,3/26/21,582.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",582.0,9.09375,GR - wholesale 6pk,32.0,9.0,288.0
+Essence Durango,0.0, Existing ,3/18/21,18620.0, Delivered ,3/29/21,1350.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1350.0,9.0,GR - wholesale 6pk,25.0,9.0,225.0
+Essence Henderson,0.0, Existing ,3/18/21,18622.0, Delivered ,3/29/21,1170.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1170.0,9.0,GR - wholesale 6pk,30.0,9.0,270.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,GR - wholesale 6pk,20.0,9.0,180.0
+Essence Tropicana,0.0, Existing ,3/18/21,18624.0, Delivered ,3/29/21,882.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",882.0,9.0,GR - wholesale 6pk,15.0,9.0,135.0
+Jardin,0.0,Existing,3/23/21,18615.0, Delivered ,3/29/21,666.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",666.0,5.123076923076923,GR - wholesale 6pk,60.0,9.0,540.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,630.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",630.0,9.0,GR - wholesale 6pk,10.0,9.0,90.0
+Mynt Downtown,0.0, Existing ,3/19/21,18735.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+Mynt North,0.0, Existing ,3/19/21,18734.0, Delivered ,3/29/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+Apothecarium,0.0, Existing ,3/19/21,18645.0, Delivered ,3/30/21,1512.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1512.0,9.0,GR - wholesale 6pk,32.0,9.0,288.0
+The Dispensary Henderson,0.0, Existing ,3/19/21,18732.0, Delivered ,3/30/21,270.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",270.0,9.0,GR - wholesale 6pk,30.0,9.0,270.0
+The Dispensary Las Vegas,0.0, Existing ,3/19/21,18733.0, Delivered ,3/30/21,945.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",945.0,9.0,GR - wholesale 6pk,25.0,9.0,225.0
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,GR - wholesale 6pk,40.0,9.0,360.0
+The Dispensary Reno,0.0, Existing ,3/19/21,18736.0, Delivered ,3/30/21,302.4,"{'N': '6.3', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",302.4,6.3,GR - wholesale 6pk,16.0,6.3,100.8
+The Source Henderson,0.0, Existing ,3/24/21,18742.0, Delivered ,3/30/21,1094.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1094.0,12.155555555555555,GR - wholesale 6pk,30.0,9.0,270.0
+The Source Rainbow,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,824.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",824.0,13.733333333333333,GR - wholesale 6pk,20.0,9.0,180.0
+The Source Reno,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,682.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",682.0,11.366666666666667,GR - wholesale 6pk,20.0,9.0,180.0
+Inyo,0.0,Existing,3/26/21,18730.0, Delivered ,3/31/21,540.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",540.0,9.0,GR - wholesale 6pk,20.0,9.0,180.0
+Las Vegas ReLeaf,0.0,Existing,3/23/21,18613.0, Delivered ,3/31/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,9.0,GR - wholesale 6pk,40.0,9.0,360.0
+NuWu,0.0, Existing ,3/23/21,18744.0, Delivered ,3/31/21,1296.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,GR - wholesale 6pk,48.0,8.0,384.0
+NuWu North,0.0, Existing ,3/23/21,18743.0, Delivered ,3/31/21,576.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",576.0,8.0,GR - wholesale 6pk,24.0,8.0,192.0
+Thrive West Sahara,0.0, Existing ,3/22/21,18616.0, Delivered ,3/31/21,864.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",864.0,9.0,GR - wholesale 6pk,24.0,9.0,216.0
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - promo - 6pk,56.0,0.01,0.56
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - promo - 6pk,36.0,0.01,0.36
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - promo - 6pk,56.0,0.01,0.56
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - promo - 6pk,36.0,0.01,0.36
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - promo - 6pk,36.0,0.01,0.36
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - promo - 6pk,40.0,0.01,0.4
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - promo - 6pk,112.0,0.01,1.12
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - promo - 6pk,112.0,0.01,1.12
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - promo - 6pk,112.0,0.01,1.12
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - promo - 6pk,40.0,0.01,0.4
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - promo - 6pk,36.0,0.01,0.36
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,LL - promo - 6pk,60.0,0.01,0.6
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - promo - 6pk,28.0,0.01,0.28
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,LL - promo - 6pk,100.0,0.01,1.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - promo - 6pk,50.0,0.01,0.5
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - promo - 6pk,28.0,0.01,0.28
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,LL - promo - 6pk,96.0,0.01,0.96
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - promo - 6pk,56.0,0.01,0.56
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - promo - 6pk,50.0,0.01,0.5
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,LL - promo - 6pk,16.0,0.01,0.16
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,20.0,0.01,0.2
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,LL - promo - 6pk,24.0,0.01,0.24
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,LL - promo - 6pk,21.0,0.01,0.21
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - promo - 6pk,40.0,0.01,0.4
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - promo - 6pk,14.0,0.01,0.14
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,LL - promo - 6pk,50.0,0.01,0.5
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - promo - 6pk,50.0,0.01,0.5
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,LL - promo - 6pk,16.0,0.01,0.16
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,LL - promo - 6pk,25.0,0.01,0.25
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,LL - promo - 6pk,12.0,0.01,0.12
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,11/30/20,480.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",480.0,9.6,LL - promo - 6pk,50.0,0.01,0.5
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - promo - 6pk,30.0,0.01,0.3
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - promo - 6pk,30.0,0.01,0.3
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,LL - promo - 6pk,54.0,0.01,0.54
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,LL - promo - 6pk,40.0,0.01,0.4
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,12/2/20,1.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",0.0,,LL - promo - 6pk,50.0,0.01,0.5
+MedMen Spring Valley,Christy,Existing,0.0,0.0,Delivered,12/2/20,0.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",0.0,,LL - promo - 6pk,50.0,0.01,0.5
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,LL - promo - 6pk,12.0,0.01,0.12
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,LL - promo - 6pk,15.0,0.01,0.15
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,LL - promo - 6pk,10.0,0.01,0.1
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - promo - 6pk,10.0,0.01,0.1
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,LL - promo - 6pk,40.0,0.01,0.4
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,LL - promo - 6pk,40.0,0.01,0.4
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,LL - promo - 6pk,100.0,0.01,1.0
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,LL - promo - 6pk,100.0,0.01,1.0
+Mynt Downtown,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,1.48,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,LL - promo - 6pk,20.0,0.01,0.2
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,LL - promo - 6pk,12.0,0.01,0.12
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - promo - 6pk,56.0,0.01,0.56
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - promo - 6pk,36.0,0.01,0.36
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - promo - 6pk,56.0,0.01,0.56
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - promo - 6pk,36.0,0.01,0.36
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - promo - 6pk,36.0,0.01,0.36
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - promo - 6pk,40.0,0.01,0.4
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - promo - 6pk,112.0,0.01,1.12
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - promo - 6pk,112.0,0.01,1.12
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - promo - 6pk,112.0,0.01,1.12
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/4/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,60.0,0.01,0.6
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - promo - 6pk,40.0,0.01,0.4
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - promo - 6pk,36.0,0.01,0.36
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/26/20,540.45,"{'N': '12', 'R': '0.01', 'V': '0.01'}",540.0,12.0,BOC - promo - 6pk,30.0,0.01,0.3
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,20.0,0.01,0.2
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - promo - 6pk,28.0,0.01,0.28
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,40.0,0.01,0.4
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,BOC - promo - 6pk,100.0,0.01,1.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - promo - 6pk,50.0,0.01,0.5
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - promo - 6pk,56.0,0.01,0.56
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,BOC - promo - 6pk,96.0,0.01,0.96
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,20.0,0.01,0.2
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - promo - 6pk,56.0,0.01,0.56
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - promo - 6pk,50.0,0.01,0.5
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,20.0,0.01,0.2
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,BOC - promo - 6pk,18.0,0.01,0.18
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,40.0,0.01,0.4
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,BOC - promo - 6pk,24.0,0.01,0.24
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,BOC - promo - 6pk,21.0,0.01,0.21
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - promo - 6pk,40.0,0.01,0.4
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - promo - 6pk,14.0,0.01,0.14
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,BOC - promo - 6pk,63.0,0.01,0.63
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - promo - 6pk,50.0,0.01,0.5
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,BOC - promo - 6pk,16.0,0.01,0.16
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,BOC - promo - 6pk,25.0,0.01,0.25
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,BOC - promo - 6pk,12.0,0.01,0.12
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - promo - 6pk,30.0,0.01,0.3
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - promo - 6pk,30.0,0.01,0.3
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,BOC - promo - 6pk,54.0,0.01,0.54
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,BOC - promo - 6pk,40.0,0.01,0.4
+MedMen Paradise,Christy,Existing,0.0,0.0,Delivered,12/2/20,1.0,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - promo - 6pk,50.0,0.01,0.5
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,BOC - promo - 6pk,12.0,0.01,0.12
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,BOC - promo - 6pk,30.0,0.01,0.3
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,BOC - promo - 6pk,10.0,0.01,0.1
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - promo - 6pk,10.0,0.01,0.1
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,BOC - promo - 6pk,50.0,0.01,0.5
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,BOC - promo - 6pk,60.0,0.01,0.6
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - promo - 6pk,100.0,0.01,1.0
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - promo - 6pk,100.0,0.01,1.0
+Mynt Downtown,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,1.48,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - promo - 6pk,20.0,0.01,0.2
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,BOC - promo - 6pk,12.0,0.01,0.12
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - promo - 6pk,56.0,0.01,0.56
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - promo - 6pk,36.0,0.01,0.36
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - promo - 6pk,56.0,0.01,0.56
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - promo - 6pk,36.0,0.01,0.36
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - promo - 6pk,36.0,0.01,0.36
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - promo - 6pk,112.0,0.01,1.12
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - promo - 6pk,112.0,0.01,1.12
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - promo - 6pk,112.0,0.01,1.12
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - promo - 6pk,36.0,0.01,0.36
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/26/20,540.45,"{'N': '12', 'R': '0.01', 'V': '0.01'}",540.0,12.0,GR - promo - 6pk,15.0,0.01,0.15
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/3/20,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - promo - 6pk,20.0,0.01,0.2
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - promo - 6pk,28.0,0.01,0.28
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,GR - promo - 6pk,100.0,0.01,1.0
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - promo - 6pk,50.0,0.01,0.5
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,GR - promo - 6pk,96.0,0.01,0.96
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - promo - 6pk,20.0,0.01,0.2
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - promo - 6pk,56.0,0.01,0.56
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - promo - 6pk,50.0,0.01,0.5
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - promo - 6pk,20.0,0.01,0.2
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,GR - promo - 6pk,16.0,0.01,0.16
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,GR - promo - 6pk,24.0,0.01,0.24
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/9/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,GR - promo - 6pk,21.0,0.01,0.21
+Shango,Tyler,Existing,0.0,0.0,Delivered,10/12/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/28/20,1008.42,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - promo - 6pk,14.0,0.01,0.14
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,GR - promo - 6pk,25.0,0.01,0.25
+ShowGrow,Tyler,Existing,0.0,0.0,Delivered,10/29/20,1801.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - promo - 6pk,50.0,0.01,0.5
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/5/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,GR - promo - 6pk,16.0,0.01,0.16
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,GR - promo - 6pk,13.0,0.01,0.13
+Shango,Tyler,Existing,0.0,0.0,Delivered,11/24/20,360.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,GR - promo - 6pk,12.0,0.01,0.12
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - promo - 6pk,30.0,0.01,0.3
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - promo - 6pk,30.0,0.01,0.3
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,GR - promo - 6pk,54.0,0.01,0.54
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,GR - promo - 6pk,40.0,0.01,0.4
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,GR - promo - 6pk,12.0,0.01,0.12
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,GR - promo - 6pk,30.0,0.01,0.3
+Jenny's Dispensary North Las Vegas,Christy,Existing,0.0,0.0,Delivered,12/23/20,864.3,Hardcoded,864.0,9.6,GR - promo - 6pk,10.0,0.01,0.1
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - promo - 6pk,10.0,0.01,0.1
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,1/15/21,1561.3,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1560.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,1/20/21,1681.4,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1680.0,12.0,GR - promo - 6pk,40.0,0.01,0.4
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - promo - 6pk,100.0,0.01,1.0
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - promo - 6pk,100.0,0.01,1.0
+Mynt Downtown,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,1.48,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - promo - 6pk,20.0,0.01,0.2
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,GR - promo - 6pk,12.0,0.01,0.12
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - budtender promo - 6pk,52.0,0.01,0.52
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - budtender promo - 6pk,32.0,0.01,0.32
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - budtender promo - 6pk,60.0,0.01,0.6
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - budtender promo - 6pk,40.0,0.01,0.4
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - budtender promo - 6pk,40.0,0.01,0.4
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - budtender promo - 6pk,60.0,0.01,0.6
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - budtender promo - 6pk,36.0,0.01,0.36
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - budtender promo - 6pk,20.0,0.01,0.2
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,LL - budtender promo - 6pk,16.0,0.01,0.16
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - budtender promo - 6pk,32.0,0.01,0.32
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,LL - budtender promo - 6pk,16.0,0.01,0.16
+Thrive,Team,New,0.0,0.0,Delivered,8/5/20,0.03,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,1.0,0.01,0.01
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,LL - budtender promo - 6pk,16.0,0.01,0.16
+Las Vegas ReLeaf,Tyler,New,0.0,0.0,Delivered,9/2/20,0.06,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,2.0,0.01,0.02
+Reef Dispensaries,Kimberly,New,0.0,0.0,Delivered,9/8/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/11/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,3.0,0.01,0.03
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - budtender promo - 6pk,32.0,0.01,0.32
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+Exhale,Kimberly,New,0.0,0.0,Delivered,9/18/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,LL - budtender promo - 6pk,8.0,0.01,0.08
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,LL - budtender promo - 6pk,8.0,0.01,0.08
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,LL - budtender promo - 6pk,8.0,0.01,0.08
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,9/21/20,461.04,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,LL - budtender promo - 6pk,8.0,0.01,0.08
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - budtender promo - 6pk,2.0,0.01,0.02
+Blum Reno,Kimberly,New,0.0,0.0,Delivered,9/22/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Sierra Wellness,Kimberly,New,0.0,0.0,Delivered,9/23/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+Jenny's Dispensary Henderson,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,3.0,0.01,0.03
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,3.0,0.01,0.03
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+Blum Desert Inn,Kimberly,New,0.0,0.0,Delivered,9/25/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,LL - budtender promo - 6pk,32.0,0.01,0.32
+Sahara Wellness,Christy,New,0.0,0.0,Delivered,9/28/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,LL - budtender promo - 6pk,30.0,0.01,0.3
+Kanna,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+NuLeaf Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+NuLeaf Incline Village,Kimberly,New,0.0,0.0,Delivered,9/30/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - budtender promo - 6pk,36.0,0.01,0.36
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,LL - budtender promo - 6pk,56.0,0.01,0.56
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,12.0,0.01,0.12
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,LL - budtender promo - 6pk,28.0,0.01,0.28
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,825.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",825.6,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,518.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",518.4,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,LL - budtender promo - 6pk,32.0,0.01,0.32
+The Grove Las Vegas,Christy,New,0.0,0.0,Delivered,10/5/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,LL - budtender promo - 6pk,16.0,0.01,0.16
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,10/12/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Nevada Wellness Center,Christy,New,0.0,0.0,Delivered,10/13/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Source Henderson,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Source Reno,Christy,New,0.0,0.0,Delivered,10/15/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,10/16/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+SoL Cannabis,Kimberly,New,0.0,0.0,Delivered,10/16/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Pesha Numma,Kimberly,New,0.0,0.0,Delivered,10/21/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+Exhale,Kimberly,Existing,0.0,0.0,Delivered,10/22/20,0.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,8.0,0.01,0.08
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,LL - budtender promo - 6pk,8.0,0.01,0.08
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,LL - budtender promo - 6pk,4.0,0.01,0.04
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,10/29/20,720.12,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,LL - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - budtender promo - 6pk,50.0,0.01,0.5
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,LL - budtender promo - 6pk,50.0,0.01,0.5
+Curaleaf,Kimberly,New,0.0,0.0,Delivered,11/3/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,4.0,0.01,0.04
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,LL - budtender promo - 6pk,40.0,0.01,0.4
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.87,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,29.0,0.01,0.29
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.83,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,61.0,0.01,0.61
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.99,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,33.0,0.01,0.33
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,11/18/20,0.9,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,30.0,0.01,0.3
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.41,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,47.0,0.01,0.47000000000000003
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,LL - budtender promo - 6pk,28.0,0.01,0.28
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.45,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,15.0,0.01,0.15
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.84,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,28.0,0.01,0.28
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,11/24/20,0.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,28.0,0.01,0.28
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,LL - budtender promo - 6pk,28.0,0.01,0.28
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - budtender promo - 6pk,20.0,0.01,0.2
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,LL - budtender promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,LL - budtender promo - 6pk,30.0,0.01,0.3
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,LL - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,0.6,Hardcoded,0.0,,LL - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,LL - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,LL - budtender promo - 6pk,10.0,0.01,0.1
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,LL - budtender promo - 6pk,10.0,0.01,0.1
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,LL - budtender promo - 6pk,2.0,0.01,0.02
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,LL - budtender promo - 6pk,50.0,0.01,0.5
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,LL - budtender promo - 6pk,40.0,0.01,0.4
+Thrive West Sahara,0.0,Existing,2/18/21,0.0,Delivered,2/22/21,1.08,"{'N': '8', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,36.0,0.01,0.36
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,LL - budtender promo - 6pk,30.0,0.01,0.3
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,30.0,0.01,0.3
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,LL - budtender promo - 6pk,30.0,0.01,0.3
+Cultivate,0.0, New ,3/10/21,18537.0, Delivered ,3/12/21,0.66,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.0,,LL - budtender promo - 6pk,22.0,0.01,0.22
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,LL - budtender promo - 6pk,25.0,0.01,0.25
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - budtender promo - 6pk,36.0,0.01,0.36
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,LL - budtender promo - 6pk,20.0,0.01,0.2
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,LL - budtender promo - 6pk,20.0,0.01,0.2
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - budtender promo - 6pk,52.0,0.01,0.52
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - budtender promo - 6pk,32.0,0.01,0.32
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - budtender promo - 6pk,60.0,0.01,0.6
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - budtender promo - 6pk,40.0,0.01,0.4
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - budtender promo - 6pk,40.0,0.01,0.4
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - budtender promo - 6pk,60.0,0.01,0.6
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - budtender promo - 6pk,36.0,0.01,0.36
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - budtender promo - 6pk,20.0,0.01,0.2
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,BOC - budtender promo - 6pk,16.0,0.01,0.16
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - budtender promo - 6pk,32.0,0.01,0.32
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,BOC - budtender promo - 6pk,16.0,0.01,0.16
+Thrive,Team,New,0.0,0.0,Delivered,8/5/20,0.03,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,1.0,0.01,0.01
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,BOC - budtender promo - 6pk,16.0,0.01,0.16
+Las Vegas ReLeaf,Tyler,New,0.0,0.0,Delivered,9/2/20,0.06,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,2.0,0.01,0.02
+Reef Dispensaries,Kimberly,New,0.0,0.0,Delivered,9/8/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/11/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,3.0,0.01,0.03
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - budtender promo - 6pk,32.0,0.01,0.32
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,9/18/20,720.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+Exhale,Kimberly,New,0.0,0.0,Delivered,9/18/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,BOC - budtender promo - 6pk,8.0,0.01,0.08
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,BOC - budtender promo - 6pk,8.0,0.01,0.08
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,BOC - budtender promo - 6pk,8.0,0.01,0.08
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,9/21/20,461.04,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,BOC - budtender promo - 6pk,8.0,0.01,0.08
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - budtender promo - 6pk,2.0,0.01,0.02
+Blum Reno,Kimberly,New,0.0,0.0,Delivered,9/22/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Sierra Wellness,Kimberly,New,0.0,0.0,Delivered,9/23/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+Jenny's Dispensary Henderson,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,3.0,0.01,0.03
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,3.0,0.01,0.03
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+Blum Desert Inn,Kimberly,New,0.0,0.0,Delivered,9/25/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,BOC - budtender promo - 6pk,32.0,0.01,0.32
+Sahara Wellness,Christy,New,0.0,0.0,Delivered,9/28/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,BOC - budtender promo - 6pk,30.0,0.01,0.3
+Kanna,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+NuLeaf Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+NuLeaf Incline Village,Kimberly,New,0.0,0.0,Delivered,9/30/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - budtender promo - 6pk,36.0,0.01,0.36
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,BOC - budtender promo - 6pk,56.0,0.01,0.56
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,12.0,0.01,0.12
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,BOC - budtender promo - 6pk,28.0,0.01,0.28
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,825.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",825.6,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,518.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",518.4,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,BOC - budtender promo - 6pk,32.0,0.01,0.32
+The Grove Las Vegas,Christy,New,0.0,0.0,Delivered,10/5/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,BOC - budtender promo - 6pk,16.0,0.01,0.16
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,10/12/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Nevada Wellness Center,Christy,New,0.0,0.0,Delivered,10/13/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Source Henderson,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Source Reno,Christy,New,0.0,0.0,Delivered,10/15/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,10/16/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+SoL Cannabis,Kimberly,New,0.0,0.0,Delivered,10/16/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Pesha Numma,Kimberly,New,0.0,0.0,Delivered,10/21/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Exhale,Kimberly,Existing,0.0,0.0,Delivered,10/22/20,0.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,8.0,0.01,0.08
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,BOC - budtender promo - 6pk,8.0,0.01,0.08
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,10/29/20,720.12,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,BOC - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - budtender promo - 6pk,50.0,0.01,0.5
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,BOC - budtender promo - 6pk,50.0,0.01,0.5
+Curaleaf,Kimberly,New,0.0,0.0,Delivered,11/3/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,4.0,0.01,0.04
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,BOC - budtender promo - 6pk,40.0,0.01,0.4
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.87,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,29.0,0.01,0.29
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.83,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,61.0,0.01,0.61
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.99,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,33.0,0.01,0.33
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,11/18/20,0.9,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,30.0,0.01,0.3
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.41,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,47.0,0.01,0.47000000000000003
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,BOC - budtender promo - 6pk,28.0,0.01,0.28
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.45,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,15.0,0.01,0.15
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.84,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,28.0,0.01,0.28
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,11/24/20,0.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,28.0,0.01,0.28
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,BOC - budtender promo - 6pk,28.0,0.01,0.28
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - budtender promo - 6pk,20.0,0.01,0.2
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,BOC - budtender promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,BOC - budtender promo - 6pk,30.0,0.01,0.3
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,BOC - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,0.6,Hardcoded,0.0,,BOC - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,BOC - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,BOC - budtender promo - 6pk,20.0,0.01,0.2
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,BOC - budtender promo - 6pk,10.0,0.01,0.1
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,BOC - budtender promo - 6pk,1.0,0.01,0.01
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,BOC - budtender promo - 6pk,50.0,0.01,0.5
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,BOC - budtender promo - 6pk,40.0,0.01,0.4
+Thrive West Sahara,0.0,Existing,2/18/21,0.0,Delivered,2/22/21,1.08,"{'N': '8', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,36.0,0.01,0.36
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,BOC - budtender promo - 6pk,30.0,0.01,0.3
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,30.0,0.01,0.3
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,30.0,0.01,0.3
+Mynt North,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,303.06,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,BOC - budtender promo - 6pk,33.0,0.01,0.33
+Mynt Downtown,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,1.48,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,BOC - budtender promo - 6pk,44.0,0.01,0.44
+Cultivate,0.0, New ,3/10/21,18537.0, Delivered ,3/12/21,0.66,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.0,,BOC - budtender promo - 6pk,22.0,0.01,0.22
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,BOC - budtender promo - 6pk,25.0,0.01,0.25
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - budtender promo - 6pk,36.0,0.01,0.36
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,BOC - budtender promo - 6pk,20.0,0.01,0.2
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,BOC - budtender promo - 6pk,20.0,0.01,0.2
+Apothecarium,Team,New,0.0,0.0,Delivered,7/20/20,2019.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - budtender promo - 6pk,52.0,0.01,0.52
+Essence Durango,Team,New,0.0,0.0,Delivered,7/21/20,1298.04,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - budtender promo - 6pk,32.0,0.01,0.32
+Essence Henderson,Team,New,0.0,0.0,Delivered,7/21/20,2019.48,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - budtender promo - 6pk,60.0,0.01,0.6
+Essence Rainbow,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - budtender promo - 6pk,40.0,0.01,0.4
+Essence Strip,Team,New,0.0,0.0,Delivered,7/21/20,1298.28,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - budtender promo - 6pk,40.0,0.01,0.4
+Essence Tropicana,Team,New,0.0,0.0,Delivered,7/21/20,1443.0,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - budtender promo - 6pk,60.0,0.01,0.6
+MedMen Paradise,Team,New,0.0,0.0,Delivered,7/22/20,4036.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - budtender promo - 6pk,36.0,0.01,0.36
+MedMen Spring Valley,Team,New,0.0,0.0,Delivered,7/22/20,4035.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - budtender promo - 6pk,20.0,0.01,0.2
+MedMen DTLV,Team,New,0.0,0.0,Delivered,7/24/20,4035.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",4032.0,12.0,GR - budtender promo - 6pk,16.0,0.01,0.16
+Rise Carson City,Team,New,0.0,0.0,Delivered,8/5/20,1442.16,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - budtender promo - 6pk,32.0,0.01,0.32
+Rise Spanish Springs,Team,New,0.0,0.0,Delivered,8/5/20,1297.56,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1296.0,12.0,GR - budtender promo - 6pk,16.0,0.01,0.16
+Thrive,Team,New,0.0,0.0,Delivered,8/5/20,0.03,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,1.0,0.01,0.01
+Apothecarium,Team,Existing,0.0,0.0,Delivered,8/14/20,1201.5,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1200.0,12.0,GR - budtender promo - 6pk,18.0,0.01,0.18
+Las Vegas ReLeaf,Tyler,New,0.0,0.0,Delivered,9/2/20,0.06,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,2.0,0.01,0.02
+Reef Dispensaries,Kimberly,New,0.0,0.0,Delivered,9/8/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/11/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,3.0,0.01,0.03
+The Apothecary Shoppe,Christy,New,0.0,0.0,Delivered,9/14/20,1009.8,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - budtender promo - 6pk,32.0,0.01,0.32
+Shango,Tyler,New,0.0,0.0,Delivered,9/16/20,361.35,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Exhale,Kimberly,New,0.0,0.0,Delivered,9/18/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,9/21/20,1382.64,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1382.4,9.600000000000001,GR - budtender promo - 6pk,8.0,0.01,0.08
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,9/21/20,921.84,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,GR - budtender promo - 6pk,8.0,0.01,0.08
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,9/21/20,1267.44,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1267.2,9.6,GR - budtender promo - 6pk,8.0,0.01,0.08
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,9/21/20,461.04,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",460.8,9.6,GR - budtender promo - 6pk,8.0,0.01,0.08
+Green Cross,Kimberly,New,0.0,0.0,Delivered,9/21/20,216.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - budtender promo - 6pk,2.0,0.01,0.02
+Blum Reno,Kimberly,New,0.0,0.0,Delivered,9/22/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Sierra Wellness,Kimberly,New,0.0,0.0,Delivered,9/23/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Silver State Relief Sparks,Kimberly,New,0.0,0.0,Delivered,9/24/20,3603.36,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3600.0,12.0,GR - budtender promo - 6pk,12.0,0.01,0.12
+Jenny's Dispensary Henderson,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,3.0,0.01,0.03
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,9/24/20,0.09,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,3.0,0.01,0.03
+Silver State Relief Fernley,Kimberly,New,0.0,0.0,Delivered,9/24/20,1801.86,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - budtender promo - 6pk,12.0,0.01,0.12
+Blum Desert Inn,Kimberly,New,0.0,0.0,Delivered,9/25/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,9/25/20,1008.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1008.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+Inyo,Kimberly,New,0.0,0.0,Delivered,9/28/20,3459.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",3456.0,12.0,GR - budtender promo - 6pk,32.0,0.01,0.32
+Sahara Wellness,Christy,New,0.0,0.0,Delivered,9/28/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Vegas Treehouse,Tyler,New,0.0,0.0,Delivered,9/28/20,361.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",360.0,12.0,GR - budtender promo - 6pk,30.0,0.01,0.3
+Kanna,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+NuLeaf Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Thrive North Las Vegas,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - budtender promo - 6pk,12.0,0.01,0.12
+Thrive Southern Highlands,Kimberly,New,0.0,0.0,Delivered,9/29/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - budtender promo - 6pk,12.0,0.01,0.12
+NuLeaf Incline Village,Kimberly,New,0.0,0.0,Delivered,9/30/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+NuWu,Tyler,New,0.0,0.0,Delivered,9/30/20,2018.76,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - budtender promo - 6pk,36.0,0.01,0.36
+ShowGrow,Tyler,New,0.0,0.0,Delivered,9/30/20,1803.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1800.0,12.0,GR - budtender promo - 6pk,56.0,0.01,0.56
+Thrive Reno,Kimberly,New,0.0,0.0,Delivered,9/30/20,720.96,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - budtender promo - 6pk,12.0,0.01,0.12
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,10/1/20,921.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",921.6,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,10/1/20,1795.32,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1795.2,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,10/1/20,806.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",806.4,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,10/1/20,614.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",614.4,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Wallflower,Tyler,New,0.0,0.0,Delivered,10/1/20,601.34,"{'N': '12', 'R': '0.01', 'V': '0.01'}",600.0,12.0,GR - budtender promo - 6pk,28.0,0.01,0.28
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/2/20,720.72,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+Rise Carson City,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,825.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",825.6,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Rise Spanish Springs,Kimberly,Existing,0.0,0.0,Delivered,10/2/20,518.52,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",518.4,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+Silver Sage Wellness,Kimberly,New,0.0,0.0,Delivered,10/5/20,865.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",864.0,12.0,GR - budtender promo - 6pk,32.0,0.01,0.32
+The Grove Las Vegas,Christy,New,0.0,0.0,Delivered,10/5/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Green Cross,Kimberly,Existing,0.0,0.0,Delivered,10/9/20,216.66,"{'N': '12', 'R': '0.01', 'V': '0.01'}",216.0,12.0,GR - budtender promo - 6pk,16.0,0.01,0.16
+Exhale,Kimberly,New,0.0,0.0,Delivered,10/12/20,756.75,"{'N': '12', 'R': '0.01', 'V': '0.01'}",756.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,10/12/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Nevada Wellness Center,Christy,New,0.0,0.0,Delivered,10/13/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Source Henderson,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Source Rainbow,Christy,New,0.0,0.0,Delivered,10/14/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Apothecarium,Tyler,Existing,0.0,0.0,Delivered,10/15/20,1320.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1320.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Source Reno,Christy,New,0.0,0.0,Delivered,10/15/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,10/16/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+SoL Cannabis,Kimberly,New,0.0,0.0,Delivered,10/16/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Pesha Numma,Kimberly,New,0.0,0.0,Delivered,10/21/20,0.18,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,10/21/20,900.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",900.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+Exhale,Kimberly,Existing,0.0,0.0,Delivered,10/22/20,0.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,8.0,0.01,0.08
+Jenny's Dispensary North Las Vegas,Christy,New,0.0,0.0,Delivered,10/22/20,1441.44,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1440.0,12.0,GR - budtender promo - 6pk,8.0,0.01,0.08
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,10/26/20,2016.24,"{'N': '12', 'R': '0.01', 'V': '0.01'}",2016.0,12.0,GR - budtender promo - 6pk,4.0,0.01,0.04
+Mynt Downtown,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+Mynt North,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+NuWu,Tyler,Existing,0.0,0.0,Delivered,10/28/20,2641.5,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",2640.0,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Reno,Tyler,New,0.0,0.0,Delivered,10/28/20,2026.05,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - budtender promo - 6pk,35.0,0.01,0.35000000000000003
+MedMen DTLV,Christy,Existing,0.0,0.0,Delivered,10/29/20,720.12,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",720.0,9.6,GR - budtender promo - 6pk,4.0,0.01,0.04
+The Dispensary Henderson,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - budtender promo - 6pk,50.0,0.01,0.5
+The Dispensary Las Vegas,Tyler,New,0.0,0.0,Delivered,10/30/20,2026.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2025.0,9.0,GR - budtender promo - 6pk,50.0,0.01,0.5
+Curaleaf,Kimberly,New,0.0,0.0,Delivered,11/3/20,0.12,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,4.0,0.01,0.04
+Oasis,Tyler,New,0.0,0.0,Delivered,11/9/20,577.68,"{'N': '12', 'R': '0.01', 'V': '0.01'}",576.0,12.0,GR - budtender promo - 6pk,40.0,0.01,0.4
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.87,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,29.0,0.01,0.29
+Essence Henderson,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.83,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,61.0,0.01,0.61
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,11/18/20,0.99,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,33.0,0.01,0.33
+Essence Strip,Tyler,Existing,0.0,0.0,Delivered,11/18/20,0.9,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,30.0,0.01,0.3
+Essence Tropicana,Tyler,Existing,0.0,0.0,Delivered,11/18/20,1.41,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,47.0,0.01,0.47000000000000003
+Wallflower,Tyler,Existing,0.0,0.0,Delivered,11/20/20,1501.47,"{'N': '12', 'R': '0.01', 'V': '0.01'}",1500.0,12.0,GR - budtender promo - 6pk,28.0,0.01,0.28
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.45,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,15.0,0.01,0.15
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,11/23/20,0.84,"{'N': '9', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,28.0,0.01,0.28
+The Apothecary Shoppe,Christy,Existing,0.0,0.0,Delivered,11/24/20,0.84,"{'N': '12', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,28.0,0.01,0.28
+Green Cannabis,Tyler,New,0.0,0.0,Delivered,11/30/20,433.2,"{'N': '12', 'R': '0.01', 'V': '0.01'}",432.0,12.0,GR - budtender promo - 6pk,28.0,0.01,0.28
+The Sanctuary Downtown Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - budtender promo - 6pk,20.0,0.01,0.2
+The Sanctuary North Las Vegas,Tyler,New,0.0,0.0,Delivered,11/30/20,1027.5,"{'N': '11.4', 'R': '0.01', 'V': '0.01'}",1026.0,11.4,GR - budtender promo - 6pk,20.0,0.01,0.2
+Thrive Southern Highlands,Christy,Existing,0.0,0.0,Delivered,11/30/20,1557.72,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1555.2,9.6,GR - budtender promo - 6pk,30.0,0.01,0.3
+Thrive Reno,Christy,Existing,0.0,0.0,Delivered,12/1/20,1153.8,"{'N': '9.6', 'R': '0.01', 'V': '0.01'}",1152.0,9.6,GR - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,0.6,Hardcoded,0.0,,GR - budtender promo - 6pk,20.0,0.01,0.2
+Exhale,Tyler,Existing,0.0,0.0,Delivered,12/22/20,432.54,Hardcoded,432.0,12.0,GR - budtender promo - 6pk,6.0,0.01,0.06
+Vegas Treehouse,Tyler,Existing,0.0,0.0,Delivered,12/22/20,901.25,Hardcoded,900.0,12.0,GR - budtender promo - 6pk,20.0,0.01,0.2
+NuWu (Elko),Tyler,Existing,0.0,0.0,Delivered,1/5/21,720.6,"{'N': '12', 'R': '0.01', 'V': '0.01'}",720.0,12.0,GR - budtender promo - 6pk,10.0,0.01,0.1
+Apothecary Shoppe,0.0,Existing,0.0,0.0,Delivered,2/16/21,1296.04,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1296.0,9.0,GR - budtender promo - 6pk,1.0,0.01,0.01
+Apothecarium,0.0,Existing,0.0,0.0,Delivered,2/17/21,1261.5,"{'N': '9', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,GR - budtender promo - 6pk,50.0,0.01,0.5
+Las Vegas ReLeaf,0.0,New,2/17/21,0.0, Delivered ,2/22/21,2161.2,"{'N': '9', 'R': '0.01', 'V': '0.01'}",2160.0,9.0,GR - budtender promo - 6pk,40.0,0.01,0.4
+Thrive West Sahara,0.0,Existing,2/18/21,0.0,Delivered,2/22/21,1.08,"{'N': '8', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,36.0,0.01,0.36
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,GR - budtender promo - 6pk,20.0,0.01,0.2
+Jenny's Dispensary North Las Vegas,0.0,Existing,2/26/21,0.0, Delivered ,3/2/21,3.9,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,30.0,0.01,0.3
+   ,0.0,Existing,2/26/21,0.0, Delivered ,3/4/21,3.8,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,20.0,0.01,0.2
+Mynt North,0.0,Existing,3/1/21,0.0, Delivered ,3/4/21,303.06,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",302.4,6.3,GR - budtender promo - 6pk,33.0,0.01,0.33
+Mynt Downtown,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,1.48,"{'N': '6.3', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",0.0,,GR - budtender promo - 6pk,44.0,0.01,0.44
+Cultivate,0.0, New ,3/10/21,18537.0, Delivered ,3/12/21,0.66,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.0,,GR - budtender promo - 6pk,22.0,0.01,0.22
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,GR - budtender promo - 6pk,25.0,0.01,0.25
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - budtender promo - 6pk,36.0,0.01,0.36
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,GR - budtender promo - 6pk,20.0,0.01,0.2
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,GR - budtender promo - 6pk,20.0,0.01,0.2
+Pisos,0.0, Existing ,3/22/21,18731.0, Delivered ,3/26/21,744.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",744.0,15.5,GLG - wholesale seasonal - highboys - 6pk,48.0,3.0,144.0
+Thrive North Las Vegas,0.0, Existing ,3/10/21,18690.0, Delivered ,3/26/21,300.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",300.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+Essence Durango,0.0,Existing,3/11/21,18620.0, Delivered ,3/29/21,480.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",480.0,inf,GLG - wholesale seasonal - highboys - 6pk,160.0,3.0,480.0
+Essence Durango,0.0,Existing,3/11/21,18620.0, Delivered ,3/29/21,0.3,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.3,inf,GLG - wholesale seasonal - highboys - 6pk,30.0,0.01,0.3
+Essence Henderson,0.0,Existing,3/11/21,18622.0, Delivered ,3/29/21,600.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",600.0,inf,GLG - wholesale seasonal - highboys - 6pk,200.0,3.0,600.0
+Essence Henderson,0.0,Existing,3/11/21,18622.0, Delivered ,3/29/21,0.65,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.65,inf,GLG - wholesale seasonal - highboys - 6pk,65.0,0.01,0.65
+Essence Rainbow,0.0,Existing,3/11/21,18621.0, Delivered ,3/29/21,390.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",390.0,inf,GLG - wholesale seasonal - highboys - 6pk,130.0,3.0,390.0
+Essence Rainbow,0.0,Existing,3/11/21,18621.0, Delivered ,3/29/21,0.35,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.35,inf,GLG - wholesale seasonal - highboys - 6pk,35.0,0.01,0.35000000000000003
+Essence Tropicana,0.0,Existing,3/11/21,18624.0, Delivered ,3/29/21,390.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",390.0,inf,GLG - wholesale seasonal - highboys - 6pk,130.0,3.0,390.0
+Essence Tropicana,0.0,Existing,3/11/21,18624.0, Delivered ,3/29/21,0.5,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",0.5,inf,GLG - wholesale seasonal - highboys - 6pk,50.0,0.01,0.5
+Jardin,0.0,Existing,3/9/21,18615.0, Delivered ,3/29/21,390.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",390.0,inf,GLG - wholesale seasonal - highboys - 6pk,130.0,3.0,390.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,3/9/21,18614.0, Delivered ,3/29/21,900.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",900.0,inf,GLG - wholesale seasonal - highboys - 6pk,300.0,3.0,900.0
+Apothecarium,0.0, Existing ,3/10/21,18645.0, Delivered ,3/30/21,360.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",360.0,inf,GLG - wholesale seasonal - highboys - 6pk,120.0,3.0,360.0
+The Source Henderson,0.0, Existing ,3/24/21,18742.0, Delivered ,3/30/21,1094.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1094.0,12.155555555555555,GLG - wholesale seasonal - highboys - 6pk,48.0,3.0,144.0
+The Source Rainbow,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,824.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",824.0,13.733333333333333,GLG - wholesale seasonal - highboys - 6pk,48.0,3.0,144.0
+The Source Reno,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,682.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",682.0,11.366666666666667,GLG - wholesale seasonal - highboys - 6pk,24.0,3.0,72.0
+Thrive West Sahara,0.0, Existing ,3/10/21,18616.0, Delivered ,3/30/21,300.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",300.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+Las Vegas ReLeaf,0.0,Existing,3/15/21,18613.0, Delivered ,3/31/21,1080.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1080.0,inf,GLG - wholesale seasonal - highboys - 6pk,360.0,3.0,1080.0
+MedMen DTLV,0.0, Existing ,3/17/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+MedMen DTLV,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+MedMen Paradise,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,1054.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1054.0,inf,GLG - wholesale seasonal - highboys - 6pk,350.0,3.0,1050.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+MedMen Spring Valley,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+NuWu,0.0, Existing ,3/23/21,18744.0, Delivered ,3/31/21,1296.0,"{'N': '8', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1296.0,9.0,GLG - wholesale seasonal - highboys - 6pk,48.0,3.0,144.0
+Thrive Southern Highlands,0.0, Existing ,3/10/21,18619.0, Delivered ,3/31/21,300.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",300.0,inf,GLG - wholesale seasonal - highboys - 6pk,100.0,3.0,300.0
+Essence Henderson,0.0,Existing,3/11/21,18598.0, Delivered ,3/18/21,420.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",420.0,inf,GLG - wholesale seasonal - 4pk,60.0,7.0,420.0
+Essence Rainbow,0.0,Existing,3/11/21,18597.0, Delivered ,3/18/21,280.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",280.0,inf,GLG - wholesale seasonal - 4pk,40.0,7.0,280.0
+Essence Strip,0.0,Existing,3/11/21,18601.0, Delivered ,3/18/21,140.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",140.0,inf,GLG - wholesale seasonal - 4pk,20.0,7.0,140.0
+Essence Tropicana,0.0,Existing,3/11/21,18599.0, Delivered ,3/18/21,280.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",280.0,inf,GLG - wholesale seasonal - 4pk,40.0,7.0,280.0
+Rise Carson City,0.0,Existing,3/11/21,18596.0, Delivered ,3/18/21,420.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",420.0,inf,GLG - wholesale seasonal - 4pk,60.0,7.0,420.0
+Rise Spanish Springs,0.0,Existing,3/11/21,18602.0, Delivered ,3/18/21,280.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",280.0,inf,GLG - wholesale seasonal - 4pk,40.0,7.0,280.0
+Thrive Reno,0.0, Existing ,3/10/21,18590.0, Delivered ,3/18/21,210.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",210.0,inf,GLG - wholesale seasonal - 4pk,30.0,7.0,210.0
+Essence Durango,0.0,Existing,3/11/21,18600.0, Delivered ,3/19/21,350.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",350.0,inf,GLG - wholesale seasonal - 4pk,50.0,7.0,350.0
+Thrive North Las Vegas,0.0, Existing ,3/10/21,18610.0, Delivered ,3/20/21,210.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",210.0,inf,GLG - wholesale seasonal - 4pk,30.0,7.0,210.0
+Jardin,0.0, Existing ,3/9/21,18592.0, Delivered ,3/22/21,2471.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",2471.0,15.941935483870967,GLG - wholesale seasonal - 4pk,200.0,7.0,1400.0
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,GLG - wholesale seasonal - 4pk,60.0,7.0,420.0
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,GLG - wholesale seasonal - 4pk,150.0,7.0,1050.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18541.0, Delivered ,3/22/21,603.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",603.0,30.15,GLG - wholesale seasonal - 4pk,60.0,7.0,420.0
+Thrive West Sahara,0.0, Existing ,3/10/21,18609.0, Delivered ,3/22/21,210.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",210.0,inf,GLG - wholesale seasonal - 4pk,30.0,7.0,210.0
+Jenny's Dispensary North Las Vegas,0.0,Existing,3/15/21,18563.0, Delivered ,3/23/21,2495.72,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",2495.72,45.37672727272727,GLG - wholesale seasonal - 4pk,300.0,7.0,2100.0
+Las Vegas ReLeaf,0.0,Existing,3/15/21,0.0, Delivered ,3/23/21,630.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",630.0,inf,GLG - wholesale seasonal - 4pk,90.0,7.0,630.0
+Thrive Southern Highlands,0.0, Existing ,3/10/21,18612.0, Delivered ,3/23/21,210.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",210.0,inf,GLG - wholesale seasonal - 4pk,30.0,7.0,210.0
+Apothecarium,0.0, Existing ,3/10/21,18651.0, Delivered ,3/24/21,672.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",672.0,inf,GLG - wholesale seasonal - 4pk,96.0,7.0,672.0
+Pisos,0.0, Existing ,3/22/21,18731.0, Delivered ,3/26/21,744.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",744.0,15.5,GLG - wholesale seasonal - 4pk,24.0,7.0,168.0
+The Source Henderson,0.0, Existing ,3/24/21,18742.0, Delivered ,3/30/21,1094.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1094.0,12.155555555555555,GLG - wholesale seasonal - 4pk,20.0,7.0,140.0
+The Source Rainbow,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,824.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",824.0,13.733333333333333,GLG - wholesale seasonal - 4pk,20.0,7.0,140.0
+The Source Reno,0.0, Existing ,3/24/21,18741.0, Delivered ,3/30/21,682.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",682.0,11.366666666666667,GLG - wholesale seasonal - 4pk,10.0,7.0,70.0
+Essence Durango,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,LL - promo - singles,576.0,0.01,5.76
+Essence Henderson,Tyler,Exisitng,0.0,0.0,Delivered,12/28/20,32.4,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",32.4,inf,LL - promo - singles,1080.0,0.01,10.8
+Essence Rainbow,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,LL - promo - singles,576.0,0.01,5.76
+Essence Tropicana,Tyler,Exisiting,0.0,0.0,Delivered,12/28/20,27.36,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",27.36,inf,LL - promo - singles,912.0,0.01,9.120000000000001
+Essence Strip,Tyler,Exisitng,0.0,0.0,Delivered,1/4/21,12.96,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",12.96,inf,LL - promo - singles,432.0,0.01,4.32
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,LL - promo - singles,576.0,0.01,5.76
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,8.64,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",8.64,inf,LL - promo - singles,288.0,0.01,2.88
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/14/21,164.15,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",164.15,9.119444444444445,LL - promo - singles,111.0,0.01,1.11
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,LL - promo - singles,416.0,0.01,4.16
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,LL - promo - singles,100.0,0.01,1.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/15/21,223.69,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",223.69,9.320416666666667,LL - promo - singles,257.0,0.01,2.57
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,LL - promo - singles,100.0,0.01,1.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,LL - promo - singles,100.0,0.01,1.0
+Essence Henderson,0.0,Existing,3/2/21,0.0, Delivered ,3/8/21,1053.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1053.0,9.0,LL - promo - singles,600.0,0.01,6.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,LL - promo - singles,264.0,0.01,2.64
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,LL - promo - singles,264.0,0.01,2.64
+Las Vegas ReLeaf,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,LL - promo - singles,100.0,0.01,1.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,LL - promo - singles,264.0,0.01,2.64
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,LL - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,LL - promo - singles,120.0,0.01,1.2
+Thrive North Las Vegas,0.0,Existing,3/9/21,18530.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,LL - promo - singles,100.0,0.01,1.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18531.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,LL - promo - singles,100.0,0.01,1.0
+Thrive West Sahara,0.0,Existing,3/9/21,18532.0, Delivered ,3/11/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,LL - promo - singles,200.0,0.01,2.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,LL - promo - singles,34.0,0.01,0.34
+Thrive Reno,0.0,Existing,3/9/21,18533.0, Delivered ,3/12/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,LL - promo - singles,200.0,0.01,2.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,LL - promo - singles,120.0,0.01,1.2
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,LL - promo - singles,100.0,0.01,1.0
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,LL - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18541.0, Delivered ,3/22/21,603.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",603.0,30.15,LL - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0, Extisting ,3/17/21,18690.0, Delivered ,3/26/21,582.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",582.0,9.09375,LL - promo - singles,200.0,0.01,2.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,LL - promo - singles,200.0,0.01,2.0
+MedMen DTLV,0.0, Existing ,3/17/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,LL - promo - singles,200.0,0.01,2.0
+MedMen DTLV,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,LL - promo - singles,200.0,0.01,2.0
+MedMen Paradise,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,1054.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1054.0,inf,LL - promo - singles,200.0,0.01,2.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,LL - promo - singles,200.0,0.01,2.0
+MedMen Spring Valley,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,LL - promo - singles,200.0,0.01,2.0
+Thrive Southern Highlands,0.0, Existing ,3/24/21,18619.0, Delivered ,3/31/21,6.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,LL - promo - singles,200.0,0.01,2.0
+Essence Durango,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,BOC - promo - singles,576.0,0.01,5.76
+Essence Henderson,Tyler,Exisitng,0.0,0.0,Delivered,12/28/20,32.4,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",32.4,inf,BOC - promo - singles,1080.0,0.01,10.8
+Essence Rainbow,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,BOC - promo - singles,576.0,0.01,5.76
+Essence Tropicana,Tyler,Exisiting,0.0,0.0,Delivered,12/28/20,27.36,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",27.36,inf,BOC - promo - singles,912.0,0.01,9.120000000000001
+Essence Strip,Tyler,Exisitng,0.0,0.0,Delivered,1/4/21,12.96,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",12.96,inf,BOC - promo - singles,432.0,0.01,4.32
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,BOC - promo - singles,576.0,0.01,5.76
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,8.64,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",8.64,inf,BOC - promo - singles,288.0,0.01,2.88
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/14/21,164.15,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",164.15,9.119444444444445,BOC - promo - singles,67.0,0.01,0.67
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,BOC - promo - singles,418.0,0.01,4.18
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,BOC - promo - singles,100.0,0.01,1.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/15/21,223.69,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",223.69,9.320416666666667,BOC - promo - singles,256.0,0.01,2.56
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,BOC - promo - singles,100.0,0.01,1.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,BOC - promo - singles,100.0,0.01,1.0
+Essence Henderson,0.0,Existing,3/2/21,0.0, Delivered ,3/8/21,1053.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1053.0,9.0,BOC - promo - singles,600.0,0.01,6.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,BOC - promo - singles,264.0,0.01,2.64
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,BOC - promo - singles,264.0,0.01,2.64
+Las Vegas ReLeaf,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,BOC - promo - singles,100.0,0.01,1.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,BOC - promo - singles,264.0,0.01,2.64
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,BOC - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,BOC - promo - singles,120.0,0.01,1.2
+Thrive North Las Vegas,0.0,Existing,3/9/21,18530.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,BOC - promo - singles,100.0,0.01,1.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18531.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,BOC - promo - singles,100.0,0.01,1.0
+Thrive West Sahara,0.0,Existing,3/9/21,18532.0, Delivered ,3/11/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,BOC - promo - singles,200.0,0.01,2.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,BOC - promo - singles,33.0,0.01,0.33
+Thrive Reno,0.0,Existing,3/9/21,18533.0, Delivered ,3/12/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,BOC - promo - singles,200.0,0.01,2.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,BOC - promo - singles,120.0,0.01,1.2
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18541.0, Delivered ,3/22/21,603.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",603.0,30.15,BOC - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0, Extisting ,3/17/21,18690.0, Delivered ,3/26/21,582.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",582.0,9.09375,BOC - promo - singles,200.0,0.01,2.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,BOC - promo - singles,200.0,0.01,2.0
+MedMen DTLV,0.0, Existing ,3/17/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen DTLV,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen Paradise,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,1054.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1054.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,BOC - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,BOC - promo - singles,100.0,0.01,1.0
+Thrive Southern Highlands,0.0, Existing ,3/24/21,18619.0, Delivered ,3/31/21,6.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,BOC - promo - singles,200.0,0.01,2.0
+Essence Durango,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,GR - promo - singles,576.0,0.01,5.76
+Essence Henderson,Tyler,Exisitng,0.0,0.0,Delivered,12/28/20,32.4,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",32.4,inf,GR - promo - singles,1080.0,0.01,10.8
+Essence Rainbow,Christy,Exisiting,0.0,0.0,Delivered,12/28/20,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,GR - promo - singles,576.0,0.01,5.76
+Essence Tropicana,Tyler,Exisiting,0.0,0.0,Delivered,12/28/20,27.36,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",27.36,inf,GR - promo - singles,912.0,0.01,9.120000000000001
+Essence Strip,Tyler,Exisitng,0.0,0.0,Delivered,1/4/21,12.96,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",12.96,inf,GR - promo - singles,432.0,0.01,4.32
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/5/21,17.28,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",17.28,inf,GR - promo - singles,576.0,0.01,5.76
+Rise Spanish Springs,Tyler,Existing,0.0,0.0,Delivered,1/5/21,8.64,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",8.64,inf,GR - promo - singles,288.0,0.01,2.88
+Essence Durango,Christy,Existing,0.0,0.0,Delivered,1/14/21,164.15,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",164.15,9.119444444444445,GR - promo - singles,37.0,0.01,0.37
+Essence Henderson,Tyler,Exisiting,0.0,0.0,Delivered,1/14/21,606.7,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",606.7,9.192424242424243,GR - promo - singles,436.0,0.01,4.36
+Essence Rainbow,Christy,Existing,0.0,0.0,Delivered,1/14/21,435.0,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",435.0,9.0625,GR - promo - singles,100.0,0.01,1.0
+Rise Carson City,Tyler,Existing,0.0,0.0,Delivered,1/15/21,223.69,"{'N': '9', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",223.69,9.320416666666667,GR - promo - singles,256.0,0.01,2.56
+Jardin,0.0,Existing,2/28/21,0.0, Delivered ,3/2/21,3.8,"{'N': '9', 'W': '7', 'Y': '3', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,GR - promo - singles,100.0,0.01,1.0
+Essence Rainbow,0.0,Existing,3/2/21,0.0, Delivered ,3/5/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,GR - promo - singles,100.0,0.01,1.0
+Essence Henderson,0.0,Existing,3/2/21,0.0, Delivered ,3/8/21,1053.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1053.0,9.0,GR - promo - singles,600.0,0.01,6.0
+Essence Durango,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,990.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",990.0,9.0,GR - promo - singles,264.0,0.01,2.64
+Essence Tropicana,0.0,Existing,3/2/21,0.0, Delivered ,3/9/21,918.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",918.0,9.0,GR - promo - singles,264.0,0.01,2.64
+Las Vegas ReLeaf,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,GR - promo - singles,100.0,0.01,1.0
+Rise Carson City,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,1260.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1260.0,9.0,GR - promo - singles,264.0,0.01,2.64
+Rise Spanish Springs,0.0,Existing,3/2/21,0.0, Delivered ,3/10/21,513.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",513.0,9.0,GR - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0,Existing,3/3/21,0.0, Delivered ,3/10/21,792.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",792.0,9.0,GR - promo - singles,120.0,0.01,1.2
+Thrive North Las Vegas,0.0,Existing,3/9/21,18530.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,GR - promo - singles,100.0,0.01,1.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18531.0, Delivered ,3/11/21,3.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",3.0,inf,GR - promo - singles,100.0,0.01,1.0
+Thrive West Sahara,0.0,Existing,3/9/21,18532.0, Delivered ,3/11/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,GR - promo - singles,200.0,0.01,2.0
+Pisos,0.0, New ,3/9/21,18540.0, Delivered ,3/12/21,326.11,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",325.0,9.027777777777779,GR - promo - singles,33.0,0.01,0.33
+Thrive Reno,0.0,Existing,3/9/21,18533.0, Delivered ,3/12/21,6.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,GR - promo - singles,200.0,0.01,2.0
+Thrive Southern Highlands,0.0,Existing,3/9/21,18536.0, Delivered ,3/15/21,541.08,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",540.0,9.0,GR - promo - singles,120.0,0.01,1.2
+MedMen DTLV,0.0, Existing ,3/15/21,18544.0, Delivered ,3/22/21,423.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",423.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen Paradise,0.0,Existing,3/15/21,18543.0, Delivered ,3/22/21,1050.6,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01'}",1050.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18541.0, Delivered ,3/22/21,603.0,"{'N': '9', 'W': '3', 'Y': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",603.0,30.15,GR - promo - singles,100.0,0.01,1.0
+Thrive North Las Vegas,0.0, Extisting ,3/17/21,18690.0, Delivered ,3/26/21,582.0,"{'N': '9', 'X': '0.01', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",582.0,9.09375,GR - promo - singles,200.0,0.01,2.0
+Essence Rainbow,0.0, Existing ,3/18/21,18621.0, Delivered ,3/29/21,816.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",816.0,9.066666666666666,GR - promo - singles,200.0,0.01,2.0
+MedMen DTLV,0.0, Existing ,3/17/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen DTLV,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen Paradise,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,1054.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",1054.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0, Existing ,3/15/21,18605.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GR - promo - singles,100.0,0.01,1.0
+MedMen Spring Valley,0.0,Existing,3/15/21,0.0, Delivered ,3/31/21,304.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",304.0,inf,GR - promo - singles,100.0,0.01,1.0
+Thrive Southern Highlands,0.0, Existing ,3/24/21,18619.0, Delivered ,3/31/21,6.0,"{'N': '9', 'X': '3', 'Z': '7', 'R': '0.01', 'V': '0.01', 'AD': '0.01'}",6.0,inf,GR - promo - singles,200.0,0.01,2.0
