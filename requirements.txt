@@ -1,6 +1,4 @@
 pyxlsb
-subprocess
-sys
 pandas
 np
 gspread
