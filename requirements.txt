@@ -1,5 +1,4 @@
 pyxlsb
-io
 subprocess
 sys
 pandas
