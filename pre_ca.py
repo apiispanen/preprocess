@@ -161,8 +161,7 @@ def remove_dtc_accounts(df):
     dtc_accounts = ["GrassDoor"]
     return df[df["account"].apply(lambda x: x not in dtc_accounts)]
 
-ca_data_with_date = ca_data.drop(columns=ca_cols_to_drop) \
-    .assign(use_date=lambda x: pd.to_datetime(x["Date"]),
+ca_data_with_date = ca_data.drop(columns=ca_cols_to_drop).assign(use_date=lambda x: pd.to_datetime(x["Date"]),
             state="CA",
             door=lambda x: x["Company"],
             account=lambda x: x["Chain"],
@@ -174,13 +173,10 @@ ca_data_with_date = ca_data.drop(columns=ca_cols_to_drop) \
             quantity=lambda x: x["Units"].apply(convert_excel_num_to_float),
             full_price=lambda x: x["Full Price"].apply(convert_excel_num_to_float),
             discount=lambda x: x["Discount"].apply(convert_excel_num_to_float),
-            dollar_vol=lambda x: x["full_price"] - x["discount"]) \
-    .pipe(remove_dtc_accounts) \
-    .query("use_date < Timestamp('2022-04-01 00:00:00')")
+            dollar_vol=lambda x: x["full_price"] - x["discount"]).pipe(remove_dtc_accounts).query("use_date < Timestamp('2022-04-01 00:00:00')")
 
 
-ca_updated_with_date = ca_updated \
-    .assign(use_date=lambda x: pd.to_datetime(x["Date"]),
+ca_updated_with_date = ca_updated.assign(use_date=lambda x: pd.to_datetime(x["Date"]),
             state="CA",
             door=lambda x: x["Company"],
             account=lambda x: x["Chain"],
@@ -192,9 +188,7 @@ ca_updated_with_date = ca_updated \
             quantity=lambda x: x["Units"].apply(convert_excel_num_to_float),
             full_price=lambda x: x["Full Price"].apply(convert_excel_num_to_float),
             discount=lambda x: x["Discount"].apply(convert_excel_num_to_float),
-            dollar_vol=lambda x: x["full_price"] - x["discount"]) \
-    .pipe(remove_dtc_accounts) \
-    .query("use_date >= Timestamp('2022-04-01 00:00:00')")
+            dollar_vol=lambda x: x["full_price"] - x["discount"]).pipe(remove_dtc_accounts).query("use_date >= Timestamp('2022-04-01 00:00:00')")
 
 ca_columns = ["use_date", "state", "door", "account", "ext_doc_id", "ext_doc_type", "product_name", "promo_name", "unit_price", "quantity", "full_price", "discount", "dollar_vol"]
 # Using Concatenate function to merging the two updated data frame and the other dataframe
