@@ -23,7 +23,7 @@ sheet.clear()
 set_with_dataframe(worksheet=sheet, dataframe=combined_with_manual_sku_map, include_index=False,
 include_column_header=True, resize=True)
 
-success_messsage = 'Import Completed!'
+success_messsage = 'Import to Drive & Tableau Completed!'
 
 
 # data = sheet.get_all_records()

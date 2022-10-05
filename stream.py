@@ -4,8 +4,8 @@ import subprocess
 import sys
 
 # CHECK DEPENDENCIES:
-subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
-'gspread_dataframe'])
+# subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
+# 'gspread_dataframe'])
 
 st.session_state['processed'] = 0
 
@@ -81,4 +81,4 @@ while st.session_state['processed'] == True:
     col2.button('Push to Tableau', on_click=google_it)
 
 
-st.write(st.session_state)
+# st.write(st.session_state)
