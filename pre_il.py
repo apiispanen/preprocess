@@ -56,8 +56,7 @@ il_apr_jun_21 = il_apr_jun_21_raw_data.assign(use_date=lambda x: pd.to_datetime(
                                                 discount=lambda x: 0,
                                                 dollar_vol=lambda x: x["dollar_val"],
                                                # Delivery=lambda x:x["Delivery"],
-                                                assigned_rep=None) \
-    .pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL")
+                                                assigned_rep=None).pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL")
 
 il_jul_dec_21_raw_data = pd.read_csv("il_jul_dec_21.csv")
 il_jul_dec_21 = il_jul_dec_21_raw_data.assign(use_date=lambda x: pd.to_datetime(x["Day"]),
@@ -74,9 +73,7 @@ il_jul_dec_21 = il_jul_dec_21_raw_data.assign(use_date=lambda x: pd.to_datetime(
                                                 discount=lambda x: 0,
                                                 dollar_vol=lambda x: x["full_price"],
                                                # Delivery=lambda x:x["Delivery"],
-                                                assigned_rep=None) \
-    .pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL") \
-    .query("use_date < Timestamp('2022-01-01 00:00:00')") # Should be the min of the prior dataset
+                                                assigned_rep=None).pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL").query("use_date < Timestamp('2022-01-01 00:00:00')") # Should be the min of the prior dataset
 
 
 # Do you want to use order create or delivery date?
@@ -98,8 +95,7 @@ def proc_il_data(df):
                                     discount=lambda x: 0,
                                     dollar_vol=lambda x: x["unit_price"] * x["quantity"],
                                     #Delivery=lambda x:x["Delivery"],w
-                                    assigned_rep=None) \
-    .pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL")
+                                    assigned_rep=None).pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL")
     return df
 
 
@@ -112,11 +108,8 @@ def add_Delivery_il(door):
 
 
 
-il_data_with_date = il_data.pipe(proc_il_data) \
-    .query("use_date >= Timestamp('2022-01-01 00:00:00')") \
-    .pipe(filter_pre_april_2022)
+il_data_with_date = il_data.pipe(proc_il_data).query("use_date >= Timestamp('2022-01-01 00:00:00')").pipe(filter_pre_april_2022)
 
-il_updated_with_date = il_updated.pipe(proc_il_data) \
-    .pipe(filter_post_april_2022)
+il_updated_with_date = il_updated.pipe(proc_il_data).pipe(filter_post_april_2022)
 
 # print(il_updated_with_date)
