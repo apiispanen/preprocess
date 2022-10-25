@@ -4,3 +4,4 @@ np
 gspread
 datetime
 gspread_dataframe
+xlsxwriter
