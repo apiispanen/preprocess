@@ -7,7 +7,7 @@ import sys
 # subprocess.check_call([sys.executable, '-m', 'pip', 'install', 
 # 'gspread_dataframe'])
 
-st.session_state['processed'] = 0
+st.session_state['processed'] = True
 
 from pyxlsb import open_workbook as open_xlsb
 
