@@ -108,7 +108,7 @@ def add_Delivery_il(door):
 
 
 
-il_data_with_date = il_data.pipe(proc_il_data).query("use_date >= Timestamp('2022-01-01 00:00:00')").pipe(filter_pre_april_2022)
+il_data_with_date = il_data.pipe(proc_il_data).query("use_date >= '2022-01-01 00:00:00'").pipe(filter_pre_april_2022)
 
 il_updated_with_date = il_updated.pipe(proc_il_data).pipe(filter_post_april_2022)
 
