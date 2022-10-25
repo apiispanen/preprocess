@@ -184,8 +184,8 @@ def split_acct_and_door(x):
 
 def filter_pre_april_2022(df):
     df = df.copy()
-    return df.query("use_date < Timestamp('2022-04-01 00:00:00')")
+    return df.query("use_date < '2022-04-01 00:00:00'")
 
 def filter_post_april_2022(df):
     df = df.copy()
-    return df.query("use_date >= Timestamp('2022-04-01 00:00:00')")
+    return df.query("use_date >= '2022-04-01 00:00:00'")

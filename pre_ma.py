@@ -30,13 +30,13 @@ def ma_processing_function(df):
 # What is 'Sale Price' in the original data source?
 ma_data_with_date = ma_data.pipe(ma_processing_function) \
     .pipe(correct_door_names, ref_dataset=ma_name_corrections, state="MA") \
-    .query("use_date >= Timestamp('2022-01-01 00:00:00')") \
-    .query("use_date < Timestamp('2022-04-01 00:00:00')")
+    .query("use_date >= '2022-01-01 00:00:00'") \
+    .query("use_date < '2022-04-01 00:00:00'")
 
 
 ma_updated_with_date = ma_updated.pipe(ma_processing_function) \
     .pipe(correct_door_names, ref_dataset=ma_name_corrections, state="MA") \
-    .query("use_date >= Timestamp('2022-04-01 00:00:00')")
+    .query("use_date >= '2022-04-01 00:00:00'")
 
 ma_mar_sep_21_raw = pd.read_csv("output_data/ma_mar_sep_21_extract.csv")
 ma_mar_sep_21 = ma_mar_sep_21_raw.assign(use_date=lambda x: pd.to_datetime(x["delivery_date"]),
