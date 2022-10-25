@@ -73,7 +73,7 @@ il_jul_dec_21 = il_jul_dec_21_raw_data.assign(use_date=lambda x: pd.to_datetime(
                                                 discount=lambda x: 0,
                                                 dollar_vol=lambda x: x["full_price"],
                                                # Delivery=lambda x:x["Delivery"],
-                                                assigned_rep=None).pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL").query("use_date < Timestamp('2022-01-01 00:00:00')") # Should be the min of the prior dataset
+                                                assigned_rep=None).pipe(correct_door_names, ref_dataset=il_name_corrections, state="IL").query("use_date < '2022-01-01 00:00:00'") # Should be the min of the prior dataset
 
 
 # Do you want to use order create or delivery date?
