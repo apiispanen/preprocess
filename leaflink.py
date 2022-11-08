@@ -50,9 +50,12 @@ headers = { 'Authorization':'Token '+apothca_token}
 #     'fields_include': 'buyer'
 # }
 
-leaf_req = requests.get(url, headers=headers)
+# leaf_req = requests.get(url, headers=headers)
 
-leaf_json = leaf_req.json()['results']
+# leaf_json = leaf_req.json()['results']
+
+
+
 
 # with open('leaf_json.json', 'w') as file:
 #     file.write(str(leaf_json))
@@ -61,6 +64,18 @@ leaf_json = leaf_req.json()['results']
 # print(leaf_json)
 
 
-# print([line_item for line_item in results['line_items']])
+url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=cf5e4e9a278d3c77dbd6492bb0e312db&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E&'
 
-# print([order['results'] for order in leaf_req.text])
+'Report0'
+# query = requests.get(url)
+# from bs4 import BeautifulSoup as bs
+# soup = bs(query.text)
+# print(soup.table.prettify())
+
+
+import pandas as pd
+encompass = pd.read_html(url)
+encompass[0].to_csv('encompass.csv')
+# print(encompass)
+
+# print(query.text)

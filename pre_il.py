@@ -8,7 +8,7 @@ il_updated = pd.read_csv("data/il_updated.csv")
 
 def correct_door_names_func(door, account, ref_dataset, state):
     # print(door)
-    usedoor = (account + " - " + door) if state in ["IL"] else door
+    usedoor = (account + " - " + door) if state in ["IL"] else door 
     if usedoor in ref_dataset.index:
         # print("Triggered")
         new_door = ref_dataset.loc[usedoor]["New Door Name for Database"]
@@ -39,7 +39,6 @@ il_apr_jun_21_raw_data = pd.read_csv("output_data/il_apr_jun_21_extract.csv")
 acct_and_door = il_apr_jun_21_raw_data["Name"].apply(split_acct_and_door)
 il_apr_jun_21_raw_data["account"] = acct_and_door.apply(lambda x: x[0] if len(x) > 1 else "")
 il_apr_jun_21_raw_data["door"] = acct_and_door.apply(lambda x: x[1] if len(x) > 1 else x[0])
-
 
 
 il_apr_jun_21 = il_apr_jun_21_raw_data.assign(use_date=lambda x: pd.to_datetime(x["delivery_date"]),
