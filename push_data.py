@@ -16,7 +16,7 @@ from gspread_dataframe import set_with_dataframe
 from oauth2client.service_account import ServiceAccountCredentials
 
 # KEEP CREDS.JSON, AS IT SERVES THE AUTH KEY FOR THIS PROJECT
-creds = ServiceAccountCredentials.from_json_keyfile_name("creds.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_dict("creds.json", scope)
 client = gspread.authorize(creds)
 sheet = client.open("CANN SALES").worksheet("Sheet1")
 sheet.clear()
