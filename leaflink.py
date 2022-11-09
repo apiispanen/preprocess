@@ -64,8 +64,6 @@ headers = { 'Authorization':'Token '+apothca_token}
 # print(leaf_json)
 
 
-url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=cf5e4e9a278d3c77dbd6492bb0e312db&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E&'
-
 'Report0'
 # query = requests.get(url)
 # from bs4 import BeautifulSoup as bs
@@ -74,6 +72,10 @@ url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sa
 
 
 import pandas as pd
+
+
+# Filter out chain
+url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=1569376e7016fd1e065aafba93521b27&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E|F:ChainID~V:78%5E5~O:NE|F:ParentChain~V:GrassDoor%5EMedMen~O:NE&'
 encompass = pd.read_html(url)
 encompass[0].to_csv('encompass.csv')
 # print(encompass)

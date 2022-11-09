@@ -9,21 +9,24 @@ import pandas as pd
 from pre_combined import *
 # combined_with_manual_sku_map
 
-scope =  ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/drive.file', "https://www.googleapis.com/auth/drive","https://www.googleapis.com/auth/drive"]
 
 import gspread
 from gspread_dataframe import set_with_dataframe
 from oauth2client.service_account import ServiceAccountCredentials
+from security.getjson import creds
 
-# KEEP CREDS.JSON, AS IT SERVES THE AUTH KEY FOR THIS PROJECT
-creds = ServiceAccountCredentials.from_json_keyfile_dict("creds.json", scope)
-client = gspread.authorize(creds)
-sheet = client.open("CANN SALES").worksheet("Sheet1")
-sheet.clear()
-set_with_dataframe(worksheet=sheet, dataframe=combined_with_manual_sku_map, include_index=False,
-include_column_header=True, resize=True)
+def push_data(df, filepath = "CANN SALES", creds=creds):
+    scope =  ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/drive.file', "https://www.googleapis.com/auth/drive","https://www.googleapis.com/auth/drive"]
+    # KEEP CREDS.JSON, AS IT SERVES THE AUTH KEY FOR THIS PROJECT
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(creds, scope)
+    client = gspread.authorize(creds)
+    openfile = client.open(filepath)
+    sheet =openfile.worksheet("push_data")
+    openfile.values_clear("push_data!A2:D")
+    set_with_dataframe(worksheet=sheet, dataframe=df, include_column_header=True, include_index=True, resize=False)
 
-success_messsage = 'Import to Drive & Tableau Completed!'
+    success_messsage = 'Import to Drive & Tableau Completed!'
+    print('PUSHED TO EXCEL')
 
 
 # data = sheet.get_all_records()

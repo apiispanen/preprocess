@@ -9,6 +9,8 @@ import sys
 
 st.session_state['processed'] = True
 
+
+
 from pyxlsb import open_workbook as open_xlsb
 
 def load_data():
@@ -30,15 +32,6 @@ def load_data():
             if option == "MA":
                 from pre_ma import ma_updated_with_date
                 st.write(ma_updated_with_date)
-
-
-c = st.container()
-c.write('SOCALI TABLEAU DATA ETL PREPROCESSOR')
-if c.button("Load Data"):
-    load_data()
-    st.session_state['load_data'] = True
-else:
-    load_data()
 
 
 def to_excel(df):
@@ -66,6 +59,38 @@ def process():
         from pre_combined import combined_with_manual_sku_map
         st.session_state['processed'] = True
         return combined_with_manual_sku_map
+
+import pandas as pd
+url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=1569376e7016fd1e065aafba93521b27&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E|F:ChainID~V:78%5E5~O:NE|F:ParentChain~V:GrassDoor%5EMedMen~O:NE&'
+encompass = pd.read_html(url, header=[0])
+from push_data import push_data
+encompass_df = encompass[0]
+encompass_df = encompass_df.reset_index(drop=True)
+
+# encompass_df.index = encompass[0].iloc[0]
+st.write(encompass_df)
+
+d = st.container()
+d.write('SOCALI TABLEAU DATA ETL PREPROCESSOR')
+if d.button("Push Encompass Data to Sales Tracker"):
+
+    push_data(encompass_df, filepath="Cann - Q4'22 Rep Daily Sales Tracker")
+    encompass_csv = to_excel(encompass_df)
+    st.download_button('Download',encompass_csv, file_name="encompass_data.csv")
+    st.session_state['load_data'] = True
+    st.markdown('### Successfully pushed data to [Sales Tracker](https://docs.google.com/spreadsheets/d/1a8xoFcWd_a-Q1dkL06eUTO-JA4y9hO3wPgNyGQYBIAI/edit#gid=711100757)')
+else:
+    pass
+
+
+c = st.container()
+c.write('SOCALI TABLEAU DATA ETL PREPROCESSOR')
+if c.button("Load Presaved Data"):
+    load_data()
+    st.session_state['load_data'] = True
+else:
+    load_data()
+
 
 
 if st.button("Process"):
