@@ -55,8 +55,6 @@ def google_it():
     st.write(success_messsage)
     st.balloons()
 
-
-
 def process():
     with st.spinner(text="Being Processed... View Prints in Console Log"):
         from pre_combined import combined_with_manual_sku_map
@@ -64,7 +62,7 @@ def process():
         return combined_with_manual_sku_map
 
 import pandas as pd
-url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=1569376e7016fd1e065aafba93521b27&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E|F:ChainID~V:78%5E5~O:NE|F:ParentChain~V:GrassDoor%5EMedMen~O:NE&'
+url = 'https://kiva.encompass8.com/API?APICommand=ReportView&ReportName=All%20Sales&ReportID=13708091&BaseQuery=Sales&Action=Data&ReportIsEdit=True&Format=WebQuery&EncompassID=Kiva&QuickKey=ac7118ab386db05880f512c0b7ac683f&Parameters=F:ColumnValues~V:Company%5EDate%5EMonths~O:E|F:FieldValues~V:%24Vol~O:E|F:Period~V:ThisYear~O:E|F:YearInt~V:1~O:E|F:CloseDay~V:4~O:E|F:ChainID~V:78~O:NE|F:ParentChain~V:GrassDoor~O:NE&'
 encompass = pd.read_html(url, header=[0])
 from push_data import push_data
 encompass_df = encompass[0]
