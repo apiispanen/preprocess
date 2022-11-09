@@ -6,3 +6,4 @@ datetime
 gspread_dataframe
 xlsxwriter
 lxml
+oauth2client
