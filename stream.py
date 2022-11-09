@@ -76,7 +76,7 @@ if d.button("Push Encompass Data to Sales Tracker"):
 
     push_data(encompass_df, filepath="Cann - Q4'22 Rep Daily Sales Tracker")
     encompass_csv = to_excel(encompass_df)
-    st.download_button('Download',encompass_csv, file_name="encompass_data.csv")
+    st.download_button('Download Encompass Report',encompass_csv, file_name="encompass_data.csv")
     st.session_state['load_data'] = True
     st.markdown('### Successfully pushed data to [Sales Tracker](https://docs.google.com/spreadsheets/d/1a8xoFcWd_a-Q1dkL06eUTO-JA4y9hO3wPgNyGQYBIAI/edit#gid=711100757)')
 else:
