@@ -13,25 +13,28 @@ st.session_state['processed'] = True
 
 from pyxlsb import open_workbook as open_xlsb
 
-def load_data():
-    st.session_state['processed'] = False
-    options = c.multiselect(
-    'View Raw Databases',
-    ['CA', 'NV', 'IL', 'MA'])
-    with st.expander("Open to View Raw Databases"):
-        for option in options:
-            if option == "CA":
-                from pre_ca import ca_to_use
-                st.write(ca_to_use)
-            if option == "IL":
-                from pre_il import il_updated_with_date
-                st.write(il_updated_with_date)
-            if option == "NV":
-                from pre_nv import nv_updated_with_date
-                st.write(nv_updated_with_date)        
-            if option == "MA":
-                from pre_ma import ma_updated_with_date
-                st.write(ma_updated_with_date)
+
+# UNCOMMENT BELOW TO OPEN FULL PREPROCESS
+
+# def load_data():
+#     st.session_state['processed'] = False
+#     options = c.multiselect(
+#     'View Raw Databases',
+#     ['CA', 'NV', 'IL', 'MA'])
+#     with st.expander("Open to View Raw Databases"):
+#         for option in options:
+#             if option == "CA":
+#                 from pre_ca import ca_to_use
+#                 st.write(ca_to_use)
+#             if option == "IL":
+#                 from pre_il import il_updated_with_date
+#                 st.write(il_updated_with_date)
+#             if option == "NV":
+#                 from pre_nv import nv_updated_with_date
+#                 st.write(nv_updated_with_date)        
+#             if option == "MA":
+#                 from pre_ma import ma_updated_with_date
+#                 st.write(ma_updated_with_date)
 
 
 def to_excel(df):
@@ -77,33 +80,34 @@ if d.button("Push Encompass Data to Sales Tracker"):
     push_data(encompass_df, filepath="Cann - Q4'22 Rep Daily Sales Tracker")
     encompass_csv = to_excel(encompass_df)
     st.download_button('Download Encompass Report',encompass_csv, file_name="encompass_data.csv")
-    st.session_state['load_data'] = True
     st.markdown('### Successfully pushed data to [Sales Tracker](https://docs.google.com/spreadsheets/d/1a8xoFcWd_a-Q1dkL06eUTO-JA4y9hO3wPgNyGQYBIAI/edit#gid=711100757)')
 else:
     pass
 
 
-c = st.container()
-c.write('SOCALI TABLEAU DATA ETL PREPROCESSOR')
-if c.button("Load Presaved Data"):
-    load_data()
-    st.session_state['load_data'] = True
-else:
-    load_data()
+# UNCOMMENT BELOW FOR THE REST OF THE PREPROCESSOR
+
+# c = st.container()
+# c.write('SOCALI TABLEAU DATA ETL PREPROCESSOR')
+# if c.button("Load Presaved Data"):
+#     load_data()
+#     st.session_state['load_data'] = True
+# else:
+#     load_data()
 
 
 
-if st.button("Process"):
-    combined_with_manual_sku_map = process()
+# if st.button("Process"):
+#     combined_with_manual_sku_map = process()
 
 
-while st.session_state['processed'] == True:
-    col1, col2 = st.columns(2)
-    df_xlsx = to_excel(combined_with_manual_sku_map)
+# while st.session_state['processed'] == True:
+#     col1, col2 = st.columns(2)
+#     df_xlsx = to_excel(combined_with_manual_sku_map)
 
-    col1, col2 = st.columns(2)
-    col1.download_button('📥 Download', df_xlsx, file_name='CANN_SALES.xlsx')
-    col2.button('Push to Tableau', on_click=google_it)
+#     col1, col2 = st.columns(2)
+#     col1.download_button('📥 Download', df_xlsx, file_name='CANN_SALES.xlsx')
+#     col2.button('Push to Tableau', on_click=google_it)
 
 
-# st.write(st.session_state)
+## st.write(st.session_state)
